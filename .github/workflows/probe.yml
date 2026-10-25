@@ -1,11 +1,14 @@
 name: probe
 on: push
+permissions: {contents: write}
 jobs:
   probe:
+    if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
+      - uses: actions/checkout@v4
       - run: |
-          mkdir out
-          for t in BUF PIT LA; do curl -sSL -A "Mozilla/5.0" -o out/$t.html -w "$t %{http_code} %{size_download}\n" https://www.ourlads.com/nfldepthcharts/depthchart/$t; done
-      - uses: actions/upload-artifact@v4
-        with: {name: ourlads, path: out}
+          mkdir -p probe
+          for t in BUF PIT LA; do curl -sSL -A "Mozilla/5.0" -o probe/$t.html -w "$t %{http_code} %{size_download}\n" https://www.ourlads.com/nfldepthcharts/depthchart/$t; done
+          git config user.name github-actions[bot]; git config user.email 41898282+github-actions[bot]@users.noreply.github.com
+          git add probe && git commit -m "probe output" && git push
