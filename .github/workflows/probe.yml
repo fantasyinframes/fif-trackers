@@ -1,0 +1,11 @@
+name: probe
+on: push
+jobs:
+  probe:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+          mkdir out
+          for t in BUF PIT LA; do curl -sSL -A "Mozilla/5.0" -o out/$t.html -w "$t %{http_code} %{size_download}\n" https://www.ourlads.com/nfldepthcharts/depthchart/$t; done
+      - uses: actions/upload-artifact@v4
+        with: {name: ourlads, path: out}
