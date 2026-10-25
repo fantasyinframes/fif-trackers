@@ -22,7 +22,7 @@ URL = "https://www.ourlads.com/nfldepthcharts/depthchart/{}"
 ROSTER = "https://github.com/nflverse/nflverse-data/releases/download/rosters/roster_{}.csv"
 TEAMS = ["ARI", "ATL", "BAL", "BUF", "CAR", "CHI", "CIN", "CLE", "DAL", "DEN", "DET", "GB", "HOU", "IND", "JAX", "KC",
          "LA", "LAC", "LV", "MIA", "MIN", "NE", "NO", "NYG", "NYJ", "PHI", "PIT", "SEA", "SF", "TB", "TEN", "WAS"]
-OURLADS_CODE = {"ARI": ["ARZ", "ARI"]}  # tried in order
+OURLADS_CODE = {"ARI": ["ARZ", "ARI"], "LA": ["LAR", "LA"]}  # tried in order
 
 # IDP trackers' detailed labels (same table the trackers use)
 DETAIL = {"DE": "DE", "LDE": "DE", "RDE": "DE", "DT": "DT", "LDT": "DT", "RDT": "DT", "NT": "DT",
@@ -35,6 +35,8 @@ DETAIL = {"DE": "DE", "LDE": "DE", "RDE": "DE", "DT": "DT", "LDT": "DT", "RDT": 
 def group(label, three_four):
     """Combined-tracker position for a defensive depth-chart label."""
     d = DETAIL.get(label)
+    if label == "SLB" and three_four:  # 3-4 teams list a stand-up rusher at SLB (Thibodeaux, Nwosu)
+        return "EDGE"
     if d is None:
         return None
     if d == "DT":
@@ -140,6 +142,8 @@ def main():
                     page = fetch(URL.format(code))
                     time.sleep(1)
                 scheme, entries = parse_team(page)
+                if not scheme:  # not a team depth chart page (e.g. the wrong team code)
+                    raise ValueError("no defensive formation found")
                 break
             except Exception as e:  # try the next code
                 page = None
@@ -184,7 +188,7 @@ def main():
                     e["idp_pos"] = pos
                 else:
                     e["pos"] = pos
-                e["detail"] = DETAIL[label]
+                e["detail"] = "OLB" if (label == "SLB" and three_four) else DETAIL[label]
             e["team"] = team
             if before and {k: before.get(k) for k in ("pos", "wr", "detail", "idp_pos")} != \
                     {k: e.get(k) for k in ("pos", "wr", "detail", "idp_pos")}:
