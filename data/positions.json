@@ -1,11 +1,17 @@
 {
 "00-0023459": {
-"pos": "QB"
+"pos": "QB",
+"team": "PIT"
+},
+"00-0026158": {
+"pos": "QB",
+"team": "CIN"
 },
 "00-0026190": {
 "detail": "DE",
 "idp_name": "Calais Campbell",
-"pos": "IDL"
+"pos": "IDL",
+"team": "BAL"
 },
 "00-0026498": {
 "pos": "QB"
@@ -13,42 +19,52 @@
 "00-0027940": {
 "detail": "OLB",
 "idp_name": "Von Miller",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "DAL"
 },
 "00-0027962": {
 "detail": "OLB",
 "idp_name": "Cameron Jordan",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "NO"
 },
 "00-0027969": {
 "detail": "DT",
 "idp_name": "Cameron Heyward",
-"pos": "IDL"
+"pos": "IDL",
+"team": "PIT"
 },
 "00-0027973": {
-"pos": "QB"
+"pos": "QB",
+"team": "ATL"
 },
 "00-0028118": {
-"pos": "QB"
+"pos": "QB",
+"team": "GB"
 },
 "00-0028986": {
-"pos": "QB"
+"pos": "QB",
+"team": "CHI"
 },
 "00-0029604": {
-"pos": "QB"
+"pos": "QB",
+"team": "LV"
 },
 "00-0029606": {
 "detail": "FS",
 "idp_name": "Harrison Smith",
-"pos": "S"
+"pos": "S",
+"team": "MIN"
 },
 "00-0029607": {
 "detail": "ILB",
 "idp_name": "Demario Davis",
-"pos": "LB"
+"pos": "LB",
+"team": "NYJ"
 },
 "00-0029892": {
-"pos": "RB"
+"pos": "RB",
+"team": "SF"
 },
 "00-0030061": {
 "pos": "TE"
@@ -56,32 +72,39 @@
 "00-0030070": {
 "detail": "DT",
 "idp_name": "John Jenkins",
-"pos": "IDL"
+"pos": "IDL",
+"team": "BAL"
 },
 "00-0030279": {
 "pos": "WR",
+"team": "IND",
 "wr": "Outside"
 },
 "00-0030294": {
 "detail": "SS",
 "idp_name": "Tony Jefferson",
-"pos": "S"
+"pos": "S",
+"team": "LAC"
 },
 "00-0030506": {
-"pos": "TE"
+"pos": "TE",
+"team": "KC"
 },
 "00-0030565": {
-"pos": "QB"
+"pos": "QB",
+"team": "NYJ"
 },
 "00-0031040": {
 "detail": "OLB",
 "idp_name": "Khalil Mack",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "LAC"
 },
 "00-0031054": {
 "detail": "DT",
 "idp_name": "DaQuan Jones",
-"pos": "IDL"
+"pos": "IDL",
+"team": "NE"
 },
 "00-0031235": {
 "pos": "WR",
@@ -89,22 +112,26 @@
 },
 "00-0031236": {
 "pos": "WR",
+"team": "SF",
 "wr": "Outside"
 },
 "00-0031270": {
 "detail": "DT",
 "idp_name": "Shelby Harris",
-"pos": "IDL"
+"pos": "IDL",
+"team": "NYG"
 },
 "00-0031360": {
 "detail": "OLB",
 "idp_name": "Kyle Van Noy",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "MIN"
 },
 "00-0031364": {
 "detail": "DE",
 "idp_name": "Jadeveon Clowney",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "HOU"
 },
 "00-0031381": {
 "pos": "WR",
@@ -117,76 +144,98 @@
 },
 "00-0031408": {
 "pos": "WR",
+"team": "SF",
 "wr": "Outside"
 },
 "00-0031411": {
 "detail": "OLB",
 "idp_name": "DeMarcus Lawrence",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "SEA"
 },
 "00-0031484": {
-"pos": "TE"
+"pos": "TE",
+"team": "NYG"
 },
 "00-0031503": {
-"pos": "QB"
+"pos": "QB",
+"team": "NYG"
 },
 "00-0031565": {
 "detail": "DE",
 "idp_name": "Danielle Hunter",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "HOU"
 },
 "00-0031576": {
 "detail": "OLB",
 "idp_name": "Za'Darius Smith",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "ATL"
 },
 "00-0031583": {
 "detail": "DT",
 "idp_name": "Grady Jarrett",
-"pos": "IDL"
+"pos": "IDL",
+"team": "CHI"
 },
 "00-0031588": {
 "pos": "WR",
+"team": "WAS",
 "wr": "Slot"
 },
 "00-0031595": {
-"pos": "RB"
+"pos": "RB",
+"team": "CLE"
 },
 "00-0031610": {
-"pos": "TE"
+"pos": "TE",
+"team": "CAR"
+},
+"00-0031763": {
+"pos": "WR",
+"team": "DET",
+"wr": "Slot"
 },
 "00-0031898": {
 "detail": "ILB",
 "idp_name": "Alex Singleton",
-"pos": "LB"
+"pos": "LB",
+"team": "DEN"
 },
 "00-0031933": {
 "detail": "DE",
 "idp_name": "Leonard Williams",
-"pos": "IDL"
+"pos": "IDL",
+"team": "SEA"
 },
 "00-0031957": {
 "detail": "DE",
 "idp_name": "Rakeem Nu\u00f1ez-Roches",
-"pos": "IDL"
+"pos": "IDL",
+"team": "TB"
 },
 "00-0032052": {
-"detail": "OLB",
+"detail": "ILB",
 "idp_name": "Dante Fowler Jr.",
-"pos": "EDGE"
+"pos": "LB",
+"team": "SEA"
 },
 "00-0032104": {
-"pos": "RB"
+"pos": "RB",
+"team": "JAX"
 },
 "00-0032146": {
 "detail": "OLB",
 "idp_name": "Bud Dupree",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "LAC"
 },
 "00-0032164": {
 "detail": "DT",
 "idp_name": "Arik Armstead",
-"pos": "IDL"
+"pos": "IDL",
+"team": "JAX"
 },
 "00-0032265": {
 "detail": "DT",
@@ -194,12 +243,14 @@
 "pos": "IDL"
 },
 "00-0032268": {
-"pos": "QB"
+"pos": "QB",
+"team": "WAS"
 },
 "00-0032378": {
 "detail": "DT",
 "idp_name": "DeForest Buckner",
-"pos": "IDL"
+"pos": "IDL",
+"team": "IND"
 },
 "00-0032385": {
 "pos": "WR",
@@ -208,13 +259,16 @@
 "00-0032387": {
 "detail": "DT",
 "idp_name": "Jarran Reed",
-"pos": "IDL"
+"pos": "IDL",
+"team": "SEA"
 },
 "00-0032392": {
-"pos": "TE"
+"pos": "TE",
+"team": "ATL"
 },
 "00-0032394": {
-"pos": "TE"
+"pos": "TE",
+"team": "BAL"
 },
 "00-0032398": {
 "pos": "WR",
@@ -223,7 +277,8 @@
 "00-0032399": {
 "detail": "SS",
 "idp_name": "Miles Killebrew",
-"pos": "S"
+"pos": "S",
+"team": "TB"
 },
 "00-0032415": {
 "detail": "DE",
@@ -233,29 +288,35 @@
 "00-0032424": {
 "detail": "DT",
 "idp_name": "DJ Reader",
-"pos": "IDL"
+"pos": "IDL",
+"team": "NYG"
 },
 "00-0032464": {
 "pos": "WR",
+"team": "CHI",
 "wr": "Slot"
 },
 "00-0032580": {
 "detail": "CB",
 "idp_name": "Jonathan Jones",
-"pos": "CB"
+"pos": "CB",
+"team": "PHI"
 },
 "00-0032759": {
 "detail": "DT",
 "idp_name": "Sheldon Rankins",
-"pos": "IDL"
+"pos": "IDL",
+"team": "HOU"
 },
 "00-0032762": {
 "detail": "DT",
 "idp_name": "Chris Jones",
-"pos": "IDL"
+"pos": "IDL",
+"team": "KC"
 },
 "00-0032764": {
-"pos": "RB"
+"pos": "RB",
+"team": "BAL"
 },
 "00-0032775": {
 "pos": "WR",
@@ -269,19 +330,23 @@
 "00-0032889": {
 "detail": "DE",
 "idp_name": "A'Shawn Robinson",
-"pos": "IDL"
+"pos": "IDL",
+"team": "TB"
 },
 "00-0032950": {
-"pos": "QB"
+"pos": "QB",
+"team": "MIN"
 },
 "00-0032951": {
 "pos": "WR",
+"team": "IND",
 "wr": "Outside"
 },
 "00-0033038": {
 "detail": "FS",
 "idp_name": "Eric Murray",
-"pos": "S"
+"pos": "S",
+"team": "JAX"
 },
 "00-0033046": {
 "detail": "OLB",
@@ -296,18 +361,22 @@
 "00-0033055": {
 "detail": "SCB",
 "idp_name": "Jalen Ramsey",
-"pos": "CB"
+"pos": "CB",
+"team": "PIT"
 },
 "00-0033066": {
 "detail": "DT",
 "idp_name": "Andrew Billings",
-"pos": "IDL"
+"pos": "IDL",
+"team": "ARI"
 },
 "00-0033077": {
-"pos": "QB"
+"pos": "QB",
+"team": "DAL"
 },
 "00-0033090": {
-"pos": "TE"
+"pos": "TE",
+"team": "NE"
 },
 "00-0033093": {
 "detail": "DT",
@@ -315,7 +384,8 @@
 "pos": "EDGE"
 },
 "00-0033106": {
-"pos": "QB"
+"pos": "QB",
+"team": "DET"
 },
 "00-0033109": {
 "detail": "DT",
@@ -326,55 +396,68 @@
 "pos": "TE"
 },
 "00-0033119": {
-"pos": "QB"
+"pos": "QB",
+"team": "ARI"
 },
 "00-0033120": {
 "detail": "DT",
 "idp_name": "Kenny Clark",
-"pos": "IDL"
+"pos": "IDL",
+"team": "DAL"
 },
 "00-0033131": {
 "detail": "DT",
 "idp_name": "Maliek Collins",
-"pos": "IDL"
+"pos": "IDL",
+"team": "CLE"
 },
 "00-0033132": {
 "detail": "FS",
 "idp_name": "Kevin Byard III",
-"pos": "S"
+"pos": "S",
+"team": "NE"
 },
 "00-0033217": {
-"pos": "TE"
+"pos": "TE",
+"team": "IND"
 },
 "00-0033246": {
-"pos": "TE"
+"pos": "TE",
+"team": "PHI"
 },
 "00-0033280": {
-"pos": "RB"
+"pos": "RB",
+"team": "SF"
 },
 "00-0033281": {
 "detail": "CB",
 "idp_name": "Marlon Humphrey",
-"pos": "CB"
+"pos": "CB",
+"team": "BAL"
 },
 "00-0033288": {
-"pos": "TE"
+"pos": "TE",
+"team": "SF"
 },
 "00-0033293": {
-"pos": "RB"
+"pos": "RB",
+"team": "MIN"
 },
 "00-0033294": {
 "detail": "SS",
 "idp_name": "Chuck Clark",
-"pos": "S"
+"pos": "S",
+"team": "DET"
 },
 "00-0033297": {
 "detail": "DT",
 "idp_name": "D.J. Jones",
-"pos": "IDL"
+"pos": "IDL",
+"team": "DEN"
 },
 "00-0033307": {
 "pos": "WR",
+"team": "ARI",
 "wr": "Slot"
 },
 "00-0033319": {
@@ -383,7 +466,8 @@
 "00-0033336": {
 "detail": "ILB",
 "idp_name": "Eric Wilson",
-"pos": "LB"
+"pos": "LB",
+"team": "MIN"
 },
 "00-0033347": {
 "detail": "DT",
@@ -392,56 +476,68 @@
 },
 "00-0033375": {
 "pos": "WR",
+"team": "NYJ",
 "wr": "Outside"
 },
 "00-0033376": {
-"pos": "RB"
+"pos": "RB",
+"team": "NYG"
 },
 "00-0033381": {
 "detail": "DT",
 "idp_name": "Adam Butler",
-"pos": "IDL"
+"pos": "IDL",
+"team": "LV"
 },
 "00-0033393": {
 "detail": "SS",
 "idp_name": "Kenny Moore II",
-"pos": "S"
+"pos": "S",
+"team": "PHI"
 },
 "00-0033439": {
-"pos": "TE"
+"pos": "TE",
+"team": "IND"
 },
 "00-0033523": {
 "detail": "DT",
 "idp_name": "Jonathan Allen",
-"pos": "IDL"
+"pos": "IDL",
+"team": "CIN"
 },
 "00-0033526": {
-"pos": "RB"
+"pos": "RB",
+"team": "CIN"
 },
 "00-0033537": {
-"pos": "QB"
+"pos": "QB",
+"team": "CLE"
 },
 "00-0033546": {
 "detail": "DT",
 "idp_name": "Dalvin Tomlinson",
-"pos": "IDL"
+"pos": "IDL",
+"team": "LAC"
 },
 "00-0033548": {
 "detail": "CB",
 "idp_name": "Chidobe Awuzie",
-"pos": "CB"
+"pos": "CB",
+"team": "BAL"
 },
 "00-0033551": {
 "detail": "CB",
 "idp_name": "Rasul Douglas",
-"pos": "CB"
+"pos": "CB",
+"team": "WAS"
 },
 "00-0033555": {
 "pos": "WR",
 "wr": "Outside"
 },
 "00-0033576": {
-"pos": "TE"
+"pos": "TE",
+"team": "SEA"
 },
 "00-0033579": {
 "detail": "FS",
@@ -450,53 +546,68 @@
 },
 "00-0033589": {
 "pos": "WR",
+"team": "CAR",
 "wr": "Outside"
 },
 "00-0033662": {
 "pos": "QB"
 },
 "00-0033699": {
-"pos": "RB"
+"pos": "RB",
+"team": "WAS"
 },
 "00-0033757": {
-"pos": "TE"
+"pos": "TE",
+"team": "PIT"
 },
 "00-0033854": {
-"pos": "RB"
+"pos": "RB",
+"team": "HOU"
 },
 "00-0033858": {
-"pos": "TE"
+"pos": "TE",
+"team": "GB"
 },
 "00-0033860": {
 "detail": "DT",
 "idp_name": "Davon Godchaux",
-"pos": "IDL"
+"pos": "IDL",
+"team": "NO"
 },
 "00-0033868": {
 "detail": "DE",
 "idp_name": "Myles Garrett",
 "pos": "EDGE"
 },
+"00-0033869": {
+"pos": "QB",
+"team": "TEN"
+},
 "00-0033870": {
 "detail": "DT",
 "idp_name": "Solomon Thomas",
-"pos": "IDL"
+"pos": "IDL",
+"team": "TEN"
 },
 "00-0033873": {
-"pos": "QB"
+"pos": "QB",
+"team": "KC"
 },
 "00-0033876": {
 "detail": "DE",
 "idp_name": "Derek Barnett",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "CLE"
 },
 "00-0033877": {
 "detail": "FS",
 "idp_name": "Malik Hooker",
-"pos": "S"
+"pos": "S",
+"team": "DAL"
 },
 "00-0033881": {
-"pos": "TE"
+"pos": "TE",
+"team": "DEN"
 },
 "00-0033885": {
 "pos": "TE"
@@ -504,43 +615,52 @@
 "00-0033886": {
 "detail": "OLB",
 "idp_name": "T.J. Watt",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "PIT"
 },
 "00-0033890": {
 "detail": "SS",
 "idp_name": "Budda Baker",
-"pos": "S"
+"pos": "S",
+"team": "ARI"
 },
 "00-0033906": {
-"pos": "RB"
+"pos": "RB",
+"team": "NO"
 },
 "00-0033908": {
 "pos": "WR",
+"team": "SEA",
 "wr": "Slot"
 },
 "00-0033914": {
 "detail": "ILB",
 "idp_name": "Alex Anzalone",
-"pos": "LB"
+"pos": "LB",
+"team": "TB"
 },
 "00-0033918": {
 "detail": "CB",
 "idp_name": "Fabian Moreau",
-"pos": "CB"
+"pos": "CB",
+"team": "WAS"
 },
 "00-0033921": {
 "pos": "WR",
+"team": "TB",
 "wr": "Slot"
 },
 "00-0033928": {
 "detail": "SCB",
 "idp_name": "Jourdan Lewis",
-"pos": "CB"
+"pos": "CB",
+"team": "JAX"
 },
 "00-0033935": {
 "detail": "OLB",
 "idp_name": "Trey Hendrickson",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "BAL"
 },
 "00-0033941": {
 "detail": "SS",
@@ -550,28 +670,34 @@
 "00-0033945": {
 "detail": "OLB",
 "idp_name": "Samson Ebukam",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "ATL"
 },
 "00-0033947": {
 "detail": "DE",
 "idp_name": "Deatrich Wise Jr.",
-"pos": "IDL"
+"pos": "IDL",
+"team": "WAS"
 },
 "00-0033949": {
-"pos": "QB"
+"pos": "QB",
+"team": "DET"
 },
 "00-0033952": {
 "detail": "DT",
 "idp_name": "Grover Stewart",
-"pos": "IDL"
+"pos": "IDL",
+"team": "IND"
 },
 "00-0033955": {
-"pos": "RB"
+"pos": "RB",
+"team": "WAS"
 },
 "00-0033964": {
 "detail": "OLB",
 "idp_name": "Al-Quadin Muhammad",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "TB"
 },
 "00-0034091": {
 "detail": "SS",
@@ -581,7 +707,8 @@
 "00-0034163": {
 "detail": "DE",
 "idp_name": "Jacob Martin",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "TEN"
 },
 "00-0034234": {
 "detail": "DT",
@@ -591,10 +718,12 @@
 "00-0034248": {
 "detail": "SS",
 "idp_name": "Elijah Campbell",
-"pos": "S"
+"pos": "S",
+"team": "NYG"
 },
 "00-0034270": {
-"pos": "TE"
+"pos": "TE",
+"team": "DET"
 },
 "00-0034272": {
 "pos": "WR",
@@ -603,32 +732,43 @@
 "00-0034275": {
 "detail": "DT",
 "idp_name": "Folorunso Fatukasi",
-"pos": "IDL"
+"pos": "IDL",
+"team": "LV"
+},
+"00-0034277": {
+"detail": "FS",
+"pos": "S",
+"team": "PIT"
 },
 "00-0034278": {
 "detail": "CB",
 "idp_name": "Tremon Smith",
-"pos": "CB"
+"pos": "CB",
+"team": "HOU"
 },
 "00-0034285": {
 "detail": "DT",
 "idp_name": "Zach Sieler",
-"pos": "IDL"
+"pos": "IDL",
+"team": "MIA"
 },
 "00-0034302": {
 "detail": "ILB",
 "idp_name": "Frankie Luvu",
-"pos": "LB"
+"pos": "LB",
+"team": "WAS"
 },
 "00-0034320": {
 "detail": "DT",
 "idp_name": "Kentavius Street",
-"pos": "IDL"
+"pos": "IDL",
+"team": "CHI"
 },
 "00-0034333": {
 "detail": "DE",
 "idp_name": "Daron Payne",
-"pos": "IDL"
+"pos": "IDL",
+"team": "WAS"
 },
 "00-0034344": {
 "detail": "DE",
@@ -637,25 +777,30 @@
 },
 "00-0034348": {
 "pos": "WR",
+"team": "DEN",
 "wr": "Outside"
 },
 "00-0034350": {
-"detail": "OLB",
+"detail": "ILB",
 "idp_name": "Uchenna Nwosu",
-"pos": "EDGE"
+"pos": "LB",
+"team": "SEA"
 },
 "00-0034351": {
-"pos": "TE"
+"pos": "TE",
+"team": "PHI"
 },
 "00-0034355": {
-"detail": "SS",
+"detail": "FS",
 "idp_name": "M.J. Stewart",
-"pos": "S"
+"pos": "S",
+"team": "HOU"
 },
 "00-0034356": {
 "detail": "CB",
 "idp_name": "Donte Jackson",
-"pos": "CB"
+"pos": "CB",
+"team": "LAC"
 },
 "00-0034357": {
 "detail": "SS",
@@ -665,10 +810,12 @@
 "00-0034361": {
 "detail": "SS",
 "idp_name": "Justin Reid",
-"pos": "S"
+"pos": "S",
+"team": "NO"
 },
 "00-0034365": {
-"pos": "TE"
+"pos": "TE",
+"team": "LV"
 },
 "00-0034371": {
 "detail": "DT",
@@ -678,12 +825,14 @@
 "00-0034373": {
 "detail": "OLB",
 "idp_name": "Dorance Armstrong",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "WAS"
 },
 "00-0034376": {
 "detail": "SCB",
 "idp_name": "Taron Johnson",
-"pos": "CB"
+"pos": "CB",
+"team": "LV"
 },
 "00-0034377": {
 "detail": "FS",
@@ -693,34 +842,41 @@
 "00-0034381": {
 "detail": "OLB",
 "idp_name": "Josh Sweat",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "ARI"
 },
 "00-0034383": {
-"pos": "TE"
+"pos": "TE",
+"team": "HOU"
 },
 "00-0034384": {
 "detail": "CB",
 "idp_name": "D.J. Reed",
-"pos": "CB"
+"pos": "CB",
+"team": "DET"
 },
 "00-0034386": {
 "pos": "WR",
+"team": "KC",
 "wr": "Outside"
 },
 "00-0034391": {
 "detail": "SCB",
 "idp_name": "Siran Neal",
-"pos": "CB"
+"pos": "CB",
+"team": "SF"
 },
 "00-0034397": {
 "detail": "DT",
 "idp_name": "Tim Settle",
-"pos": "IDL"
+"pos": "IDL",
+"team": "WAS"
 },
 "00-0034413": {
 "detail": "ILB",
 "idp_name": "Foyesade Oluokun",
-"pos": "LB"
+"pos": "LB",
+"team": "JAX"
 },
 "00-0034419": {
 "pos": "WR",
@@ -729,7 +885,8 @@
 "00-0034431": {
 "detail": "ILB",
 "idp_name": "Zaire Franklin",
-"pos": "LB"
+"pos": "LB",
+"team": "GB"
 },
 "00-0034446": {
 "detail": "SCB",
@@ -739,17 +896,20 @@
 "00-0034465": {
 "detail": "SS",
 "idp_name": "Jeremy Reaves",
-"pos": "S"
+"pos": "S",
+"team": "WAS"
 },
 "00-0034473": {
 "detail": "ILB",
 "idp_name": "Dennis Gardeck",
-"pos": "LB"
+"pos": "LB",
+"team": "JAX"
 },
 "00-0034485": {
 "detail": "FS",
 "idp_name": "Jonathan Owens",
-"pos": "S"
+"pos": "S",
+"team": "IND"
 },
 "00-0034487": {
 "pos": "WR",
@@ -763,7 +923,12 @@
 "00-0034573": {
 "detail": "CB",
 "idp_name": "Charvarius Ward",
-"pos": "CB"
+"pos": "CB",
+"team": "IND"
+},
+"00-0034577": {
+"pos": "QB",
+"team": "BUF"
 },
 "00-0034613": {
 "pos": "TE"
@@ -771,12 +936,14 @@
 "00-0034639": {
 "detail": "CB",
 "idp_name": "Mike Ford Jr",
-"pos": "CB"
+"pos": "CB",
+"team": "ATL"
 },
 "00-0034657": {
 "detail": "DT",
 "idp_name": "Matt Dickerson",
-"pos": "IDL"
+"pos": "IDL",
+"team": "JAX"
 },
 "00-0034673": {
 "detail": "ILB",
@@ -786,38 +953,51 @@
 "00-0034675": {
 "detail": "SS",
 "idp_name": "Jessie Bates III",
-"pos": "S"
+"pos": "S",
+"team": "ATL"
 },
 "00-0034720": {
 "detail": "ILB",
 "idp_name": "Robert Spillane",
-"pos": "LB"
+"pos": "LB",
+"team": "NE"
 },
 "00-0034753": {
-"pos": "TE"
+"pos": "TE",
+"team": "BAL"
 },
 "00-0034754": {
 "detail": "ILB",
 "idp_name": "Oren Burks",
-"pos": "LB"
+"pos": "LB",
+"team": "CIN"
 },
 "00-0034760": {
 "detail": "DT",
 "idp_name": "Nathan Shepherd",
-"pos": "IDL"
+"pos": "IDL",
+"team": "NO"
 },
 "00-0034771": {
-"pos": "QB"
+"pos": "QB",
+"team": "PIT"
 },
 "00-0034773": {
 "detail": "DT",
 "idp_name": "Vita Vea",
-"pos": "IDL"
+"pos": "IDL",
+"team": "TB"
+},
+"00-0034775": {
+"pos": "WR",
+"team": "SF",
+"wr": "Slot"
 },
 "00-0034778": {
 "detail": "CB",
 "idp_name": "Carlton Davis III",
-"pos": "CB"
+"pos": "CB",
+"team": "NE"
 },
 "00-0034779": {
 "detail": "ILB",
@@ -827,25 +1007,30 @@
 "00-0034780": {
 "detail": "CB",
 "idp_name": "Isaac Yiadom",
-"pos": "CB"
+"pos": "CB",
+"team": "WAS"
 },
 "00-0034782": {
 "detail": "DT",
 "idp_name": "Harrison Phillips",
-"pos": "IDL"
+"pos": "IDL",
+"team": "NYJ"
 },
 "00-0034789": {
 "detail": "FS",
 "idp_name": "Minkah Fitzpatrick",
-"pos": "S"
+"pos": "S",
+"team": "NYJ"
 },
 "00-0034790": {
 "detail": "SS",
 "idp_name": "Derwin James Jr.",
-"pos": "S"
+"pos": "S",
+"team": "LAC"
 },
 "00-0034796": {
-"pos": "QB"
+"pos": "QB",
+"team": "BAL"
 },
 "00-0034798": {
 "pos": "TE"
@@ -853,22 +1038,26 @@
 "00-0034800": {
 "detail": "DT",
 "idp_name": "B.J. Hill",
-"pos": "IDL"
+"pos": "IDL",
+"team": "CIN"
 },
 "00-0034801": {
 "detail": "ILB",
 "idp_name": "Josh Woods",
-"pos": "LB"
+"pos": "LB",
+"team": "ATL"
 },
 "00-0034805": {
 "detail": "DT",
 "idp_name": "John Franklin-Myers",
-"pos": "IDL"
+"pos": "IDL",
+"team": "TEN"
 },
 "00-0034807": {
 "detail": "DE",
 "idp_name": "Ogbo Okoronkwo",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "SF"
 },
 "00-0034810": {
 "detail": "DE",
@@ -878,7 +1067,8 @@
 "00-0034815": {
 "detail": "ILB",
 "idp_name": "Fred Warner",
-"pos": "LB"
+"pos": "LB",
+"team": "SF"
 },
 "00-0034825": {
 "detail": "DE",
@@ -887,60 +1077,73 @@
 },
 "00-0034827": {
 "pos": "WR",
+"team": "BUF",
 "wr": "Outside"
 },
 "00-0034829": {
-"pos": "TE"
+"pos": "TE",
+"team": "CIN"
 },
 "00-0034832": {
 "detail": "OLB",
 "idp_name": "Bradley Chubb",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "BUF"
 },
 "00-0034837": {
 "pos": "WR",
+"team": "TEN",
 "wr": "Outside"
 },
 "00-0034843": {
 "detail": "CB",
 "idp_name": "Mike Hughes",
-"pos": "CB"
+"pos": "CB",
+"team": "ATL"
 },
 "00-0034844": {
-"pos": "RB"
+"pos": "RB",
+"team": "PHI"
 },
 "00-0034854": {
 "pos": "WR",
 "wr": "Outside"
 },
 "00-0034855": {
-"pos": "QB"
+"pos": "QB",
+"team": "TB"
 },
 "00-0034856": {
 "detail": "CB",
 "idp_name": "Denzel Ward",
-"pos": "CB"
+"pos": "CB",
+"team": "CLE"
 },
 "00-0034857": {
-"pos": "QB"
+"pos": "QB",
+"team": "BUF"
 },
 "00-0034867": {
 "pos": "WR",
 "wr": "Outside"
 },
 "00-0034869": {
-"pos": "QB"
+"pos": "QB",
+"team": "SEA"
 },
 "00-0034874": {
 "detail": "ILB",
 "idp_name": "Roquan Smith",
-"pos": "LB"
+"pos": "LB",
+"team": "BAL"
 },
 "00-0034959": {
-"pos": "RB"
+"pos": "RB",
+"team": "NYJ"
 },
 "00-0034960": {
 "pos": "WR",
+"team": "JAX",
 "wr": "Outside"
 },
 "00-0034966": {
@@ -951,36 +1154,44 @@
 "00-0034967": {
 "detail": "OLB",
 "idp_name": "Rashan Gary",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "DAL"
 },
 "00-0034973": {
 "detail": "DE",
 "idp_name": "Maxx Crosby",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "LV"
 },
 "00-0034974": {
 "detail": "SS",
 "idp_name": "Julian Love",
-"pos": "S"
+"pos": "S",
+"team": "SEA"
 },
 "00-0034975": {
-"pos": "RB"
+"pos": "RB",
+"team": "BAL"
 },
 "00-0034981": {
-"pos": "TE"
+"pos": "TE",
+"team": "HOU"
 },
 "00-0034982": {
 "detail": "ILB",
 "idp_name": "Dre Greenlaw",
-"pos": "LB"
+"pos": "LB",
+"team": "SF"
 },
 "00-0034993": {
 "detail": "SS",
 "idp_name": "Marcus Epps",
-"pos": "S"
+"pos": "S",
+"team": "PHI"
 },
 "00-0035021": {
 "pos": "WR",
+"team": "IND",
 "wr": "Outside"
 },
 "00-0035026": {
@@ -994,25 +1205,30 @@
 "00-0035133": {
 "detail": "CB",
 "idp_name": "Keisean Nixon",
-"pos": "CB"
+"pos": "CB",
+"team": "GB"
 },
 "00-0035144": {
 "detail": "ILB",
 "idp_name": "Mack Wilson Sr.",
-"pos": "LB"
+"pos": "LB",
+"team": "ARI"
 },
 "00-0035166": {
 "detail": "ILB",
 "idp_name": "Azeez Al-Shaair",
-"pos": "LB"
+"pos": "LB",
+"team": "HOU"
 },
 "00-0035202": {
 "detail": "ILB",
 "idp_name": "Del'Shawn Phillips",
-"pos": "LB"
+"pos": "LB",
+"team": "LAC"
 },
 "00-0035208": {
 "pos": "WR",
+"team": "ATL",
 "wr": "Slot"
 },
 "00-0035227": {
@@ -1021,36 +1237,48 @@
 "pos": "S"
 },
 "00-0035228": {
-"pos": "QB"
+"pos": "QB",
+"team": "MIN"
 },
 "00-0035229": {
-"pos": "TE"
+"pos": "TE",
+"team": "MIN"
 },
 "00-0035230": {
 "detail": "DT",
 "idp_name": "Ed Oliver",
-"pos": "IDL"
+"pos": "IDL",
+"team": "BUF"
 },
 "00-0035236": {
 "detail": "CB",
 "idp_name": "Byron Murphy Jr.",
-"pos": "CB"
+"pos": "CB",
+"team": "MIN"
+},
+"00-0035239": {
+"detail": "CB",
+"pos": "CB",
+"team": "PIT"
 },
 "00-0035240": {
 "detail": "ILB",
 "idp_name": "Jahlani Tavai",
-"pos": "LB"
+"pos": "LB",
+"team": "JAX"
 },
 "00-0035248": {
 "detail": "DE",
 "idp_name": "Zach Allen",
-"pos": "IDL"
+"pos": "IDL",
+"team": "DEN"
 },
 "00-0035249": {
 "pos": "TE"
 },
 "00-0035250": {
-"pos": "RB"
+"pos": "RB",
+"team": "NYG"
 },
 "00-0035253": {
 "detail": "SS",
@@ -1060,25 +1288,34 @@
 "00-0035254": {
 "detail": "OLB",
 "idp_name": "Anthony Nelson",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "TB"
 },
 "00-0035261": {
-"pos": "RB"
+"pos": "RB",
+"team": "TEN"
 },
 "00-0035262": {
 "detail": "ILB",
 "idp_name": "Drue Tranquill",
-"pos": "LB"
+"pos": "LB",
+"team": "KC"
+},
+"00-0035264": {
+"pos": "QB",
+"team": "DEN"
 },
 "00-0035272": {
 "detail": "OLB",
 "idp_name": "Andrew Van Ginkel",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "MIN"
 },
 "00-0035276": {
 "detail": "ILB",
 "idp_name": "Blake Cashman",
-"pos": "LB"
+"pos": "LB",
+"team": "MIN"
 },
 "00-0035277": {
 "detail": "CB",
@@ -1088,17 +1325,24 @@
 "00-0035279": {
 "detail": "DE",
 "idp_name": "Charles Omenihu",
-"pos": "IDL"
+"pos": "IDL",
+"team": "WAS"
 },
 "00-0035286": {
 "detail": "ILB",
 "idp_name": "Cole Holcomb",
-"pos": "LB"
+"pos": "LB",
+"team": "PIT"
+},
+"00-0035289": {
+"pos": "QB",
+"team": "ARI"
 },
 "00-0035316": {
 "detail": "ILB",
 "idp_name": "Kaden Elliss",
-"pos": "LB"
+"pos": "LB",
+"team": "NO"
 },
 "00-0035345": {
 "pos": "TE"
@@ -1106,58 +1350,75 @@
 "00-0035352": {
 "detail": "ILB",
 "idp_name": "Tyrel Dodson",
-"pos": "LB"
+"pos": "LB",
+"team": "CAR"
 },
 "00-0035357": {
 "detail": "FS",
 "idp_name": "Cam Lewis",
-"pos": "S"
+"pos": "S",
+"team": "CHI"
+},
+"00-0035359": {
+"pos": "WR",
+"team": "TB",
+"wr": "Outside"
 },
 "00-0035363": {
 "detail": "ILB",
 "idp_name": "Joe Giles-Harris",
-"pos": "LB"
+"pos": "LB",
+"team": "CIN"
 },
 "00-0035378": {
 "detail": "FS",
 "idp_name": "Andrew Wingard",
-"pos": "S"
+"pos": "S",
+"team": "ARI"
 },
 "00-0035386": {
 "detail": "ILB",
 "idp_name": "T.J. Edwards",
-"pos": "LB"
+"pos": "LB",
+"team": "CHI"
 },
 "00-0035402": {
 "detail": "OLB",
 "idp_name": "Carl Granderson",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "NO"
 },
 "00-0035406": {
 "pos": "WR",
+"team": "DEN",
 "wr": "Outside"
 },
 "00-0035409": {
 "detail": "DT",
 "idp_name": "Shy Tuttle",
-"pos": "IDL"
+"pos": "IDL",
+"team": "WAS"
 },
 "00-0035413": {
 "detail": "ILB",
 "idp_name": "Luke Gifford",
-"pos": "LB"
+"pos": "LB",
+"team": "SF"
 },
 "00-0035500": {
 "pos": "WR",
+"team": "BUF",
 "wr": "Slot"
 },
 "00-0035525": {
 "detail": "ILB",
 "idp_name": "Devin Bush",
-"pos": "LB"
+"pos": "LB",
+"team": "CHI"
 },
 "00-0035537": {
-"pos": "RB"
+"pos": "RB",
+"team": "BUF"
 },
 "00-0035544": {
 "pos": "WR",
@@ -1167,7 +1428,8 @@
 "pos": "RB"
 },
 "00-0035594": {
-"pos": "RB"
+"pos": "RB",
+"team": "PIT"
 },
 "00-0035602": {
 "pos": "WR",
@@ -1176,123 +1438,158 @@
 "00-0035617": {
 "detail": "ILB",
 "idp_name": "Troy Reeder",
-"pos": "LB"
+"pos": "LB",
+"team": "NYJ"
 },
 "00-0035631": {
-"pos": "TE"
+"pos": "TE",
+"team": "CIN"
 },
 "00-0035632": {
 "detail": "SS",
 "idp_name": "Amani Hooker",
-"pos": "S"
+"pos": "S",
+"team": "TEN"
 },
 "00-0035636": {
 "detail": "DE",
 "idp_name": "L.J. Collier",
-"pos": "IDL"
+"pos": "IDL",
+"team": "ARI"
 },
 "00-0035637": {
 "detail": "CB",
 "idp_name": "Rock Ya-Sin",
-"pos": "CB"
+"pos": "CB",
+"team": "DET"
 },
 "00-0035640": {
 "pos": "WR",
+"team": "PIT",
 "wr": "Outside"
 },
 "00-0035642": {
 "detail": "DE",
 "idp_name": "Josh Hines-Allen",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "JAX"
 },
 "00-0035643": {
 "detail": "DT",
 "idp_name": "Jeffery Simmons",
-"pos": "IDL"
+"pos": "IDL",
+"team": "TEN"
 },
 "00-0035644": {
-"pos": "TE"
+"pos": "TE",
+"team": "NO"
 },
 "00-0035647": {
 "detail": "DE",
 "idp_name": "Montez Sweat",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "CHI"
 },
 "00-0035659": {
 "pos": "WR",
+"team": "WAS",
 "wr": "Outside"
 },
 "00-0035662": {
 "pos": "WR",
+"team": "PHI",
 "wr": "Outside"
 },
 "00-0035663": {
 "detail": "SS",
 "idp_name": "Taylor Rapp",
-"pos": "CB"
+"pos": "S",
+"team": "DEN"
 },
 "00-0035667": {
 "detail": "DT",
 "idp_name": "Greg Gaines",
-"pos": "IDL"
+"pos": "IDL",
+"team": "BUF"
 },
 "00-0035669": {
 "detail": "SS",
 "idp_name": "Nick Scott",
-"pos": "S"
+"pos": "S",
+"team": "CAR"
 },
 "00-0035672": {
 "detail": "ILB",
 "idp_name": "Cody Barton",
-"pos": "LB"
+"pos": "LB",
+"team": "TEN"
 },
 "00-0035674": {
 "detail": "DT",
 "idp_name": "Jerry Tillery",
-"pos": "IDL"
+"pos": "IDL",
+"team": "IND"
 },
 "00-0035676": {
 "pos": "WR",
+"team": "NE",
 "wr": "Outside"
 },
 "00-0035678": {
 "detail": "OLB",
 "idp_name": "Dre'Mont Jones",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "NE"
 },
 "00-0035680": {
 "detail": "ILB",
 "idp_name": "Quincy Williams",
-"pos": "LB"
+"pos": "LB",
+"team": "CLE"
 },
 "00-0035683": {
 "detail": "DT",
 "idp_name": "Dexter Lawrence II",
-"pos": "IDL"
+"pos": "IDL",
+"team": "CIN"
 },
 "00-0035685": {
-"pos": "RB"
+"pos": "RB",
+"team": "HOU"
 },
 "00-0035687": {
 "detail": "ILB",
 "idp_name": "Bobby Okereke",
-"pos": "LB"
+"pos": "LB",
+"team": "CAR"
 },
 "00-0035689": {
-"pos": "TE"
+"pos": "TE",
+"team": "BUF"
 },
 "00-0035692": {
 "detail": "DE",
 "idp_name": "Clelin Ferrell",
 "pos": "EDGE"
 },
+"00-0035697": {
+"detail": "ILB",
+"pos": "LB",
+"team": "IND"
+},
 "00-0035699": {
 "detail": "CB",
 "idp_name": "Jamel Dean",
-"pos": "CB"
+"pos": "CB",
+"team": "PIT"
+},
+"00-0035700": {
+"pos": "RB",
+"team": "GB"
 },
 "00-0035704": {
-"pos": "QB"
+"pos": "QB",
+"team": "SEA"
 },
 "00-0035705": {
 "detail": "SS",
@@ -1305,7 +1602,8 @@
 "pos": "LB"
 },
 "00-0035710": {
-"pos": "QB"
+"pos": "QB",
+"team": "IND"
 },
 "00-0035713": {
 "detail": "OLB",
@@ -1315,26 +1613,31 @@
 "00-0035717": {
 "detail": "DE",
 "idp_name": "Nick Bosa",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "SF"
 },
 "00-0035718": {
 "detail": "DT",
 "idp_name": "Quinnen Williams",
-"pos": "IDL"
+"pos": "IDL",
+"team": "DAL"
 },
 "00-0035719": {
 "pos": "WR",
-"wr": "Slot"
+"team": "SF",
+"wr": "Outside"
 },
 "00-0035763": {
 "detail": "DE",
 "idp_name": "Malcolm Roach",
-"pos": "IDL"
+"pos": "IDL",
+"team": "DEN"
 },
 "00-0035795": {
 "detail": "CB",
 "idp_name": "James Pierre",
-"pos": "CB"
+"pos": "CB",
+"team": "MIN"
 },
 "00-0035857": {
 "detail": "DT",
@@ -1344,10 +1647,12 @@
 "00-0035890": {
 "detail": "DE",
 "idp_name": "Tershawn Wharton",
-"pos": "IDL"
+"pos": "IDL",
+"team": "CAR"
 },
 "00-0035891": {
 "pos": "WR",
+"team": "LV",
 "wr": "Outside"
 },
 "00-0035895": {
@@ -1363,7 +1668,8 @@
 "00-0035933": {
 "detail": "OLB",
 "idp_name": "Michael Hoecht",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "BUF"
 },
 "00-0035942": {
 "detail": "ILB",
@@ -1371,7 +1677,8 @@
 "pos": "LB"
 },
 "00-0035993": {
-"pos": "QB"
+"pos": "QB",
+"team": "BAL"
 },
 "00-0036037": {
 "detail": "SS",
@@ -1379,43 +1686,52 @@
 "pos": "S"
 },
 "00-0036040": {
-"pos": "TE"
+"pos": "TE",
+"team": "NO"
 },
 "00-0036081": {
 "detail": "DT",
 "idp_name": "Broderick Washington Jr.",
-"pos": "IDL"
+"pos": "IDL",
+"team": "BAL"
 },
 "00-0036124": {
 "detail": "CB",
 "idp_name": "Khalil Dorsey",
-"pos": "CB"
+"pos": "CB",
+"team": "DET"
 },
 "00-0036130": {
 "detail": "DT",
 "idp_name": "Nnamdi Madubuike",
-"pos": "IDL"
+"pos": "IDL",
+"team": "BAL"
 },
 "00-0036139": {
-"pos": "RB"
+"pos": "RB",
+"team": "PIT"
 },
 "00-0036157": {
 "detail": "ILB",
 "idp_name": "Kristian Welch",
-"pos": "LB"
+"pos": "LB",
+"team": "GB"
 },
 "00-0036158": {
-"pos": "RB"
+"pos": "RB",
+"team": "DEN"
 },
 "00-0036159": {
 "detail": "DE",
 "idp_name": "Josh Uche",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "MIA"
 },
 "00-0036181": {
 "detail": "DT",
 "idp_name": "Teair Tart",
-"pos": "IDL"
+"pos": "IDL",
+"team": "LAC"
 },
 "00-0036182": {
 "pos": "WR",
@@ -1427,48 +1743,58 @@
 "00-0036192": {
 "detail": "OLB",
 "idp_name": "A.J. Epenesa",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "PHI"
 },
 "00-0036193": {
 "detail": "OLB",
 "idp_name": "Anfernee Jennings",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "NO"
 },
 "00-0036204": {
 "detail": "DT",
 "idp_name": "LaCale London",
-"pos": "IDL"
+"pos": "IDL",
+"team": "ATL"
 },
 "00-0036212": {
-"pos": "QB"
+"pos": "QB",
+"team": "ATL"
 },
 "00-0036220": {
 "detail": "DE",
 "idp_name": "Derrick Brown",
-"pos": "IDL"
+"pos": "IDL",
+"team": "CAR"
 },
 "00-0036221": {
 "detail": "FS",
 "idp_name": "Brandon Jones",
-"pos": "S"
+"pos": "S",
+"team": "DEN"
 },
 "00-0036222": {
 "detail": "CB",
 "idp_name": "Isaiah Rodgers",
-"pos": "CB"
+"pos": "CB",
+"team": "MIN"
 },
 "00-0036223": {
-"pos": "RB"
+"pos": "RB",
+"team": "IND"
 },
 "00-0036224": {
 "detail": "OLB",
 "idp_name": "Jonathan Greenard",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "PHI"
 },
 "00-0036231": {
 "detail": "SS",
 "idp_name": "Kyle Dugger",
-"pos": "S"
+"pos": "S",
+"team": "CIN"
 },
 "00-0036237": {
 "detail": "DE",
@@ -1478,7 +1804,8 @@
 "00-0036241": {
 "detail": "CB",
 "idp_name": "Bryce Hall",
-"pos": "CB"
+"pos": "CB",
+"team": "HOU"
 },
 "00-0036244": {
 "pos": "TE"
@@ -1490,27 +1817,33 @@
 "00-0036253": {
 "detail": "FS",
 "idp_name": "Julian Blackmon",
-"pos": "S"
+"pos": "S",
+"team": "NO"
 },
 "00-0036259": {
 "pos": "WR",
+"team": "MIN",
 "wr": "Slot"
 },
 "00-0036260": {
 "detail": "DE",
 "idp_name": "Javon Kinlaw",
-"pos": "IDL"
+"pos": "IDL",
+"team": "WAS"
 },
 "00-0036262": {
 "detail": "DT",
 "idp_name": "DaVon Hamilton",
-"pos": "IDL"
+"pos": "IDL",
+"team": "JAX"
 },
 "00-0036264": {
-"pos": "QB"
+"pos": "QB",
+"team": "GB"
 },
 "00-0036265": {
-"pos": "RB"
+"pos": "RB",
+"team": "CAR"
 },
 "00-0036266": {
 "detail": "DT",
@@ -1518,37 +1851,44 @@
 "pos": "IDL"
 },
 "00-0036275": {
-"pos": "RB"
+"pos": "RB",
+"team": "CHI"
 },
 "00-0036280": {
 "detail": "ILB",
 "idp_name": "Malik Harrison",
-"pos": "LB"
+"pos": "LB",
+"team": "NYG"
 },
 "00-0036281": {
 "detail": "CB",
 "idp_name": "C.J. Henderson",
-"pos": "CB"
+"pos": "CB",
+"team": "ATL"
 },
 "00-0036282": {
 "detail": "SS",
 "idp_name": "Grant Delpit",
-"pos": "S"
+"pos": "S",
+"team": "CLE"
 },
 "00-0036285": {
 "detail": "CB",
 "idp_name": "A.J. Terrell Jr.",
-"pos": "CB"
+"pos": "CB",
+"team": "ATL"
 },
 "00-0036286": {
 "detail": "OLB",
 "idp_name": "K'Lavon Chaisson",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "WAS"
 },
 "00-0036287": {
 "detail": "SCB",
 "idp_name": "Noah Igbinoghene",
-"pos": "CB"
+"pos": "CB",
+"team": "CLE"
 },
 "00-0036290": {
 "pos": "TE"
@@ -1556,94 +1896,118 @@
 "00-0036292": {
 "detail": "CB",
 "idp_name": "Jaylon Johnson",
-"pos": "CB"
+"pos": "CB",
+"team": "CHI"
 },
 "00-0036293": {
 "detail": "SS",
 "idp_name": "Jeremy Chinn",
-"pos": "S"
+"pos": "S",
+"team": "LV"
 },
 "00-0036298": {
 "detail": "ILB",
 "idp_name": "Akeem Davis-Gaither",
-"pos": "LB"
+"pos": "LB",
+"team": "IND"
 },
 "00-0036302": {
 "detail": "FS",
 "idp_name": "Jaylinn Hawkins",
-"pos": "S"
+"pos": "S",
+"team": "BAL"
 },
 "00-0036305": {
 "detail": "OLB",
 "idp_name": "Trevis Gipson",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "CAR"
 },
 "00-0036306": {
 "detail": "SS",
 "idp_name": "Daniel Thomas",
-"pos": "S"
+"pos": "S",
+"team": "CLE"
 },
 "00-0036307": {
 "detail": "CB",
 "idp_name": "Kindle Vildor",
-"pos": "CB"
+"pos": "CB",
+"team": "NE"
 },
 "00-0036309": {
 "pos": "WR",
+"team": "NYG",
 "wr": "Slot"
 },
 "00-0036321": {
 "detail": "OLB",
 "idp_name": "Chase Young",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "NO"
 },
 "00-0036322": {
 "pos": "WR",
+"team": "MIN",
 "wr": "Outside"
 },
 "00-0036323": {
 "detail": "ILB",
 "idp_name": "Patrick Queen",
-"pos": "LB"
+"pos": "LB",
+"team": "PIT"
 },
 "00-0036329": {
 "detail": "FS",
 "idp_name": "Ashtyn Davis",
-"pos": "S"
+"pos": "S",
+"team": "SF"
 },
 "00-0036331": {
 "pos": "WR",
+"team": "ARI",
 "wr": "Slot"
 },
 "00-0036333": {
 "detail": "OLB",
 "idp_name": "Alex Highsmith",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "PIT"
 },
 "00-0036335": {
 "detail": "DE",
 "idp_name": "D.J. Wonnum",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "DET"
 },
 "00-0036337": {
 "detail": "DT",
 "idp_name": "James Lynch",
-"pos": "IDL"
+"pos": "IDL",
+"team": "CHI"
 },
 "00-0036338": {
 "detail": "ILB",
 "idp_name": "Troy Dye",
-"pos": "LB"
+"pos": "LB",
+"team": "LAC"
 },
 "00-0036341": {
 "detail": "DE",
 "idp_name": "Khalid Kareem",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "SF"
+},
+"00-0036345": {
+"pos": "WR",
+"team": "TEN",
+"wr": "Outside"
 },
 "00-0036348": {
 "detail": "SS",
 "idp_name": "Joshua Metellus",
-"pos": "S"
+"pos": "S",
+"team": "MIN"
 },
 "00-0036349": {
 "detail": "SS",
@@ -1651,82 +2015,98 @@
 "pos": "S"
 },
 "00-0036355": {
-"pos": "QB"
+"pos": "QB",
+"team": "LAC"
 },
 "00-0036356": {
 "detail": "SS",
 "idp_name": "Isaiah Simmons",
-"pos": "S"
+"pos": "S",
+"team": "CAR"
 },
 "00-0036358": {
 "pos": "WR",
+"team": "DAL",
 "wr": "Outside"
 },
 "00-0036361": {
 "detail": "CB",
 "idp_name": "Trevon Diggs",
-"pos": "CB"
+"pos": "CB",
+"team": "SEA"
 },
 "00-0036362": {
 "detail": "ILB",
 "idp_name": "Willie Gay Jr.",
-"pos": "LB"
+"pos": "LB",
+"team": "MIA"
 },
 "00-0036366": {
 "detail": "DT",
 "idp_name": "Neville Gallimore",
-"pos": "IDL"
+"pos": "IDL",
+"team": "CHI"
 },
 "00-0036374": {
 "detail": "SCB",
 "idp_name": "L'Jarius Sneed",
-"pos": "CB"
+"pos": "CB",
+"team": "KC"
 },
 "00-0036375": {
 "detail": "CB",
 "idp_name": "Amik Robertson",
-"pos": "CB"
+"pos": "CB",
+"team": "WAS"
 },
 "00-0036378": {
 "detail": "OLB",
 "idp_name": "Mike Danna",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "BUF"
 },
 "00-0036380": {
 "detail": "FS",
 "idp_name": "Alohi Gilman",
-"pos": "S"
+"pos": "S",
+"team": "KC"
 },
 "00-0036388": {
 "detail": "SS",
 "idp_name": "Xavier McKinney",
-"pos": "S"
+"pos": "S",
+"team": "GB"
 },
 "00-0036389": {
 "pos": "QB"
 },
 "00-0036395": {
-"detail": "FS",
+"detail": "SS",
 "idp_name": "K'Von Wallace",
-"pos": "S"
+"pos": "S",
+"team": "BAL"
 },
 "00-0036407": {
 "pos": "WR",
+"team": "CLE",
 "wr": "Outside"
 },
 "00-0036409": {
 "detail": "ILB",
 "idp_name": "Jordyn Brooks",
-"pos": "LB"
+"pos": "LB",
+"team": "MIA"
 },
 "00-0036410": {
 "pos": "WR",
+"team": "CIN",
 "wr": "Outside"
 },
 "00-0036411": {
 "detail": "FS",
 "idp_name": "Antoine Winfield Jr.",
-"pos": "S"
+"pos": "S",
+"team": "TB"
 },
 "00-0036415": {
 "pos": "WR",
@@ -1735,48 +2115,59 @@
 "00-0036416": {
 "detail": "CB",
 "idp_name": "Kristian Fulton",
-"pos": "CB"
+"pos": "CB",
+"team": "KC"
 },
 "00-0036418": {
 "detail": "ILB",
 "idp_name": "Zack Baun",
-"pos": "LB"
+"pos": "LB",
+"team": "PHI"
 },
 "00-0036421": {
 "detail": "FS",
 "idp_name": "Terrell Burgess",
-"pos": "S"
+"pos": "S",
+"team": "TEN"
 },
 "00-0036422": {
-"pos": "TE"
+"pos": "TE",
+"team": "DEN"
 },
 "00-0036425": {
-"pos": "RB"
+"pos": "RB",
+"team": "MIN"
 },
 "00-0036428": {
 "detail": "ILB",
 "idp_name": "Justin Strnad",
-"pos": "LB"
+"pos": "LB",
+"team": "DEN"
 },
 "00-0036429": {
-"pos": "TE"
+"pos": "TE",
+"team": "ATL"
 },
 "00-0036441": {
 "detail": "ILB",
 "idp_name": "Kenneth Murray",
-"pos": "LB"
+"pos": "LB",
+"team": "HOU"
 },
 "00-0036442": {
-"pos": "QB"
+"pos": "QB",
+"team": "CIN"
 },
 "00-0036463": {
 "pos": "WR",
+"team": "ATL",
 "wr": "Outside"
 },
 "00-0036479": {
 "detail": "DE",
 "idp_name": "Kwity Paye",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "LV"
 },
 "00-0036480": {
 "detail": "DE",
@@ -1786,112 +2177,137 @@
 "00-0036500": {
 "detail": "ILB",
 "idp_name": "Jamien Sherwood",
-"pos": "LB"
+"pos": "LB",
+"team": "NYJ"
 },
 "00-0036501": {
 "detail": "FS",
 "idp_name": "Michael Carter II",
-"pos": "S"
+"pos": "S",
+"team": "PHI"
 },
 "00-0036502": {
 "detail": "SS",
 "idp_name": "Jason Pinnock",
-"pos": "S"
+"pos": "S",
+"team": "NYG"
 },
 "00-0036504": {
 "detail": "SCB",
 "idp_name": "Brandin Echols",
-"pos": "CB"
+"pos": "CB",
+"team": "PIT"
 },
 "00-0036550": {
 "pos": "WR",
+"team": "BAL",
 "wr": "Outside"
 },
 "00-0036554": {
 "pos": "WR",
+"team": "HOU",
 "wr": "Outside"
 },
 "00-0036555": {
-"pos": "RB"
+"pos": "RB",
+"team": "CAR"
 },
 "00-0036556": {
-"pos": "TE"
+"pos": "TE",
+"team": "HOU"
 },
 "00-0036563": {
 "detail": "CB",
 "idp_name": "Deommodore Lenoir",
-"pos": "CB"
+"pos": "CB",
+"team": "SF"
 },
 "00-0036564": {
 "detail": "SS",
 "idp_name": "Talanoa Hufanga",
-"pos": "S"
+"pos": "S",
+"team": "DEN"
 },
 "00-0036568": {
 "detail": "DT",
 "idp_name": "Roy Lopez",
-"pos": "IDL"
+"pos": "IDL",
+"team": "ARI"
 },
 "00-0036587": {
 "detail": "FS",
 "idp_name": "Ar'Darius Washington",
-"pos": "S"
+"pos": "S",
+"team": "NYG"
 },
 "00-0036589": {
 "detail": "CB",
 "idp_name": "Nick McCloud",
-"pos": "CB"
+"pos": "CB",
+"team": "CHI"
 },
 "00-0036590": {
-"pos": "TE"
+"pos": "TE",
+"team": "JAX"
 },
 "00-0036613": {
 "pos": "WR",
+"team": "DEN",
 "wr": "Outside"
 },
 "00-0036617": {
 "detail": "CB",
 "idp_name": "Asante Samuel Jr.",
-"pos": "CB"
+"pos": "CB",
+"team": "PIT"
 },
 "00-0036621": {
 "detail": "ILB",
 "idp_name": "Nick Bolton",
-"pos": "LB"
+"pos": "LB",
+"team": "KC"
 },
 "00-0036624": {
 "detail": "DT",
 "idp_name": "Alim McNeill",
-"pos": "IDL"
+"pos": "IDL",
+"team": "DET"
 },
 "00-0036625": {
 "detail": "CB",
 "idp_name": "Benjamin St-Juste",
-"pos": "CB"
+"pos": "CB",
+"team": "GB"
 },
 "00-0036626": {
 "pos": "WR",
+"team": "WAS",
 "wr": "Outside"
 },
 "00-0036628": {
-"pos": "TE"
+"pos": "TE",
+"team": "WAS"
 },
 "00-0036629": {
 "detail": "FS",
 "idp_name": "Cam Bynum",
-"pos": "S"
+"pos": "S",
+"team": "IND"
 },
 "00-0036630": {
 "pos": "WR",
+"team": "CLE",
 "wr": "Outside"
 },
 "00-0036637": {
-"pos": "TE"
+"pos": "TE",
+"team": "KC"
 },
 "00-0036642": {
 "detail": "DT",
 "idp_name": "T.J. Slaton Jr.",
-"pos": "IDL"
+"pos": "IDL",
+"team": "CIN"
 },
 "00-0036643": {
 "detail": "ILB",
@@ -1900,17 +2316,20 @@
 },
 "00-0036646": {
 "pos": "WR",
+"team": "ARI",
 "wr": "Outside"
 },
 "00-0036648": {
 "detail": "ILB",
 "idp_name": "Nick Niemann",
-"pos": "LB"
+"pos": "LB",
+"team": "GB"
 },
 "00-0036658": {
 "detail": "ILB",
 "idp_name": "Isaiah McDuffie",
-"pos": "LB"
+"pos": "LB",
+"team": "GB"
 },
 "00-0036672": {
 "detail": "ILB",
@@ -1920,17 +2339,20 @@
 "00-0036677": {
 "detail": "FS",
 "idp_name": "Zayne Anderson",
-"pos": "S"
+"pos": "S",
+"team": "MIA"
 },
 "00-0036682": {
 "detail": "DE",
 "idp_name": "Malik Herring",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "MIA"
 },
 "00-0036683": {
 "detail": "FS",
 "idp_name": "Devon Key",
-"pos": "S"
+"pos": "S",
+"team": "DEN"
 },
 "00-0036695": {
 "detail": "DT",
@@ -1940,15 +2362,23 @@
 "00-0036705": {
 "detail": "DT",
 "idp_name": "Sam Kamara",
-"pos": "IDL"
+"pos": "IDL",
+"team": "CLE"
+},
+"00-0036711": {
+"detail": "OLB",
+"pos": "EDGE",
+"team": "ATL"
 },
 "00-0036716": {
 "detail": "ILB",
 "idp_name": "Amen Ogbongbemiga",
-"pos": "LB"
+"pos": "LB",
+"team": "DET"
 },
 "00-0036727": {
-"pos": "RB"
+"pos": "RB",
+"team": "DEN"
 },
 "00-0036728": {
 "detail": "ILB",
@@ -1956,32 +2386,39 @@
 "pos": "LB"
 },
 "00-0036754": {
-"pos": "TE"
+"pos": "TE",
+"team": "DET"
 },
 "00-0036775": {
 "pos": "WR",
+"team": "PIT",
 "wr": "Outside"
 },
 "00-0036788": {
 "detail": "DE",
 "idp_name": "Jack Heflin",
-"pos": "IDL"
+"pos": "IDL",
+"team": "NYJ"
 },
 "00-0036813": {
 "detail": "ILB",
 "idp_name": "Christian Elliss",
-"pos": "LB"
+"pos": "LB",
+"team": "NE"
 },
 "00-0036825": {
-"pos": "TE"
+"pos": "TE",
+"team": "CAR"
 },
 "00-0036842": {
-"pos": "RB"
+"pos": "RB",
+"team": "NYJ"
 },
 "00-0036844": {
 "detail": "ILB",
 "idp_name": "Garret Wallow",
-"pos": "LB"
+"pos": "LB",
+"team": "SF"
 },
 "00-0036849": {
 "pos": "WR",
@@ -1989,12 +2426,14 @@
 },
 "00-0036862": {
 "pos": "WR",
+"team": "PIT",
 "wr": "Slot"
 },
 "00-0036867": {
 "detail": "ILB",
 "idp_name": "Chris Rumph II",
-"pos": "LB"
+"pos": "LB",
+"team": "NO"
 },
 "00-0036870": {
 "detail": "ILB",
@@ -2004,118 +2443,159 @@
 "00-0036874": {
 "detail": "CB",
 "idp_name": "Pat Surtain II",
-"pos": "CB"
+"pos": "CB",
+"team": "DEN"
 },
 "00-0036875": {
-"pos": "RB"
+"pos": "RB",
+"team": "NE"
 },
 "00-0036876": {
-"pos": "TE"
+"pos": "TE",
+"team": "TEN"
+},
+"00-0036879": {
+"pos": "QB",
+"team": "DEN"
 },
 "00-0036883": {
 "detail": "DT",
 "idp_name": "Tommy Togiai",
-"pos": "IDL"
+"pos": "IDL",
+"team": "HOU"
 },
 "00-0036887": {
-"pos": "TE"
+"pos": "TE",
+"team": "SF"
 },
 "00-0036888": {
 "detail": "FS",
 "idp_name": "Damar Hamlin",
-"pos": "S"
+"pos": "S",
+"team": "BUF"
 },
 "00-0036893": {
 "pos": "RB"
 },
 "00-0036894": {
-"pos": "TE"
+"pos": "TE",
+"team": "PIT"
+},
+"00-0036898": {
+"pos": "QB",
+"team": "HOU"
 },
 "00-0036900": {
 "pos": "WR",
+"team": "CIN",
 "wr": "Outside"
 },
 "00-0036901": {
 "detail": "CB",
 "idp_name": "Eric Stokes",
-"pos": "CB"
+"pos": "CB",
+"team": "LV"
 },
 "00-0036902": {
 "detail": "OLB",
 "idp_name": "Joseph Ossai",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "NYJ"
 },
 "00-0036903": {
 "detail": "DT",
 "idp_name": "Bobby Brown III",
-"pos": "IDL"
+"pos": "IDL",
+"team": "CAR"
 },
 "00-0036904": {
 "detail": "CB",
 "idp_name": "Robert Rochell",
-"pos": "CB"
+"pos": "CB",
+"team": "CAR"
+},
+"00-0036906": {
+"pos": "RB",
+"team": "ATL"
 },
 "00-0036909": {
 "detail": "DT",
 "idp_name": "Khyiris Tonga",
-"pos": "IDL"
+"pos": "IDL",
+"team": "KC"
 },
 "00-0036912": {
 "pos": "WR",
+"team": "PHI",
 "wr": "Outside"
 },
 "00-0036914": {
 "detail": "OLB",
 "idp_name": "Greg Rousseau",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "BUF"
 },
 "00-0036916": {
 "detail": "DE",
 "idp_name": "Milton Williams",
-"pos": "IDL"
+"pos": "IDL",
+"team": "NE"
 },
 "00-0036919": {
-"pos": "RB"
+"pos": "RB",
+"team": "TB"
 },
 "00-0036922": {
 "detail": "DE",
 "idp_name": "Patrick Johnson",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "LV"
+},
+"00-0036924": {
+"pos": "RB",
+"team": "TEN"
 },
 "00-0036927": {
 "detail": "ILB",
 "idp_name": "Pete Werner",
-"pos": "LB"
+"pos": "LB",
+"team": "NO"
 },
 "00-0036933": {
 "detail": "OLB",
 "idp_name": "Zaven Collins",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "ARI"
 },
 "00-0036934": {
 "detail": "OLB",
 "idp_name": "Jaelan Phillips",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "CAR"
 },
 "00-0036937": {
 "detail": "CB",
 "idp_name": "Paulson Adebo",
-"pos": "CB"
+"pos": "CB",
+"team": "NYG"
 },
 "00-0036940": {
 "detail": "OLB",
 "idp_name": "Odafe Oweh",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "WAS"
 },
 "00-0036941": {
 "detail": "FS",
 "idp_name": "Andre Cisco",
-"pos": "S"
+"pos": "S",
+"team": "NYJ"
 },
 "00-0036942": {
 "detail": "DT",
 "idp_name": "Osa Odighizuwa",
-"pos": "IDL"
+"pos": "IDL",
+"team": "SF"
 },
 "00-0036944": {
 "detail": "CB",
@@ -2123,12 +2603,19 @@
 "pos": "CB"
 },
 "00-0036945": {
-"pos": "QB"
+"pos": "QB",
+"team": "KC"
+},
+"00-0036952": {
+"detail": "OLB",
+"pos": "EDGE",
+"team": "DEN"
 },
 "00-0036954": {
 "detail": "DT",
 "idp_name": "Levi Onwuzurike",
-"pos": "IDL"
+"pos": "IDL",
+"team": "DET"
 },
 "00-0036956": {
 "detail": "SS",
@@ -2138,25 +2625,31 @@
 "00-0036962": {
 "detail": "SCB",
 "idp_name": "Tre'von Moehrig",
-"pos": "CB"
+"pos": "CB",
+"team": "CAR"
 },
 "00-0036963": {
 "pos": "WR",
+"team": "DET",
 "wr": "Slot"
 },
 "00-0036964": {
 "detail": "ILB",
 "idp_name": "Derrick Barnes",
-"pos": "LB"
+"pos": "LB",
+"team": "DET"
 },
 "00-0036970": {
-"pos": "TE"
+"pos": "TE",
+"team": "ATL"
 },
 "00-0036971": {
-"pos": "QB"
+"pos": "QB",
+"team": "JAX"
 },
 "00-0036972": {
-"pos": "QB"
+"pos": "QB",
+"team": "SF"
 },
 "00-0036973": {
 "pos": "RB"
@@ -2164,16 +2657,19 @@
 "00-0036974": {
 "detail": "CB",
 "idp_name": "Tyson Campbell",
-"pos": "CB"
+"pos": "CB",
+"team": "CLE"
 },
 "00-0036980": {
 "pos": "WR",
+"team": "PHI",
 "wr": "Slot"
 },
 "00-0036981": {
 "detail": "DE",
 "idp_name": "Christian Barmore",
-"pos": "IDL"
+"pos": "IDL",
+"team": "NE"
 },
 "00-0036982": {
 "detail": "OLB",
@@ -2183,125 +2679,158 @@
 "00-0036986": {
 "detail": "CB",
 "idp_name": "Nahshon Wright",
-"pos": "CB"
+"pos": "CB",
+"team": "NYJ"
 },
 "00-0036987": {
 "detail": "CB",
 "idp_name": "Brandon Stephens",
-"pos": "CB"
+"pos": "CB",
+"team": "NYJ"
 },
 "00-0036988": {
 "pos": "WR",
+"team": "BUF",
 "wr": "Outside"
 },
 "00-0036989": {
 "detail": "DE",
 "idp_name": "Malcolm Koonce",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "LV"
 },
 "00-0036990": {
 "detail": "ILB",
 "idp_name": "Divine Deablo",
-"pos": "LB"
+"pos": "LB",
+"team": "ATL"
 },
 "00-0036992": {
 "detail": "FS",
 "idp_name": "Elijah Molden",
-"pos": "S"
+"pos": "S",
+"team": "LAC"
 },
 "00-0036993": {
 "detail": "FS",
 "idp_name": "Ifeatu Melifonwu",
-"pos": "S"
+"pos": "S",
+"team": "TB"
 },
 "00-0036994": {
 "detail": "ILB",
 "idp_name": "Ernest Jones IV",
-"pos": "LB"
+"pos": "LB",
+"team": "SEA"
 },
 "00-0036995": {
 "detail": "OLB",
 "idp_name": "Baron Browning",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "ARI"
 },
 "00-0036996": {
 "detail": "CB",
 "idp_name": "Greg Newsome II",
-"pos": "CB"
+"pos": "CB",
+"team": "NYG"
 },
 "00-0036997": {
-"pos": "RB"
+"pos": "RB",
+"team": "DAL"
 },
 "00-0036998": {
 "detail": "FS",
 "idp_name": "Jev\u00f3n Holland",
-"pos": "S"
+"pos": "S",
+"team": "NYG"
 },
 "00-0037003": {
 "detail": "ILB",
 "idp_name": "Chazz Surratt",
-"pos": "LB"
+"pos": "LB",
+"team": "SEA"
 },
 "00-0037004": {
 "pos": "TE"
 },
 "00-0037005": {
-"pos": "TE"
+"pos": "TE",
+"team": "CAR"
 },
 "00-0037007": {
 "detail": "OLB",
 "idp_name": "Patrick Jones II",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "CAR"
+},
+"00-0037013": {
+"pos": "QB",
+"team": "NO"
 },
 "00-0037034": {
 "detail": "SCB",
 "idp_name": "Dee Alford",
-"pos": "CB"
+"pos": "CB",
+"team": "BUF"
 },
 "00-0037051": {
 "detail": "DT",
 "idp_name": "Elijah Garcia",
-"pos": "IDL"
+"pos": "IDL",
+"team": "DAL"
 },
 "00-0037073": {
 "detail": "DT",
 "idp_name": "Jordan Davis",
-"pos": "IDL"
+"pos": "IDL",
+"team": "PHI"
 },
 "00-0037074": {
 "detail": "ILB",
 "idp_name": "Quay Walker",
-"pos": "LB"
+"pos": "LB",
+"team": "LV"
 },
 "00-0037075": {
 "detail": "DE",
 "idp_name": "Devonte Wyatt",
-"pos": "IDL"
+"pos": "IDL",
+"team": "GB"
+},
+"00-0037077": {
+"pos": "QB",
+"team": "DAL"
 },
 "00-0037079": {
 "detail": "CB",
 "idp_name": "Riq Woolen",
-"pos": "CB"
+"pos": "CB",
+"team": "PHI"
 },
 "00-0037082": {
 "detail": "DE",
 "idp_name": "Dominique Robinson",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "HOU"
 },
 "00-0037083": {
 "detail": "OLB",
 "idp_name": "Kingsley Enagbare",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "NYJ"
 },
 "00-0037085": {
 "pos": "RB"
 },
 "00-0037091": {
 "pos": "WR",
-"wr": "Slot"
+"team": "GB",
+"wr": "Outside"
 },
 "00-0037093": {
 "pos": "WR",
+"team": "LV",
 "wr": "Slot"
 },
 "00-0037094": {
@@ -2312,49 +2841,64 @@
 "00-0037096": {
 "detail": "SS",
 "idp_name": "Elijah Hicks",
-"pos": "S"
+"pos": "S",
+"team": "CHI"
+},
+"00-0037106": {
+"detail": "CB",
+"pos": "CB",
+"team": "JAX"
 },
 "00-0037109": {
 "detail": "ILB",
 "idp_name": "Jack Sanborn",
-"pos": "LB"
+"pos": "LB",
+"team": "CHI"
 },
 "00-0037112": {
 "pos": "TE"
 },
 "00-0037120": {
-"pos": "RB"
+"pos": "RB",
+"team": "DAL"
 },
 "00-0037129": {
 "detail": "SCB",
 "idp_name": "Josh Blackwell",
-"pos": "CB"
+"pos": "CB",
+"team": "CHI"
 },
 "00-0037130": {
 "detail": "FS",
 "idp_name": "Reed Blankenship",
-"pos": "S"
+"pos": "S",
+"team": "HOU"
 },
 "00-0037132": {
 "pos": "WR",
+"team": "PHI",
 "wr": "Slot"
 },
 "00-0037137": {
 "detail": "CB",
 "idp_name": "Josh Jobe",
-"pos": "CB"
+"pos": "CB",
+"team": "SEA"
 },
 "00-0037155": {
 "detail": "SS",
 "idp_name": "Tony Adams",
-"pos": "S"
+"pos": "S",
+"team": "TEN"
 },
 "00-0037156": {
 "pos": "WR",
+"team": "SEA",
 "wr": "Outside"
 },
 "00-0037157": {
-"pos": "RB"
+"pos": "RB",
+"team": "ARI"
 },
 "00-0037179": {
 "detail": "OLB",
@@ -2364,7 +2908,8 @@
 "00-0037190": {
 "detail": "CB",
 "idp_name": "Sauce Gardner",
-"pos": "CB"
+"pos": "CB",
+"team": "IND"
 },
 "00-0037191": {
 "detail": "CB",
@@ -2374,12 +2919,14 @@
 "00-0037192": {
 "detail": "DE",
 "idp_name": "George Karlaftis",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "KC"
 },
 "00-0037193": {
 "detail": "FS",
 "idp_name": "Bryan Cook",
-"pos": "S"
+"pos": "S",
+"team": "CIN"
 },
 "00-0037195": {
 "detail": "CB",
@@ -2389,15 +2936,18 @@
 "00-0037205": {
 "detail": "FS",
 "idp_name": "Brenden Schooler",
-"pos": "S"
+"pos": "S",
+"team": "NE"
 },
 "00-0037208": {
 "detail": "ILB",
 "idp_name": "Jack Cochrane",
-"pos": "LB"
+"pos": "LB",
+"team": "KC"
 },
 "00-0037228": {
-"pos": "RB"
+"pos": "RB",
+"team": "PIT"
 },
 "00-0037231": {
 "pos": "WR",
@@ -2406,158 +2956,194 @@
 "00-0037235": {
 "detail": "DE",
 "idp_name": "Travon Walker",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "JAX"
 },
 "00-0037236": {
 "detail": "DE",
 "idp_name": "Aidan Hutchinson",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "DET"
 },
 "00-0037237": {
 "detail": "CB",
 "idp_name": "Derek Stingley Jr.",
-"pos": "CB"
+"pos": "CB",
+"team": "HOU"
 },
 "00-0037238": {
 "pos": "WR",
+"team": "ATL",
 "wr": "Outside"
 },
 "00-0037239": {
 "pos": "WR",
+"team": "NO",
 "wr": "Outside"
 },
 "00-0037240": {
 "pos": "WR",
+"team": "DET",
 "wr": "Outside"
 },
 "00-0037244": {
 "detail": "ILB",
 "idp_name": "Devin Lloyd",
-"pos": "LB"
+"pos": "LB",
+"team": "CAR"
 },
 "00-0037246": {
 "detail": "SCB",
 "idp_name": "Jalen Pitre",
-"pos": "CB"
+"pos": "CB",
+"team": "HOU"
 },
 "00-0037247": {
 "pos": "WR",
+"team": "DAL",
 "wr": "Outside"
 },
 "00-0037248": {
-"pos": "RB"
+"pos": "RB",
+"team": "BUF"
 },
 "00-0037249": {
 "detail": "OLB",
 "idp_name": "Nik Bonitto",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "DEN"
 },
 "00-0037250": {
 "detail": "CB",
 "idp_name": "Martin Emerson Jr.",
-"pos": "CB"
+"pos": "CB",
+"team": "NO"
 },
 "00-0037252": {
-"pos": "TE"
+"pos": "TE",
+"team": "MIA"
 },
 "00-0037253": {
 "detail": "SCB",
 "idp_name": "Marcus Jones",
-"pos": "CB"
+"pos": "CB",
+"team": "NE"
 },
 "00-0037254": {
 "detail": "ILB",
 "idp_name": "Terrel Bernard",
-"pos": "LB"
+"pos": "LB",
+"team": "BUF"
 },
 "00-0037256": {
-"pos": "RB"
+"pos": "RB",
+"team": "WAS"
 },
 "00-0037258": {
-"pos": "RB"
+"pos": "RB",
+"team": "PHI"
 },
 "00-0037259": {
 "detail": "ILB",
 "idp_name": "Micah McFadden",
-"pos": "LB"
+"pos": "LB",
+"team": "NYG"
 },
 "00-0037261": {
 "pos": "WR",
+"team": "BUF",
 "wr": "Slot"
 },
 "00-0037262": {
 "detail": "DT",
 "idp_name": "Thomas Booker IV",
-"pos": "IDL"
+"pos": "IDL",
+"team": "LV"
 },
 "00-0037263": {
-"pos": "RB"
+"pos": "RB",
+"team": "ARI"
 },
 "00-0037268": {
 "detail": "CB",
 "idp_name": "Zyon McCollum",
-"pos": "CB"
+"pos": "CB",
+"team": "TB"
 },
 "00-0037270": {
 "detail": "DE",
 "idp_name": "Otito Ogbonnia",
-"pos": "IDL"
+"pos": "IDL",
+"team": "DAL"
 },
 "00-0037271": {
 "detail": "ILB",
 "idp_name": "D'Marco Jackson",
-"pos": "LB"
+"pos": "LB",
+"team": "CHI"
 },
 "00-0037275": {
 "detail": "CB",
 "idp_name": "DaRon Bland",
-"pos": "CB"
+"pos": "CB",
+"team": "DAL"
 },
 "00-0037277": {
-"pos": "TE"
+"pos": "TE",
+"team": "ARI"
 },
 "00-0037283": {
 "detail": "DT",
 "idp_name": "John Ridgeway III",
-"pos": "IDL"
+"pos": "IDL",
+"team": "NO"
 },
 "00-0037288": {
 "detail": "CB",
 "idp_name": "Christian Benford",
-"pos": "CB"
+"pos": "CB",
+"team": "BUF"
 },
 "00-0037289": {
 "detail": "ILB",
 "idp_name": "Malcolm Rodriguez",
-"pos": "LB"
+"pos": "LB",
+"team": "DET"
 },
 "00-0037291": {
 "pos": "WR",
+"team": "LV",
 "wr": "Outside"
 },
 "00-0037292": {
-"pos": "TE"
+"pos": "TE",
+"team": "IND"
 },
 "00-0037294": {
 "detail": "DE",
 "idp_name": "Jordan Jackson",
-"pos": "IDL"
+"pos": "IDL",
+"team": "DEN"
 },
 "00-0037301": {
 "detail": "FS",
 "idp_name": "Theo Jackson",
-"pos": "S"
+"pos": "S",
+"team": "MIN"
 },
 "00-0037304": {
-"pos": "RB"
+"pos": "RB",
+"team": "LV"
 },
 "00-0037310": {
 "detail": "OLB",
 "idp_name": "James Houston",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "DAL"
 },
 "00-0037311": {
-"pos": "TE"
+"pos": "TE",
+"team": "TB"
 },
 "00-0037312": {
 "detail": "ILB",
@@ -2567,20 +3153,24 @@
 "00-0037313": {
 "detail": "CB",
 "idp_name": "Montaric Brown",
-"pos": "CB"
+"pos": "CB",
+"team": "JAX"
 },
 "00-0037317": {
-"pos": "TE"
+"pos": "TE",
+"team": "ATL"
 },
 "00-0037320": {
 "detail": "CB",
 "idp_name": "Deane Leonard",
-"pos": "CB"
+"pos": "CB",
+"team": "LAC"
 },
 "00-0037323": {
 "detail": "FS",
 "idp_name": "Rodney Thomas II",
-"pos": "S"
+"pos": "S",
+"team": "SEA"
 },
 "00-0037353": {
 "detail": "CB",
@@ -2593,9 +3183,10 @@
 "pos": "IDL"
 },
 "00-0037364": {
-"detail": "DE",
+"detail": "OLB",
 "idp_name": "Arron Mosby",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "GB"
 },
 "00-0037380": {
 "pos": "WR",
@@ -2603,22 +3194,31 @@
 },
 "00-0037382": {
 "pos": "WR",
+"team": "PIT",
 "wr": "Outside"
 },
 "00-0037384": {
 "detail": "SCB",
 "idp_name": "Ja'Quan McMillian",
-"pos": "CB"
+"pos": "CB",
+"team": "DEN"
 },
 "00-0037457": {
 "detail": "ILB",
 "idp_name": "Jake Hansen",
-"pos": "LB"
+"pos": "LB",
+"team": "HOU"
 },
 "00-0037461": {
 "detail": "SS",
 "idp_name": "Tristin McCollum",
-"pos": "S"
+"pos": "S",
+"team": "LV"
+},
+"00-0037468": {
+"detail": "FS",
+"pos": "S",
+"team": "NYG"
 },
 "00-0037487": {
 "pos": "WR",
@@ -2627,19 +3227,23 @@
 "00-0037493": {
 "detail": "FS",
 "idp_name": "Mike Brown",
-"pos": "S"
+"pos": "S",
+"team": "NE"
 },
 "00-0037512": {
 "detail": "FS",
 "idp_name": "Isaiah Pola-Mao",
-"pos": "S"
+"pos": "S",
+"team": "LV"
 },
 "00-0037524": {
 "pos": "WR",
+"team": "DET",
 "wr": "Outside"
 },
 "00-0037525": {
-"pos": "RB"
+"pos": "RB",
+"team": "MIN"
 },
 "00-0037526": {
 "detail": "ILB",
@@ -2649,10 +3253,12 @@
 "00-0037527": {
 "detail": "ILB",
 "idp_name": "Segun Olubi",
-"pos": "LB"
+"pos": "LB",
+"team": "LV"
 },
 "00-0037545": {
 "pos": "WR",
+"team": "SEA",
 "wr": "Outside"
 },
 "00-0037557": {
@@ -2661,17 +3267,20 @@
 "00-0037561": {
 "detail": "SS",
 "idp_name": "Markquese Bell",
-"pos": "S"
+"pos": "S",
+"team": "DAL"
 },
 "00-0037578": {
 "detail": "SS",
 "idp_name": "Juanyeh Thomas",
-"pos": "S"
+"pos": "S",
+"team": "DAL"
 },
 "00-0037585": {
 "detail": "DT",
 "idp_name": "Timmy Horne",
-"pos": "IDL"
+"pos": "IDL",
+"team": "TEN"
 },
 "00-0037587": {
 "detail": "ILB",
@@ -2679,31 +3288,37 @@
 "pos": "LB"
 },
 "00-0037594": {
-"pos": "RB"
+"pos": "RB",
+"team": "TEN"
 },
 "00-0037596": {
 "detail": "ILB",
 "idp_name": "Jack Gibbens",
-"pos": "LB"
+"pos": "LB",
+"team": "ARI"
 },
 "00-0037611": {
-"detail": "OLB",
+"detail": "ILB",
 "idp_name": "Kayvon Thibodeaux",
-"pos": "EDGE"
+"pos": "LB",
+"team": "NYG"
 },
 "00-0037614": {
 "pos": "WR",
+"team": "CAR",
 "wr": "Slot"
 },
 "00-0037615": {
 "detail": "ILB",
 "idp_name": "Nakobe Dean",
-"pos": "LB"
+"pos": "LB",
+"team": "LV"
 },
 "00-0037616": {
 "detail": "FS",
 "idp_name": "Nick Cross",
-"pos": "S"
+"pos": "S",
+"team": "WAS"
 },
 "00-0037633": {
 "detail": "ILB",
@@ -2713,12 +3328,14 @@
 "00-0037661": {
 "detail": "CB",
 "idp_name": "Ja'Marcus Ingram",
-"pos": "CB"
+"pos": "CB",
+"team": "HOU"
 },
 "00-0037663": {
 "detail": "DE",
 "idp_name": "Jermaine Johnson II",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "TEN"
 },
 "00-0037664": {
 "pos": "WR",
@@ -2727,10 +3344,12 @@
 "00-0037665": {
 "detail": "DE",
 "idp_name": "Sam Williams",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "CLE"
 },
 "00-0037666": {
 "pos": "WR",
+"team": "MIA",
 "wr": "Outside"
 },
 "00-0037711": {
@@ -2740,72 +3359,89 @@
 },
 "00-0037740": {
 "pos": "WR",
+"team": "NYJ",
 "wr": "Outside"
 },
 "00-0037741": {
 "pos": "WR",
+"team": "ATL",
 "wr": "Outside"
 },
 "00-0037742": {
 "pos": "WR",
+"team": "WAS",
 "wr": "Outside"
 },
 "00-0037743": {
 "detail": "SCB",
 "idp_name": "Dax Hill",
-"pos": "CB"
+"pos": "CB",
+"team": "CIN"
 },
 "00-0037744": {
-"pos": "TE"
+"pos": "TE",
+"team": "ARI"
 },
 "00-0037745": {
-"pos": "RB"
+"pos": "RB",
+"team": "SEA"
 },
 "00-0037746": {
-"pos": "RB"
+"pos": "RB",
+"team": "ATL"
 },
 "00-0037752": {
 "detail": "FS",
 "idp_name": "Tycen Anderson",
-"pos": "S"
+"pos": "S",
+"team": "DEN"
 },
 "00-0037753": {
 "detail": "CB",
 "idp_name": "Cam Taylor-Britt",
-"pos": "CB"
+"pos": "CB",
+"team": "IND"
 },
 "00-0037755": {
-"pos": "TE"
+"pos": "TE",
+"team": "NYJ"
 },
 "00-0037756": {
 "detail": "DT",
 "idp_name": "Travis Jones",
-"pos": "IDL"
+"pos": "IDL",
+"team": "BAL"
 },
 "00-0037758": {
 "detail": "CB",
 "idp_name": "Cor'Dale Flott",
-"pos": "CB"
+"pos": "CB",
+"team": "TEN"
 },
 "00-0037799": {
 "detail": "OLB",
 "idp_name": "Dondrea Tillman",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "DEN"
 },
 "00-0037801": {
 "pos": "WR",
+"team": "DAL",
 "wr": "Slot"
 },
 "00-0037805": {
-"pos": "TE"
+"pos": "TE",
+"team": "NYJ"
 },
 "00-0037809": {
-"pos": "TE"
+"pos": "TE",
+"team": "WAS"
 },
 "00-0037815": {
 "detail": "OLB",
 "idp_name": "Cameron Thomas",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "ATL"
 },
 "00-0037816": {
 "pos": "WR",
@@ -2816,26 +3452,36 @@
 "idp_name": "Leo Chenal",
 "pos": "LB"
 },
+"00-0037822": {
+"detail": "ILB",
+"pos": "LB",
+"team": "ATL"
+},
 "00-0037823": {
 "detail": "ILB",
 "idp_name": "Christian Harris",
-"pos": "LB"
+"pos": "LB",
+"team": "ATL"
 },
 "00-0037826": {
-"detail": "DE",
+"detail": "OLB",
 "idp_name": "Drake Jackson",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "ATL"
 },
 "00-0037834": {
-"pos": "QB"
+"pos": "QB",
+"team": "SF"
 },
 "00-0037838": {
-"pos": "TE"
+"pos": "TE",
+"team": "NYG"
 },
 "00-0037839": {
 "detail": "CB",
 "idp_name": "Cobie Durant",
-"pos": "CB"
+"pos": "CB",
+"team": "DAL"
 },
 "00-0037840": {
 "pos": "RB"
@@ -2853,40 +3499,48 @@
 "00-0037843": {
 "detail": "DE",
 "idp_name": "Daniel Hardy",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "CHI"
 },
 "00-0037844": {
-"detail": "SS",
+"detail": "FS",
 "idp_name": "Russ Yeast",
-"pos": "CB"
+"pos": "S",
+"team": "CIN"
 },
 "00-0038038": {
 "detail": "SCB",
 "idp_name": "Kyle Hamilton",
-"pos": "CB"
+"pos": "CB",
+"team": "BAL"
 },
 "00-0038039": {
 "detail": "CB",
 "idp_name": "Jack Jones",
-"pos": "CB"
+"pos": "CB",
+"team": "SF"
 },
 "00-0038041": {
-"pos": "TE"
+"pos": "TE",
+"team": "DAL"
 },
 "00-0038043": {
 "detail": "CB",
 "idp_name": "Joshua Williams",
-"pos": "CB"
+"pos": "CB",
+"team": "TEN"
 },
 "00-0038046": {
-"pos": "TE"
+"pos": "TE",
+"team": "LAC"
 },
 "00-0038090": {
 "pos": "WR",
 "wr": "Outside"
 },
 "00-0038098": {
-"pos": "RB"
+"pos": "RB",
+"team": "GB"
 },
 "00-0038099": {
 "detail": "DT",
@@ -2896,15 +3550,18 @@
 "00-0038100": {
 "detail": "SS",
 "idp_name": "Percy Butler",
-"pos": "S"
+"pos": "S",
+"team": "WAS"
 },
 "00-0038101": {
 "detail": "CB",
 "idp_name": "Akayleb Evans",
-"pos": "CB"
+"pos": "CB",
+"team": "CAR"
 },
 "00-0038102": {
-"pos": "QB"
+"pos": "QB",
+"team": "CAR"
 },
 "00-0038104": {
 "pos": "WR",
@@ -2913,7 +3570,8 @@
 "00-0038106": {
 "detail": "DT",
 "idp_name": "Eyioma Uwazurike",
-"pos": "IDL"
+"pos": "IDL",
+"team": "DEN"
 },
 "00-0038107": {
 "detail": "DE",
@@ -2923,65 +3581,80 @@
 "00-0038111": {
 "detail": "SCB",
 "idp_name": "Kyler Gordon",
-"pos": "CB"
+"pos": "CB",
+"team": "CHI"
 },
 "00-0038115": {
-"pos": "TE"
+"pos": "TE",
+"team": "TEN"
 },
 "00-0038116": {
 "detail": "OLB",
 "idp_name": "Arnold Ebiketie",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "PHI"
 },
 "00-0038117": {
 "pos": "WR",
+"team": "TEN",
 "wr": "Slot"
 },
 "00-0038120": {
-"pos": "RB"
+"pos": "RB",
+"team": "NYJ"
 },
 "00-0038121": {
 "detail": "CB",
 "idp_name": "Alontae Taylor",
-"pos": "CB"
+"pos": "CB",
+"team": "TEN"
 },
 "00-0038123": {
 "detail": "SS",
 "idp_name": "Dane Belton",
-"pos": "S"
+"pos": "S",
+"team": "NYJ"
 },
 "00-0038124": {
 "pos": "WR",
+"team": "GB",
 "wr": "Outside"
 },
 "00-0038125": {
 "detail": "SCB",
 "idp_name": "Roger McCreary",
-"pos": "CB"
+"pos": "CB",
+"team": "DET"
 },
 "00-0038127": {
 "detail": "DT",
 "idp_name": "Logan Hall",
-"pos": "IDL"
+"pos": "IDL",
+"team": "HOU"
 },
 "00-0038128": {
-"pos": "QB"
+"pos": "QB",
+"team": "MIA"
 },
 "00-0038129": {
-"pos": "TE"
+"pos": "TE",
+"team": "TB"
 },
 "00-0038133": {
 "detail": "DE",
 "idp_name": "Boye Mafe",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "CIN"
 },
 "00-0038134": {
-"pos": "RB"
+"pos": "RB",
+"team": "KC"
 },
 "00-0038135": {
-"detail": "FS",
+"detail": "SS",
 "idp_name": "Jaquan Brisker",
-"pos": "S"
+"pos": "S",
+"team": "PIT"
 },
 "00-0038359": {
 "pos": "WR",
@@ -2995,63 +3668,86 @@
 "00-0038386": {
 "detail": "DT",
 "idp_name": "Jalen Carter",
-"pos": "IDL"
+"pos": "IDL",
+"team": "PHI"
 },
 "00-0038387": {
 "detail": "DE",
 "idp_name": "Colby Wooden",
-"pos": "IDL"
+"pos": "IDL",
+"team": "NO"
 },
 "00-0038390": {
 "detail": "ILB",
 "idp_name": "Noah Sewell",
-"pos": "LB"
+"pos": "LB",
+"team": "CHI"
 },
 "00-0038393": {
 "pos": "WR",
+"team": "PHI",
 "wr": "Outside"
 },
 "00-0038394": {
-"pos": "TE"
+"pos": "TE",
+"team": "IND"
+},
+"00-0038395": {
+"detail": "CB",
+"pos": "CB",
+"team": "PIT"
+},
+"00-0038397": {
+"pos": "RB",
+"team": "ARI"
 },
 "00-0038398": {
 "detail": "DE",
 "idp_name": "Karl Brooks",
-"pos": "IDL"
+"pos": "IDL",
+"team": "GB"
 },
 "00-0038399": {
 "detail": "ILB",
 "idp_name": "Zaire Barnes",
-"pos": "LB"
+"pos": "LB",
+"team": "NYG"
 },
 "00-0038400": {
-"pos": "QB"
+"pos": "QB",
+"team": "PHI"
 },
 "00-0038407": {
 "detail": "CB",
 "idp_name": "Jaylon Jones",
-"pos": "CB"
+"pos": "CB",
+"team": "TEN"
 },
 "00-0038408": {
 "detail": "CB",
 "idp_name": "Carrington Valentine",
-"pos": "CB"
+"pos": "CB",
+"team": "GB"
 },
 "00-0038409": {
-"pos": "RB"
+"pos": "RB",
+"team": "PIT"
 },
 "00-0038412": {
 "detail": "DE",
 "idp_name": "Moro Ojomo",
-"pos": "IDL"
+"pos": "IDL",
+"team": "PHI"
 },
 "00-0038414": {
 "detail": "SS",
 "idp_name": "Kendall Williamson",
-"pos": "S"
+"pos": "S",
+"team": "LAC"
 },
 "00-0038416": {
-"pos": "QB"
+"pos": "QB",
+"team": "CHI"
 },
 "00-0038429": {
 "detail": "ILB",
@@ -3062,21 +3758,26 @@
 "pos": "RB"
 },
 "00-0038454": {
-"pos": "RB"
+"pos": "RB",
+"team": "LAC"
 },
 "00-0038463": {
 "detail": "OLB",
 "idp_name": "Brenton Cox Jr.",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "GB"
 },
 "00-0038476": {
-"pos": "QB"
+"pos": "QB",
+"team": "NE"
 },
 "00-0038488": {
-"pos": "RB"
+"pos": "RB",
+"team": "SEA"
 },
 "00-0038489": {
-"pos": "RB"
+"pos": "RB",
+"team": "KC"
 },
 "00-0038493": {
 "detail": "ILB",
@@ -3089,12 +3790,18 @@
 "00-0038504": {
 "detail": "ILB",
 "idp_name": "Trenton Simpson",
-"pos": "LB"
+"pos": "LB",
+"team": "BAL"
 },
 "00-0038505": {
 "detail": "OLB",
 "idp_name": "Tavius Robinson",
 "pos": "EDGE"
+},
+"00-0038506": {
+"detail": "DT",
+"pos": "IDL",
+"team": "GB"
 },
 "00-0038513": {
 "detail": "ILB",
@@ -3104,31 +3811,38 @@
 "00-0038514": {
 "detail": "DE",
 "idp_name": "Truman Jones",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "TEN"
 },
 "00-0038519": {
 "pos": "WR",
+"team": "KC",
 "wr": "Outside"
 },
 "00-0038521": {
 "detail": "SCB",
 "idp_name": "Reese Taylor",
-"pos": "CB"
+"pos": "CB",
+"team": "MIA"
 },
 "00-0038541": {
 "detail": "OLB",
 "idp_name": "Tyree Wilson",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "NO"
 },
 "00-0038542": {
-"pos": "RB"
+"pos": "RB",
+"team": "ATL"
 },
 "00-0038543": {
 "pos": "WR",
+"team": "SEA",
 "wr": "Outside"
 },
 "00-0038544": {
 "pos": "WR",
+"team": "LAC",
 "wr": "Outside"
 },
 "00-0038545": {
@@ -3139,33 +3853,40 @@
 "00-0038546": {
 "detail": "DE",
 "idp_name": "Myles Murphy",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "CIN"
 },
 "00-0038547": {
-"pos": "TE"
+"pos": "TE",
+"team": "DAL"
 },
 "00-0038549": {
 "detail": "CB",
 "idp_name": "DJ Turner II",
-"pos": "CB"
+"pos": "CB",
+"team": "CIN"
 },
 "00-0038551": {
-"pos": "RB"
+"pos": "RB",
+"team": "NO"
 },
 "00-0038552": {
 "detail": "CB",
 "idp_name": "Riley Moss",
-"pos": "CB"
+"pos": "CB",
+"team": "DEN"
 },
 "00-0038553": {
 "detail": "ILB",
 "idp_name": "Daiyan Henley",
-"pos": "LB"
+"pos": "LB",
+"team": "LAC"
 },
 "00-0038554": {
 "detail": "FS",
 "idp_name": "Ji'Ayir Brown",
-"pos": "S"
+"pos": "S",
+"team": "SF"
 },
 "00-0038555": {
 "pos": "RB"
@@ -3173,55 +3894,67 @@
 "00-0038556": {
 "detail": "ILB",
 "idp_name": "DeMarvion Overshown",
-"pos": "LB"
+"pos": "LB",
+"team": "DAL"
 },
 "00-0038557": {
 "detail": "ILB",
 "idp_name": "Dorian Williams",
-"pos": "LB"
+"pos": "LB",
+"team": "BUF"
 },
 "00-0038558": {
-"pos": "TE"
+"pos": "TE",
+"team": "PIT"
 },
 "00-0038559": {
 "pos": "WR",
+"team": "ARI",
 "wr": "Outside"
 },
 "00-0038560": {
 "detail": "SS",
 "idp_name": "Jordan Battle",
-"pos": "S"
+"pos": "S",
+"team": "CIN"
 },
 "00-0038563": {
 "pos": "WR",
+"team": "LV",
 "wr": "Slot"
 },
 "00-0038564": {
-"pos": "TE"
+"pos": "TE",
+"team": "NE"
 },
 "00-0038565": {
 "detail": "CB",
 "idp_name": "Mekhi Blackmon",
-"pos": "CB"
+"pos": "CB",
+"team": "CLE"
 },
 "00-0038568": {
 "detail": "CB",
 "idp_name": "Clark Phillips III",
-"pos": "CB"
+"pos": "CB",
+"team": "CHI"
 },
 "00-0038570": {
 "detail": "ILB",
 "idp_name": "Ventrell Miller",
-"pos": "LB"
+"pos": "LB",
+"team": "JAX"
 },
 "00-0038573": {
 "pos": "WR",
+"team": "LAC",
 "wr": "Slot"
 },
 "00-0038574": {
 "detail": "DE",
 "idp_name": "Isaiah McGuire",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "CLE"
 },
 "00-0038575": {
 "detail": "DE",
@@ -3230,17 +3963,24 @@
 },
 "00-0038576": {
 "pos": "WR",
-"wr": "Outside"
+"team": "NYG",
+"wr": "Slot"
 },
 "00-0038577": {
 "detail": "OLB",
 "idp_name": "Nick Herbig",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "PIT"
 },
 "00-0038578": {
 "detail": "SCB",
 "idp_name": "Jay Ward",
-"pos": "CB"
+"pos": "CB",
+"team": "MIN"
+},
+"00-0038579": {
+"pos": "QB",
+"team": "LV"
 },
 "00-0038580": {
 "detail": "OLB",
@@ -3255,33 +3995,40 @@
 "00-0038588": {
 "detail": "SS",
 "idp_name": "Jordan Howden",
-"pos": "S"
+"pos": "S",
+"team": "NO"
 },
 "00-0038589": {
-"pos": "TE"
+"pos": "TE",
+"team": "GB"
 },
 "00-0038591": {
 "detail": "DE",
 "idp_name": "Mike Morris",
-"pos": "IDL"
+"pos": "IDL",
+"team": "SEA"
 },
 "00-0038594": {
 "detail": "CB",
 "idp_name": "Darrell Luter Jr.",
-"pos": "CB"
+"pos": "CB",
+"team": "LV"
 },
 "00-0038596": {
 "detail": "SS",
 "idp_name": "Antonio Johnson",
-"pos": "S"
+"pos": "S",
+"team": "JAX"
 },
 "00-0038597": {
-"pos": "RB"
+"pos": "RB",
+"team": "CIN"
 },
 "00-0038599": {
 "detail": "ILB",
 "idp_name": "Henry To'oTo'o",
-"pos": "LB"
+"pos": "LB",
+"team": "HOU"
 },
 "00-0038600": {
 "detail": "ILB",
@@ -3291,26 +4038,32 @@
 "00-0038603": {
 "detail": "DE",
 "idp_name": "Rob Beal Jr.",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "MIA"
 },
 "00-0038605": {
 "detail": "SS",
 "idp_name": "JL Skinner",
-"pos": "S"
+"pos": "S",
+"team": "DEN"
 },
 "00-0038606": {
 "pos": "WR",
+"team": "JAX",
 "wr": "Slot"
 },
 "00-0038608": {
 "pos": "WR",
+"team": "HOU",
 "wr": "Outside"
 },
 "00-0038611": {
-"pos": "RB"
+"pos": "RB",
+"team": "JAX"
 },
 "00-0038614": {
-"pos": "RB"
+"pos": "RB",
+"team": "LAC"
 },
 "00-0038616": {
 "detail": "CB",
@@ -3319,6 +4072,7 @@
 },
 "00-0038618": {
 "pos": "WR",
+"team": "HOU",
 "wr": "Slot"
 },
 "00-0038619": {
@@ -3332,27 +4086,32 @@
 },
 "00-0038621": {
 "pos": "WR",
+"team": "NE",
 "wr": "Slot"
 },
 "00-0038623": {
 "detail": "DE",
 "idp_name": "Dante Stills",
-"pos": "IDL"
+"pos": "IDL",
+"team": "ARI"
 },
 "00-0038624": {
 "detail": "CB",
 "idp_name": "Ameer Speed",
-"pos": "CB"
+"pos": "CB",
+"team": "DAL"
 },
 "00-0038625": {
 "detail": "ILB",
 "idp_name": "Dee Winters",
-"pos": "LB"
+"pos": "LB",
+"team": "DAL"
 },
 "00-0038628": {
 "detail": "FS",
 "idp_name": "DeMarcco Hellams",
-"pos": "S"
+"pos": "S",
+"team": "ATL"
 },
 "00-0038635": {
 "detail": "DE",
@@ -3361,35 +4120,42 @@
 },
 "00-0038640": {
 "pos": "WR",
+"team": "ARI",
 "wr": "Outside"
 },
 "00-0038642": {
 "detail": "CB",
 "idp_name": "DJ Ivey",
-"pos": "CB"
+"pos": "CB",
+"team": "CIN"
 },
 "00-0038643": {
-"pos": "TE"
+"pos": "TE",
+"team": "SF"
 },
 "00-0038648": {
 "detail": "ILB",
 "idp_name": "Jalen Graham",
-"pos": "LB"
+"pos": "LB",
+"team": "SF"
 },
 "00-0038653": {
 "detail": "DT",
 "idp_name": "Cory Durden",
-"pos": "IDL"
+"pos": "IDL",
+"team": "NE"
 },
 "00-0038660": {
 "detail": "ILB",
 "idp_name": "Trevor Nowaske",
-"pos": "LB"
+"pos": "LB",
+"team": "DET"
 },
 "00-0038663": {
 "detail": "CB",
 "idp_name": "Starling Thomas V",
-"pos": "CB"
+"pos": "CB",
+"team": "ARI"
 },
 "00-0038685": {
 "pos": "RB"
@@ -3397,13 +4163,16 @@
 "00-0038694": {
 "detail": "DT",
 "idp_name": "Brandon Pili",
-"pos": "IDL"
+"pos": "IDL",
+"team": "SEA"
 },
 "00-0038705": {
-"pos": "RB"
+"pos": "RB",
+"team": "DAL"
 },
 "00-0038710": {
-"pos": "TE"
+"pos": "TE",
+"team": "CLE"
 },
 "00-0038711": {
 "detail": "ILB",
@@ -3413,14 +4182,17 @@
 "00-0038715": {
 "detail": "FS",
 "idp_name": "Ronnie Hickman",
-"pos": "S"
+"pos": "S",
+"team": "CLE"
 },
 "00-0038728": {
 "pos": "WR",
+"team": "MIA",
 "wr": "Outside"
 },
 "00-0038738": {
-"pos": "RB"
+"pos": "RB",
+"team": "DAL"
 },
 "00-0038740": {
 "pos": "WR",
@@ -3429,30 +4201,36 @@
 "00-0038742": {
 "detail": "OLB",
 "idp_name": "Tyrus Wheat",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "DAL"
 },
 "00-0038764": {
 "detail": "ILB",
 "idp_name": "Patrick O'Connell",
-"pos": "LB"
+"pos": "LB",
+"team": "SEA"
 },
 "00-0038765": {
 "detail": "FS",
 "idp_name": "Ty Okada",
-"pos": "S"
+"pos": "S",
+"team": "SEA"
 },
 "00-0038778": {
 "detail": "DT",
 "idp_name": "Jalen Redmond",
-"pos": "IDL"
+"pos": "IDL",
+"team": "MIN"
 },
 "00-0038782": {
 "detail": "OLB",
 "idp_name": "Eku Leota",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "ARI"
 },
 "00-0038783": {
-"pos": "TE"
+"pos": "TE",
+"team": "DEN"
 },
 "00-0038788": {
 "detail": "CB",
@@ -3465,25 +4243,30 @@
 "pos": "EDGE"
 },
 "00-0038794": {
-"pos": "RB"
+"pos": "RB",
+"team": "CLE"
 },
 "00-0038797": {
-"pos": "RB"
+"pos": "RB",
+"team": "SEA"
 },
 "00-0038807": {
 "detail": "ILB",
 "idp_name": "Ivan Pace Jr.",
-"pos": "LB"
+"pos": "LB",
+"team": "MIN"
 },
 "00-0038820": {
-"detail": "SS",
+"detail": "SCB",
 "idp_name": "Christian Izien",
-"pos": "S"
+"pos": "CB",
+"team": "DET"
 },
 "00-0038823": {
 "detail": "SS",
 "idp_name": "Kaevon Merriweather",
-"pos": "S"
+"pos": "S",
+"team": "JAX"
 },
 "00-0038824": {
 "pos": "WR",
@@ -3491,10 +4274,12 @@
 },
 "00-0038839": {
 "pos": "WR",
+"team": "CIN",
 "wr": "Slot"
 },
 "00-0038840": {
 "pos": "WR",
+"team": "CAR",
 "wr": "Outside"
 },
 "00-0038848": {
@@ -3505,7 +4290,8 @@
 "00-0038851": {
 "detail": "OLB",
 "idp_name": "Caleb Murphy",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "LAC"
 },
 "00-0038866": {
 "detail": "SS",
@@ -3515,136 +4301,180 @@
 "00-0038890": {
 "detail": "ILB",
 "idp_name": "Shaka Heyward",
-"pos": "LB"
+"pos": "LB",
+"team": "MIA"
 },
 "00-0038896": {
-"pos": "RB"
+"pos": "RB",
+"team": "DET"
 },
 "00-0038922": {
 "detail": "ILB",
 "idp_name": "Drake Thomas",
-"pos": "LB"
+"pos": "LB",
+"team": "SEA"
 },
 "00-0038930": {
 "pos": "RB"
 },
 "00-0038933": {
-"pos": "TE"
+"pos": "TE",
+"team": "BUF"
 },
 "00-0038935": {
-"pos": "TE"
+"pos": "TE",
+"team": "JAX"
+},
+"00-0038938": {
+"pos": "WR",
+"team": "NYG",
+"wr": "Outside"
 },
 "00-0038940": {
 "detail": "DE",
 "idp_name": "Tyler Lacy",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "DET"
 },
 "00-0038951": {
-"pos": "RB"
+"pos": "RB",
+"team": "TB"
 },
 "00-0038976": {
 "pos": "WR",
+"team": "DEN",
 "wr": "Slot"
+},
+"00-0038977": {
+"pos": "WR",
+"team": "HOU",
+"wr": "Outside"
 },
 "00-0038978": {
 "detail": "DT",
 "idp_name": "Byron Young",
-"pos": "IDL"
+"pos": "IDL",
+"team": "PHI"
 },
 "00-0038979": {
 "pos": "WR",
+"team": "NO",
 "wr": "Outside"
 },
 "00-0038980": {
 "detail": "DT",
 "idp_name": "Zach Harrison",
-"pos": "IDL"
+"pos": "IDL",
+"team": "ATL"
 },
 "00-0038982": {
 "detail": "SS",
 "idp_name": "Chamarri Conner",
-"pos": "S"
+"pos": "S",
+"team": "KC"
 },
 "00-0038984": {
 "detail": "CB",
 "idp_name": "Kei'Trel Clark",
-"pos": "CB"
+"pos": "CB",
+"team": "ARI"
 },
 "00-0038986": {
 "detail": "SCB",
 "idp_name": "Nic Jones",
-"pos": "CB"
+"pos": "CB",
+"team": "NYG"
 },
 "00-0038994": {
 "pos": "WR",
+"team": "MIN",
 "wr": "Outside"
 },
 "00-0038996": {
-"pos": "TE"
+"pos": "TE",
+"team": "GB"
 },
 "00-0038997": {
 "pos": "WR",
+"team": "IND",
 "wr": "Slot"
+},
+"00-0038998": {
+"pos": "QB",
+"team": "NYG"
 },
 "00-0039000": {
 "detail": "CB",
 "idp_name": "Deonte Banks",
-"pos": "CB"
+"pos": "CB",
+"team": "NYG"
 },
 "00-0039002": {
 "detail": "SCB",
 "idp_name": "Sydney Brown",
-"pos": "CB"
+"pos": "CB",
+"team": "ATL"
 },
 "00-0039006": {
 "detail": "DE",
 "idp_name": "Felix Anudike-Uzomah",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "KC"
 },
 "00-0039007": {
 "detail": "SCB",
 "idp_name": "Garrett Williams",
-"pos": "CB"
+"pos": "CB",
+"team": "ARI"
 },
 "00-0039013": {
 "detail": "OLB",
 "idp_name": "Nolan Smith Jr.",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "PHI"
 },
 "00-0039018": {
 "detail": "ILB",
 "idp_name": "Jack Campbell",
-"pos": "LB"
+"pos": "LB",
+"team": "DET"
 },
 "00-0039021": {
-"pos": "RB"
+"pos": "RB",
+"team": "CHI"
 },
 "00-0039031": {
 "detail": "DT",
 "idp_name": "Adetomiwa Adebawore",
-"pos": "IDL"
+"pos": "IDL",
+"team": "IND"
 },
 "00-0039032": {
-"pos": "RB"
+"pos": "RB",
+"team": "TEN"
 },
 "00-0039040": {
 "pos": "RB"
 },
 "00-0039041": {
-"pos": "TE"
+"pos": "TE",
+"team": "ARI"
 },
 "00-0039047": {
 "detail": "OLB",
 "idp_name": "Derick Hall",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "SEA"
 },
 "00-0039049": {
 "detail": "ILB",
 "idp_name": "SirVocea Dennis",
-"pos": "LB"
+"pos": "LB",
+"team": "TB"
 },
 "00-0039050": {
-"pos": "TE"
+"pos": "TE",
+"team": "TB"
 },
 "00-0039053": {
 "detail": "OLB",
@@ -3658,41 +4488,50 @@
 },
 "00-0039062": {
 "pos": "WR",
+"team": "DAL",
 "wr": "Outside"
 },
 "00-0039063": {
 "detail": "DE",
 "idp_name": "Calijah Kancey",
-"pos": "IDL"
+"pos": "IDL",
+"team": "TB"
 },
 "00-0039064": {
 "pos": "WR",
+"team": "BAL",
 "wr": "Slot"
 },
 "00-0039065": {
-"pos": "TE"
+"pos": "TE",
+"team": "DET"
 },
 "00-0039066": {
-"pos": "TE"
+"pos": "TE",
+"team": "LV"
 },
 "00-0039067": {
 "pos": "WR",
+"team": "KC",
 "wr": "Slot"
 },
 "00-0039068": {
 "detail": "OLB",
 "idp_name": "Yaya Diaby",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "TB"
 },
 "00-0039070": {
 "detail": "DT",
 "idp_name": "Gervon Dexter Sr.",
-"pos": "IDL"
+"pos": "IDL",
+"team": "ATL"
 },
 "00-0039071": {
 "detail": "CB",
 "idp_name": "Tyrique Stevenson Sr.",
-"pos": "CB"
+"pos": "CB",
+"team": "CHI"
 },
 "00-0039074": {
 "pos": "TE"
@@ -3701,28 +4540,37 @@
 "pos": "WR",
 "wr": "Outside"
 },
+"00-0039076": {
+"detail": "OLB",
+"pos": "EDGE",
+"team": "CAR"
+},
 "00-0039107": {
 "pos": "QB"
 },
 "00-0039108": {
 "detail": "DE",
 "idp_name": "Will Anderson Jr.",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "HOU"
 },
 "00-0039110": {
-"detail": "DT",
+"detail": "DE",
 "idp_name": "Keeanu Benton",
-"pos": "IDL"
+"pos": "IDL",
+"team": "PIT"
 },
 "00-0039111": {
 "detail": "OLB",
 "idp_name": "Tuli Tuipulotu",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "LAC"
 },
 "00-0039112": {
 "detail": "OLB",
 "idp_name": "Lukas Van Ness",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "GB"
 },
 "00-0039137": {
 "detail": "OLB",
@@ -3735,17 +4583,25 @@
 "pos": "IDL"
 },
 "00-0039139": {
-"pos": "RB"
+"pos": "RB",
+"team": "DET"
 },
 "00-0039140": {
 "detail": "CB",
 "idp_name": "Kelee Ringo",
-"pos": "CB"
+"pos": "CB",
+"team": "PHI"
+},
+"00-0039141": {
+"detail": "FS",
+"pos": "S",
+"team": "DET"
 },
 "00-0039142": {
 "detail": "OLB",
 "idp_name": "Will McDonald IV",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "NYJ"
 },
 "00-0039146": {
 "pos": "WR",
@@ -3754,20 +4610,24 @@
 "00-0039147": {
 "detail": "CB",
 "idp_name": "Christian Gonzalez",
-"pos": "CB"
+"pos": "CB",
+"team": "NE"
 },
 "00-0039148": {
 "detail": "DE",
 "idp_name": "Keion White",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "SF"
 },
 "00-0039149": {
 "detail": "FS",
 "idp_name": "Quan Martin",
-"pos": "S"
+"pos": "S",
+"team": "WAS"
 },
 "00-0039150": {
-"pos": "QB"
+"pos": "QB",
+"team": "CAR"
 },
 "00-0039151": {
 "detail": "CB",
@@ -3777,35 +4637,50 @@
 "00-0039156": {
 "detail": "CB",
 "idp_name": "JuJu Brents",
-"pos": "CB"
+"pos": "CB",
+"team": "MIA"
 },
 "00-0039163": {
-"pos": "QB"
+"pos": "QB",
+"team": "HOU"
+},
+"00-0039164": {
+"pos": "QB",
+"team": "IND"
+},
+"00-0039165": {
+"pos": "RB",
+"team": "SEA"
 },
 "00-0039167": {
 "detail": "CB",
 "idp_name": "Joey Porter Jr.",
-"pos": "CB"
+"pos": "CB",
+"team": "DAL"
 },
 "00-0039169": {
 "detail": "CB",
 "idp_name": "Devon Witherspoon",
-"pos": "CB"
+"pos": "CB",
+"team": "SEA"
 },
 "00-0039176": {
 "detail": "DT",
 "idp_name": "C.J. Okoye",
-"pos": "IDL"
+"pos": "IDL",
+"team": "NYG"
 },
 "00-0039178": {
 "detail": "ILB",
 "idp_name": "Austin Ajiake",
-"pos": "LB"
+"pos": "LB",
+"team": "IND"
 },
 "00-0039232": {
 "detail": "CB",
 "idp_name": "Nate Wiggins",
-"pos": "CB"
+"pos": "CB",
+"team": "BAL"
 },
 "00-0039234": {
 "detail": "CB",
@@ -3815,12 +4690,14 @@
 "00-0039239": {
 "detail": "SCB",
 "idp_name": "Kalen King",
-"pos": "CB"
+"pos": "CB",
+"team": "ARI"
 },
 "00-0039277": {
 "detail": "ILB",
 "idp_name": "Jimmy Ciarlo",
-"pos": "LB"
+"pos": "LB",
+"team": "SEA"
 },
 "00-0039284": {
 "detail": "OLB",
@@ -3835,15 +4712,18 @@
 "00-0039289": {
 "detail": "DE",
 "idp_name": "Leonard Taylor III",
-"pos": "IDL"
+"pos": "IDL",
+"team": "NE"
 },
 "00-0039299": {
-"pos": "RB"
+"pos": "RB",
+"team": "SEA"
 },
 "00-0039309": {
 "detail": "DT",
 "idp_name": "Byron Murphy II",
-"pos": "IDL"
+"pos": "IDL",
+"team": "SEA"
 },
 "00-0039313": {
 "detail": "ILB",
@@ -3853,22 +4733,26 @@
 "00-0039324": {
 "detail": "FS",
 "idp_name": "Chris Roland-Wallace",
-"pos": "CB"
+"pos": "S",
+"team": "KC"
 },
 "00-0039325": {
 "pos": "RB"
 },
 "00-0039337": {
 "pos": "WR",
+"team": "NYG",
 "wr": "Outside"
 },
 "00-0039338": {
-"pos": "TE"
+"pos": "TE",
+"team": "LV"
 },
 "00-0039340": {
 "detail": "DE",
 "idp_name": "Laiatu Latu",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "IND"
 },
 "00-0039342": {
 "pos": "WR",
@@ -3877,7 +4761,8 @@
 "00-0039343": {
 "detail": "CB",
 "idp_name": "Kamari Lassiter",
-"pos": "CB"
+"pos": "CB",
+"team": "HOU"
 },
 "00-0039344": {
 "pos": "RB"
@@ -3885,103 +4770,130 @@
 "00-0039345": {
 "detail": "CB",
 "idp_name": "Renardo Green",
-"pos": "CB"
+"pos": "CB",
+"team": "SF"
 },
 "00-0039347": {
 "detail": "ILB",
 "idp_name": "Trevin Wallace",
-"pos": "LB"
+"pos": "LB",
+"team": "NYJ"
 },
 "00-0039353": {
 "detail": "CB",
 "idp_name": "Jarrian Jones",
-"pos": "CB"
+"pos": "CB",
+"team": "JAX"
 },
 "00-0039355": {
 "pos": "WR",
+"team": "WAS",
 "wr": "Slot"
+},
+"00-0039356": {
+"pos": "TE",
+"team": "CAR"
 },
 "00-0039357": {
 "detail": "CB",
 "idp_name": "Decamerion Richardson",
-"pos": "CB"
+"pos": "CB",
+"team": "NO"
 },
 "00-0039359": {
-"pos": "TE"
+"pos": "TE",
+"team": "HOU"
 },
 "00-0039360": {
 "detail": "SS",
 "idp_name": "Malik Mustapha",
-"pos": "S"
+"pos": "S",
+"team": "SF"
 },
 "00-0039361": {
-"pos": "RB"
+"pos": "RB",
+"team": "TB"
 },
 "00-0039364": {
-"pos": "RB"
+"pos": "RB",
+"team": "DET"
 },
 "00-0039365": {
 "pos": "WR",
+"team": "SF",
 "wr": "Outside"
 },
 "00-0039366": {
 "detail": "SCB",
 "idp_name": "Tarheeb Still",
-"pos": "CB"
+"pos": "CB",
+"team": "LAC"
 },
 "00-0039368": {
 "detail": "ILB",
 "idp_name": "Jordan Magee",
-"pos": "LB"
+"pos": "LB",
+"team": "WAS"
 },
 "00-0039369": {
 "detail": "CB",
 "idp_name": "Cam Hart",
-"pos": "CB"
+"pos": "CB",
+"team": "LAC"
 },
 "00-0039371": {
 "detail": "CB",
 "idp_name": "Kris Abrams-Draine",
-"pos": "CB"
+"pos": "CB",
+"team": "DEN"
 },
 "00-0039372": {
 "detail": "SCB",
 "idp_name": "Jarvis Brownlee Jr.",
-"pos": "CB"
+"pos": "CB",
+"team": "NYJ"
 },
 "00-0039373": {
-"pos": "RB"
+"pos": "RB",
+"team": "CLE"
 },
 "00-0039374": {
 "detail": "ILB",
 "idp_name": "Tommy Eichenberg",
-"pos": "LB"
+"pos": "LB",
+"team": "LV"
 },
 "00-0039375": {
 "detail": "CB",
 "idp_name": "Josh Newton",
-"pos": "CB"
+"pos": "CB",
+"team": "CIN"
 },
 "00-0039376": {
-"pos": "QB"
+"pos": "QB",
+"team": "NO"
 },
 "00-0039377": {
 "detail": "ILB",
 "idp_name": "Jaylon Carlies",
-"pos": "LB"
+"pos": "LB",
+"team": "IND"
 },
 "00-0039380": {
 "detail": "SCB",
 "idp_name": "Chau Smith-Wade",
-"pos": "CB"
+"pos": "CB",
+"team": "CAR"
 },
 "00-0039383": {
 "detail": "CB",
 "idp_name": "Jaylin Simpson",
-"pos": "CB"
+"pos": "CB",
+"team": "MIA"
 },
 "00-0039384": {
-"pos": "RB"
+"pos": "RB",
+"team": "NYG"
 },
 "00-0039387": {
 "detail": "CB",
@@ -3991,30 +4903,44 @@
 "00-0039388": {
 "detail": "ILB",
 "idp_name": "Jaylan Ford",
-"pos": "LB"
+"pos": "LB",
+"team": "NO"
 },
 "00-0039390": {
 "detail": "CB",
 "idp_name": "Marcellas Dial Jr.",
-"pos": "CB"
+"pos": "CB",
+"team": "MIA"
 },
 "00-0039391": {
-"pos": "RB"
+"pos": "RB",
+"team": "LAC"
 },
 "00-0039395": {
 "detail": "ILB",
 "idp_name": "Jamal Hill",
 "pos": "LB"
 },
+"00-0039396": {
+"detail": "DT",
+"pos": "IDL",
+"team": "DET"
+},
+"00-0039398": {
+"pos": "QB",
+"team": "PHI"
+},
 "00-0039401": {
 "detail": "DT",
 "idp_name": "Khristian Boyd",
-"pos": "IDL"
+"pos": "IDL",
+"team": "NO"
 },
 "00-0039402": {
 "detail": "DT",
 "idp_name": "Jaden Crumedy",
-"pos": "IDL"
+"pos": "IDL",
+"team": "HOU"
 },
 "00-0039405": {
 "pos": "RB"
@@ -4025,10 +4951,12 @@
 "pos": "LB"
 },
 "00-0039407": {
-"pos": "RB"
+"pos": "RB",
+"team": "LV"
 },
 "00-0039410": {
 "pos": "WR",
+"team": "DAL",
 "wr": "Slot"
 },
 "00-0039412": {
@@ -4039,31 +4967,37 @@
 "00-0039417": {
 "detail": "SCB",
 "idp_name": "Myles Harden",
-"pos": "CB"
+"pos": "CB",
+"team": "CLE"
 },
 "00-0039421": {
 "detail": "DT",
 "idp_name": "Levi Drake Rodriguez",
-"pos": "IDL"
+"pos": "IDL",
+"team": "MIN"
 },
 "00-0039423": {
 "detail": "DT",
 "idp_name": "Jonah Laulu",
-"pos": "IDL"
+"pos": "IDL",
+"team": "LV"
 },
 "00-0039424": {
 "pos": "WR",
+"team": "NO",
 "wr": "Slot"
 },
 "00-0039430": {
 "detail": "ILB",
 "idp_name": "James Williams Sr.",
-"pos": "LB"
+"pos": "LB",
+"team": "TEN"
 },
 "00-0039431": {
 "detail": "DE",
 "idp_name": "Jowon Briggs",
-"pos": "IDL"
+"pos": "IDL",
+"team": "NYJ"
 },
 "00-0039433": {
 "detail": "DT",
@@ -4073,15 +5007,18 @@
 "00-0039435": {
 "detail": "ILB",
 "idp_name": "Tatum Bethune",
-"pos": "LB"
+"pos": "LB",
+"team": "SF"
 },
 "00-0039447": {
 "detail": "OLB",
 "idp_name": "Nate Lynn",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "NYJ"
 },
 "00-0039451": {
 "pos": "WR",
+"team": "NYJ",
 "wr": "Slot"
 },
 "00-0039460": {
@@ -4092,7 +5029,8 @@
 "00-0039461": {
 "detail": "DE",
 "idp_name": "Jamree Kromah",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "CHI"
 },
 "00-0039465": {
 "detail": "CB",
@@ -4108,30 +5046,37 @@
 "pos": "RB"
 },
 "00-0039489": {
-"pos": "TE"
+"pos": "TE",
+"team": "LAC"
 },
 "00-0039491": {
 "pos": "WR",
+"team": "CAR",
 "wr": "Slot"
 },
 "00-0039515": {
 "detail": "ILB",
 "idp_name": "Winston Reid",
-"pos": "LB"
+"pos": "LB",
+"team": "CLE"
 },
 "00-0039518": {
-"pos": "TE"
+"pos": "TE",
+"team": "NO"
 },
 "00-0039530": {
-"pos": "TE"
+"pos": "TE",
+"team": "DAL"
 },
 "00-0039532": {
 "detail": "SS",
 "idp_name": "Julius Wood",
-"pos": "S"
+"pos": "S",
+"team": "MIA"
 },
 "00-0039589": {
 "pos": "WR",
+"team": "TB",
 "wr": "Slot"
 },
 "00-0039603": {
@@ -4140,12 +5085,14 @@
 "00-0039622": {
 "detail": "ILB",
 "idp_name": "Isaiah Stalbird",
-"pos": "LB"
+"pos": "LB",
+"team": "NO"
 },
 "00-0039632": {
 "detail": "FS",
 "idp_name": "PJ Jules",
-"pos": "S"
+"pos": "S",
+"team": "CIN"
 },
 "00-0039637": {
 "detail": "ILB",
@@ -4153,7 +5100,8 @@
 "pos": "LB"
 },
 "00-0039648": {
-"pos": "TE"
+"pos": "TE",
+"team": "TEN"
 },
 "00-0039660": {
 "detail": "SS",
@@ -4163,10 +5111,12 @@
 "00-0039681": {
 "detail": "SCB",
 "idp_name": "Tyler Owens",
-"pos": "CB"
+"pos": "CB",
+"team": "WAS"
 },
 "00-0039686": {
-"pos": "TE"
+"pos": "TE",
+"team": "WAS"
 },
 "00-0039692": {
 "detail": "SS",
@@ -4180,7 +5130,8 @@
 "00-0039718": {
 "detail": "OLB",
 "idp_name": "Bo Richter",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "MIN"
 },
 "00-0039725": {
 "detail": "CB",
@@ -4188,12 +5139,14 @@
 "pos": "CB"
 },
 "00-0039732": {
-"pos": "QB"
+"pos": "QB",
+"team": "DEN"
 },
 "00-0039733": {
 "detail": "DT",
 "idp_name": "Ruke Orhorhoro",
-"pos": "IDL"
+"pos": "IDL",
+"team": "JAX"
 },
 "00-0039734": {
 "detail": "DE",
@@ -4210,12 +5163,14 @@
 "00-0039740": {
 "detail": "OLB",
 "idp_name": "Jalyx Hunt",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "PHI"
 },
 "00-0039741": {
 "detail": "ILB",
 "idp_name": "Payton Wilson",
-"pos": "LB"
+"pos": "LB",
+"team": "PIT"
 },
 "00-0039746": {
 "pos": "RB"
@@ -4232,17 +5187,20 @@
 "00-0039752": {
 "detail": "DE",
 "idp_name": "Cedric Johnson",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "CIN"
 },
 "00-0039763": {
 "detail": "ILB",
 "idp_name": "Joe Andreessen",
-"pos": "LB"
+"pos": "LB",
+"team": "BUF"
 },
 "00-0039770": {
 "detail": "CB",
 "idp_name": "Charles Woods",
-"pos": "CB"
+"pos": "CB",
+"team": "NE"
 },
 "00-0039772": {
 "detail": "SCB",
@@ -4272,33 +5230,46 @@
 "00-0039789": {
 "detail": "CB",
 "idp_name": "Qwan'tez Stiggers",
-"pos": "CB"
+"pos": "CB",
+"team": "NYJ"
+},
+"00-0039791": {
+"detail": "ILB",
+"pos": "LB",
+"team": "BAL"
 },
 "00-0039792": {
 "pos": "WR",
+"team": "BAL",
 "wr": "Outside"
 },
 "00-0039793": {
-"pos": "TE"
+"pos": "TE",
+"team": "SEA"
 },
 "00-0039794": {
-"pos": "RB"
+"pos": "RB",
+"team": "NYJ"
 },
 "00-0039795": {
 "detail": "CB",
 "idp_name": "Nehemiah Pritchett",
-"pos": "CB"
+"pos": "CB",
+"team": "SEA"
 },
 "00-0039796": {
-"pos": "RB"
+"pos": "RB",
+"team": "BAL"
 },
 "00-0039798": {
-"pos": "RB"
+"pos": "RB",
+"team": "NYJ"
 },
 "00-0039807": {
 "detail": "CB",
 "idp_name": "Max Melton",
-"pos": "CB"
+"pos": "CB",
+"team": "ARI"
 },
 "00-0039809": {
 "detail": "OLB",
@@ -4306,58 +5277,74 @@
 "pos": "EDGE"
 },
 "00-0039811": {
-"pos": "RB"
+"pos": "RB",
+"team": "GB"
 },
 "00-0039812": {
 "detail": "ILB",
 "idp_name": "Ty'Ron Hopper",
-"pos": "LB"
+"pos": "LB",
+"team": "GB"
 },
 "00-0039813": {
 "detail": "FS",
 "idp_name": "Evan Williams",
-"pos": "S"
+"pos": "S",
+"team": "GB"
 },
 "00-0039814": {
-"pos": "TE"
+"pos": "TE",
+"team": "CIN"
 },
 "00-0039815": {
 "detail": "ILB",
 "idp_name": "Tyrice Knight",
-"pos": "LB"
+"pos": "LB",
+"team": "SEA"
 },
 "00-0039816": {
 "pos": "WR",
+"team": "IND",
 "wr": "Slot"
 },
 "00-0039818": {
 "detail": "SS",
 "idp_name": "Kitan Oladapo",
-"pos": "S"
+"pos": "S",
+"team": "GB"
 },
 "00-0039821": {
 "detail": "SCB",
 "idp_name": "Dru Phillips",
-"pos": "CB"
+"pos": "CB",
+"team": "NYG"
+},
+"00-0039824": {
+"pos": "TE",
+"team": "KC"
 },
 "00-0039825": {
 "detail": "SS",
 "idp_name": "Jaden Hicks",
-"pos": "S"
+"pos": "S",
+"team": "KC"
 },
 "00-0039826": {
 "detail": "ILB",
-"pos": "LB"
+"pos": "LB",
+"team": "PHI"
 },
 "00-0039829": {
 "detail": "ILB",
 "idp_name": "Darius Muasau",
-"pos": "LB"
+"pos": "LB",
+"team": "NE"
 },
 "00-0039831": {
 "detail": "SCB",
 "idp_name": "Kamal Hadden",
-"pos": "CB"
+"pos": "CB",
+"team": "GB"
 },
 "00-0039834": {
 "detail": "FS",
@@ -4367,7 +5354,8 @@
 "00-0039835": {
 "detail": "DE",
 "idp_name": "Justin Eboigbe",
-"pos": "IDL"
+"pos": "IDL",
+"team": "LAC"
 },
 "00-0039837": {
 "detail": "OLB",
@@ -4377,28 +5365,34 @@
 "00-0039838": {
 "detail": "SS",
 "idp_name": "Calen Bullock",
-"pos": "S"
+"pos": "S",
+"team": "HOU"
 },
 "00-0039840": {
 "detail": "DE",
 "idp_name": "Austin Booker",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "CHI"
 },
 "00-0039841": {
 "detail": "SCB",
 "idp_name": "Cooper DeJean",
-"pos": "CB"
+"pos": "CB",
+"team": "PHI"
 },
 "00-0039846": {
 "detail": "SS",
 "idp_name": "Tykee Smith",
-"pos": "S"
+"pos": "S",
+"team": "TB"
 },
 "00-0039847": {
-"pos": "TE"
+"pos": "TE",
+"team": "NYG"
 },
 "00-0039849": {
 "pos": "WR",
+"team": "HOU",
 "wr": "Outside"
 },
 "00-0039850": {
@@ -4407,17 +5401,20 @@
 "pos": "LB"
 },
 "00-0039851": {
-"pos": "QB"
+"pos": "QB",
+"team": "NE"
 },
 "00-0039852": {
 "detail": "DE",
 "idp_name": "Jared Verse",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "CLE"
 },
 "00-0039854": {
 "detail": "DE",
 "idp_name": "Darius Robinson",
-"pos": "IDL"
+"pos": "IDL",
+"team": "ARI"
 },
 "00-0039855": {
 "pos": "WR",
@@ -4426,181 +5423,226 @@
 "00-0039858": {
 "detail": "ILB",
 "idp_name": "Cedric Gray",
-"pos": "LB"
+"pos": "LB",
+"team": "TEN"
 },
 "00-0039859": {
 "detail": "DE",
 "idp_name": "Brandon Dorlus",
-"pos": "IDL"
+"pos": "IDL",
+"team": "ATL"
 },
 "00-0039860": {
 "detail": "CB",
 "idp_name": "Kool-Aid McKinstry",
-"pos": "CB"
+"pos": "CB",
+"team": "NO"
 },
 "00-0039861": {
 "detail": "SS",
 "idp_name": "Tyler Nubin",
-"pos": "S"
+"pos": "S",
+"team": "NYG"
 },
 "00-0039862": {
 "detail": "CB",
 "idp_name": "Ennis Rakestraw Jr.",
-"pos": "CB"
+"pos": "CB",
+"team": "DET"
 },
 "00-0039864": {
 "detail": "FS",
 "idp_name": "Dadrion Taylor-Demerson",
-"pos": "S"
+"pos": "S",
+"team": "ARI"
 },
 "00-0039867": {
 "detail": "SCB",
 "idp_name": "Javon Bullard",
-"pos": "CB"
+"pos": "CB",
+"team": "GB"
 },
 "00-0039868": {
 "pos": "WR",
+"team": "DEN",
 "wr": "Slot"
 },
 "00-0039872": {
 "detail": "SS",
 "idp_name": "Cole Bishop",
-"pos": "S"
+"pos": "S",
+"team": "BUF"
 },
 "00-0039873": {
 "detail": "DT",
 "idp_name": "DeWayne Carter",
-"pos": "IDL"
+"pos": "IDL",
+"team": "BUF"
 },
 "00-0039874": {
-"pos": "RB"
+"pos": "RB",
+"team": "MIA"
 },
 "00-0039875": {
-"pos": "RB"
+"pos": "RB",
+"team": "BUF"
 },
 "00-0039879": {
 "detail": "OLB",
 "idp_name": "Javon Solomon",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "BUF"
 },
 "00-0039880": {
 "pos": "WR",
+"team": "MIA",
 "wr": "Slot"
 },
 "00-0039886": {
 "detail": "DT",
 "idp_name": "T'Vondre Sweat",
-"pos": "IDL"
+"pos": "IDL",
+"team": "NYJ"
 },
 "00-0039888": {
 "detail": "CB",
 "idp_name": "Quinyon Mitchell",
-"pos": "CB"
+"pos": "CB",
+"team": "PHI"
 },
 "00-0039889": {
 "detail": "DT",
 "idp_name": "Maason Smith",
-"pos": "IDL"
+"pos": "IDL",
+"team": "ATL"
 },
 "00-0039890": {
 "pos": "WR",
+"team": "NYJ",
 "wr": "Outside"
 },
 "00-0039893": {
 "pos": "WR",
+"team": "JAX",
 "wr": "Outside"
 },
 "00-0039894": {
 "pos": "WR",
+"team": "KC",
 "wr": "Outside"
 },
 "00-0039895": {
 "detail": "DT",
 "idp_name": "Mike Hall Jr.",
-"pos": "IDL"
+"pos": "IDL",
+"team": "CLE"
 },
 "00-0039898": {
 "detail": "SCB",
 "idp_name": "Mike Sainristil",
-"pos": "CB"
+"pos": "CB",
+"team": "WAS"
 },
 "00-0039901": {
 "pos": "WR",
+"team": "BUF",
 "wr": "Outside"
 },
 "00-0039908": {
 "detail": "DT",
 "idp_name": "Kris Jenkins Jr.",
-"pos": "IDL"
+"pos": "IDL",
+"team": "CIN"
 },
 "00-0039910": {
-"pos": "QB"
+"pos": "QB",
+"team": "WAS"
 },
 "00-0039911": {
 "detail": "DE",
 "idp_name": "Chop Robinson",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "MIA"
 },
 "00-0039912": {
-"pos": "TE"
+"pos": "TE",
+"team": "WAS"
 },
 "00-0039915": {
 "pos": "WR",
+"team": "LAC",
 "wr": "Slot"
 },
 "00-0039917": {
-"pos": "QB"
+"pos": "QB",
+"team": "ATL"
 },
 "00-0039918": {
-"pos": "QB"
+"pos": "QB",
+"team": "CHI"
 },
 "00-0039919": {
 "pos": "WR",
+"team": "CHI",
 "wr": "Outside"
 },
 "00-0039920": {
 "pos": "WR",
+"team": "CLE",
 "wr": "Outside"
 },
 "00-0039923": {
-"pos": "QB"
+"pos": "QB",
+"team": "NYG"
 },
 "00-0039924": {
 "detail": "OLB",
 "idp_name": "Dallas Turner",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "MIN"
 },
 "00-0040008": {
 "detail": "CB",
 "idp_name": "Shavon Revel Jr.",
-"pos": "CB"
+"pos": "CB",
+"team": "DAL"
 },
 "00-0040009": {
 "pos": "WR",
+"team": "GB",
 "wr": "Slot"
 },
 "00-0040010": {
 "detail": "OLB",
 "idp_name": "Barryn Sorrell",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "GB"
 },
 "00-0040011": {
 "detail": "ILB",
 "idp_name": "Shemar James",
-"pos": "LB"
+"pos": "LB",
+"team": "DAL"
 },
 "00-0040013": {
 "detail": "ILB",
 "idp_name": "Smael Mondon Jr.",
-"pos": "LB"
+"pos": "LB",
+"team": "PHI"
+},
+"00-0040014": {
+"pos": "QB",
+"team": "MIA"
 },
 "00-0040020": {
 "detail": "CB",
 "idp_name": "Micah Robinson",
-"pos": "CB"
+"pos": "CB",
+"team": "TEN"
 },
 "00-0040024": {
 "pos": "WR",
+"team": "PHI",
 "wr": "Outside"
 },
 "00-0040026": {
@@ -4611,30 +5653,36 @@
 "00-0040041": {
 "detail": "DT",
 "idp_name": "Nazir Stackhouse",
-"pos": "IDL"
+"pos": "IDL",
+"team": "TEN"
 },
 "00-0040043": {
 "detail": "ILB",
 "idp_name": "Justin Barron",
-"pos": "LB"
+"pos": "LB",
+"team": "DAL"
 },
 "00-0040045": {
 "detail": "FS",
 "idp_name": "Alijah Clark",
-"pos": "S"
+"pos": "S",
+"team": "DAL"
 },
 "00-0040056": {
 "detail": "DE",
 "idp_name": "Jared Ivey",
-"pos": "IDL"
+"pos": "IDL",
+"team": "ATL"
 },
 "00-0040058": {
-"pos": "TE"
+"pos": "TE",
+"team": "SEA"
 },
 "00-0040061": {
 "detail": "ILB",
 "idp_name": "Connor O'Toole",
-"pos": "EDGE"
+"pos": "LB",
+"team": "SEA"
 },
 "00-0040065": {
 "detail": "CB",
@@ -4644,98 +5692,119 @@
 "00-0040066": {
 "detail": "ILB",
 "idp_name": "Jackson Woodard",
-"pos": "LB"
+"pos": "LB",
+"team": "MIA"
 },
 "00-0040069": {
 "detail": "ILB",
 "idp_name": "Teddye Buchanan",
-"pos": "LB"
+"pos": "LB",
+"team": "BAL"
 },
 "00-0040071": {
 "detail": "SCB",
 "idp_name": "Mac McWilliams",
-"pos": "CB"
+"pos": "CB",
+"team": "PHI"
 },
 "00-0040072": {
 "detail": "ILB",
 "idp_name": "Jeffrey Bassa",
-"pos": "LB"
+"pos": "LB",
+"team": "KC"
 },
 "00-0040075": {
 "pos": "WR",
+"team": "BAL",
 "wr": "Slot"
 },
 "00-0040076": {
 "detail": "DE",
 "idp_name": "Aeneas Peebles",
-"pos": "IDL"
+"pos": "IDL",
+"team": "BAL"
 },
 "00-0040077": {
 "detail": "CB",
 "idp_name": "Robert Longerbeam",
-"pos": "CB"
+"pos": "CB",
+"team": "ATL"
 },
 "00-0040078": {
 "pos": "RB"
 },
 "00-0040081": {
-"pos": "TE"
+"pos": "TE",
+"team": "KC"
 },
 "00-0040089": {
 "detail": "SCB",
 "idp_name": "Kevin Knowles",
-"pos": "CB"
+"pos": "CB",
+"team": "TB"
 },
 "00-0040100": {
 "detail": "ILB",
 "idp_name": "Jay Higgins IV",
-"pos": "LB"
+"pos": "LB",
+"team": "BAL"
 },
 "00-0040104": {
-"detail": "SS",
+"detail": "FS",
 "idp_name": "Keondre Jackson",
-"pos": "S"
+"pos": "S",
+"team": "BAL"
 },
 "00-0040118": {
 "detail": "ILB",
 "idp_name": "Cooper McDonald",
-"pos": "LB"
+"pos": "LB",
+"team": "KC"
 },
 "00-0040122": {
-"pos": "RB"
+"pos": "RB",
+"team": "LV"
 },
 "00-0040124": {
 "pos": "WR",
+"team": "CAR",
 "wr": "Outside"
 },
 "00-0040126": {
-"pos": "TE"
+"pos": "TE",
+"team": "CHI"
 },
 "00-0040127": {
 "detail": "DT",
 "idp_name": "Kenneth Grant",
-"pos": "IDL"
+"pos": "IDL",
+"team": "MIA"
 },
 "00-0040128": {
-"pos": "TE"
+"pos": "TE",
+"team": "IND"
 },
 "00-0040129": {
 "pos": "WR",
+"team": "TB",
 "wr": "Outside"
 },
 "00-0040131": {
 "pos": "WR",
+"team": "NE",
 "wr": "Outside"
 },
 "00-0040132": {
 "detail": "DE",
 "idp_name": "Landon Jackson",
-"pos": "IDL"
+"pos": "IDL",
+"team": "BUF"
 },
 "00-0040133": {
 "detail": "CB",
 "idp_name": "Azareye'h Thomas",
-"pos": "CB"
+"pos": "CB",
+"team": "NYJ"
 },
 "00-0040134": {
 "pos": "WR",
@@ -4744,39 +5813,47 @@
 "00-0040136": {
 "detail": "OLB",
 "idp_name": "Princely Umanmielen",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "CAR"
 },
 "00-0040137": {
 "detail": "OLB",
 "idp_name": "Jordan Burch",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "ARI"
 },
 "00-0040138": {
 "pos": "WR",
+"team": "HOU",
 "wr": "Slot"
 },
 "00-0040139": {
 "detail": "SCB",
 "idp_name": "Justin Walley",
-"pos": "CB"
+"pos": "CB",
+"team": "IND"
 },
 "00-0040141": {
 "detail": "FS",
 "idp_name": "Kevin Winston Jr.",
-"pos": "S"
+"pos": "S",
+"team": "TEN"
 },
 "00-0040142": {
-"pos": "RB"
+"pos": "RB",
+"team": "GB"
 },
 "00-0040143": {
 "detail": "CB",
 "idp_name": "Jacob Parrish",
-"pos": "CB"
+"pos": "CB",
+"team": "TB"
 },
 "00-0040144": {
 "detail": "DT",
 "idp_name": "Jamaree Caldwell",
-"pos": "IDL"
+"pos": "IDL",
+"team": "LAC"
 },
 "00-0040145": {
 "detail": "FS",
@@ -4786,7 +5863,8 @@
 "00-0040148": {
 "detail": "FS",
 "idp_name": "Xavier Watts",
-"pos": "S"
+"pos": "S",
+"team": "ATL"
 },
 "00-0040149": {
 "detail": "CB",
@@ -4796,49 +5874,59 @@
 "00-0040152": {
 "detail": "SCB",
 "idp_name": "Upton Stout",
-"pos": "CB"
+"pos": "CB",
+"team": "SF"
 },
 "00-0040153": {
 "detail": "DE",
 "idp_name": "Sai'vion Jones",
-"pos": "IDL"
+"pos": "IDL",
+"team": "DEN"
 },
 "00-0040154": {
 "pos": "WR",
+"team": "MIN",
 "wr": "Outside"
 },
 "00-0040155": {
 "detail": "ILB",
 "idp_name": "Danny Stutsman",
-"pos": "LB"
+"pos": "LB",
+"team": "NO"
 },
 "00-0040156": {
 "detail": "SCB",
 "idp_name": "Billy Bowman Jr.",
-"pos": "CB"
+"pos": "CB",
+"team": "ATL"
 },
 "00-0040157": {
 "detail": "ILB",
 "idp_name": "Barrett Carter",
-"pos": "LB"
+"pos": "LB",
+"team": "CIN"
 },
 "00-0040158": {
 "detail": "OLB",
 "idp_name": "David Walker",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "TB"
 },
 "00-0040159": {
 "detail": "FS",
 "idp_name": "Lathan Ransom",
-"pos": "S"
+"pos": "S",
+"team": "CAR"
 },
 "00-0040160": {
 "detail": "OLB",
 "idp_name": "Jack Sawyer",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "PIT"
 },
 "00-0040162": {
-"pos": "RB"
+"pos": "RB",
+"team": "CLE"
 },
 "00-0040164": {
 "pos": "WR",
@@ -4847,40 +5935,48 @@
 "00-0040165": {
 "detail": "SS",
 "idp_name": "Malachi Moore",
-"pos": "S"
+"pos": "S",
+"team": "NYJ"
 },
 "00-0040166": {
 "detail": "CB",
 "idp_name": "Quincy Riley",
-"pos": "CB"
+"pos": "CB",
+"team": "NO"
 },
 "00-0040168": {
 "detail": "OLB",
 "idp_name": "Que Robinson",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "DEN"
 },
 "00-0040169": {
 "detail": "DT",
 "idp_name": "Tonka Hemingway",
-"pos": "IDL"
+"pos": "IDL",
+"team": "LV"
 },
 "00-0040170": {
 "pos": "WR",
+"team": "TEN",
 "wr": "Outside"
 },
 "00-0040171": {
 "detail": "DE",
 "idp_name": "Joshua Farmer",
-"pos": "IDL"
+"pos": "IDL",
+"team": "NE"
 },
 "00-0040172": {
 "pos": "WR",
+"team": "SF",
 "wr": "Slot"
 },
 "00-0040173": {
 "detail": "DE",
 "idp_name": "Tyrion Ingram-Dawkins",
-"pos": "IDL"
+"pos": "IDL",
+"team": "MIN"
 },
 "00-0040174": {
 "detail": "DT",
@@ -4890,34 +5986,45 @@
 "00-0040175": {
 "detail": "DT",
 "idp_name": "Jordan Phillips",
-"pos": "IDL"
+"pos": "IDL",
+"team": "MIA"
 },
 "00-0040177": {
-"pos": "RB"
+"pos": "RB",
+"team": "SF"
 },
 "00-0040178": {
 "detail": "CB",
 "idp_name": "Jason Marshall Jr.",
-"pos": "CB"
+"pos": "CB",
+"team": "MIA"
+},
+"00-0040179": {
+"pos": "RB",
+"team": "IND"
 },
 "00-0040182": {
 "detail": "FS",
 "idp_name": "Dante Trader Jr.",
-"pos": "S"
+"pos": "S",
+"team": "MIA"
 },
 "00-0040183": {
 "detail": "DE",
 "idp_name": "Elijah Roberts",
-"pos": "IDL"
+"pos": "IDL",
+"team": "TB"
 },
 "00-0040184": {
 "pos": "WR",
+"team": "LAC",
 "wr": "Outside"
 },
 "00-0040185": {
 "detail": "SS",
 "idp_name": "Marques Sigle",
-"pos": "S"
+"pos": "S",
+"team": "SF"
 },
 "00-0040186": {
 "detail": "ILB",
@@ -4925,15 +6032,18 @@
 "pos": "LB"
 },
 "00-0040187": {
-"pos": "TE"
+"pos": "TE",
+"team": "CAR"
 },
 "00-0040188": {
 "detail": "DT",
 "idp_name": "Yahya Black",
-"pos": "IDL"
+"pos": "IDL",
+"team": "PIT"
 },
 "00-0040189": {
-"pos": "TE"
+"pos": "TE",
+"team": "LAC"
 },
 "00-0040192": {
 "detail": "SCB",
@@ -4941,59 +6051,80 @@
 "pos": "CB"
 },
 "00-0040194": {
-"pos": "TE"
+"pos": "TE",
+"team": "BUF"
 },
 "00-0040195": {
 "detail": "CB",
 "idp_name": "Denzel Burke",
-"pos": "CB"
+"pos": "CB",
+"team": "ARI"
 },
 "00-0040198": {
-"pos": "RB"
+"pos": "RB",
+"team": "MIA"
 },
 "00-0040199": {
 "detail": "DT",
 "idp_name": "JJ Pegues",
-"pos": "IDL"
+"pos": "IDL",
+"team": "LV"
 },
 "00-0040201": {
 "detail": "SCB",
 "idp_name": "Marcus Harris",
-"pos": "CB"
+"pos": "CB",
+"team": "TEN"
+},
+"00-0040203": {
+"pos": "QB",
+"team": "PIT"
 },
 "00-0040204": {
 "detail": "SS",
 "idp_name": "Jaylen Reed",
-"pos": "S"
+"pos": "S",
+"team": "NE"
 },
 "00-0040205": {
-"pos": "RB"
+"pos": "RB",
+"team": "TEN"
+},
+"00-0040206": {
+"pos": "QB",
+"team": "IND"
 },
 "00-0040207": {
 "detail": "DT",
 "idp_name": "Tim Smith",
-"pos": "IDL"
+"pos": "IDL",
+"team": "IND"
 },
 "00-0040208": {
-"pos": "RB"
+"pos": "RB",
+"team": "CIN"
 },
 "00-0040209": {
 "detail": "ILB",
 "idp_name": "Jalen McLeod",
-"pos": "LB"
+"pos": "LB",
+"team": "JAX"
 },
 "00-0040213": {
 "detail": "FS",
 "idp_name": "Rayuan Lane III",
-"pos": "S"
+"pos": "S",
+"team": "JAX"
 },
 "00-0040215": {
-"pos": "TE"
+"pos": "TE",
+"team": "MIN"
 },
 "00-0040216": {
 "detail": "ILB",
 "idp_name": "Kain Medrano",
-"pos": "LB"
+"pos": "LB",
+"team": "WAS"
 },
 "00-0040218": {
 "pos": "WR",
@@ -5002,43 +6133,53 @@
 "00-0040221": {
 "detail": "FS",
 "idp_name": "RJ Mickens",
-"pos": "S"
+"pos": "S",
+"team": "LAC"
 },
 "00-0040225": {
-"pos": "TE"
+"pos": "TE",
+"team": "NYG"
 },
 "00-0040228": {
 "detail": "ILB",
 "idp_name": "Cody Lindenberg",
-"pos": "LB"
+"pos": "LB",
+"team": "LV"
 },
 "00-0040230": {
 "detail": "SS",
 "idp_name": "Kitan Crawford",
-"pos": "S"
+"pos": "S",
+"team": "ARI"
 },
 "00-0040231": {
 "detail": "ILB",
 "idp_name": "Carson Bruener",
-"pos": "LB"
+"pos": "LB",
+"team": "PIT"
 },
 "00-0040234": {
-"pos": "QB"
+"pos": "QB",
+"team": "JAX"
 },
 "00-0040235": {
 "detail": "SS",
 "idp_name": "Hunter Wohler",
-"pos": "S"
+"pos": "S",
+"team": "IND"
 },
 "00-0040236": {
-"pos": "RB"
+"pos": "RB",
+"team": "CHI"
 },
 "00-0040237": {
 "pos": "WR",
+"team": "TB",
 "wr": "Outside"
 },
 "00-0040238": {
-"pos": "RB"
+"pos": "RB",
+"team": "JAX"
 },
 "00-0040242": {
 "pos": "RB"
@@ -5046,7 +6187,8 @@
 "00-0040248": {
 "detail": "DT",
 "idp_name": "Zeek Biggers",
-"pos": "IDL"
+"pos": "IDL",
+"team": "MIA"
 },
 "00-0040249": {
 "detail": "DE",
@@ -5056,17 +6198,20 @@
 "00-0040255": {
 "detail": "DT",
 "idp_name": "Adin Huntington",
-"pos": "IDL"
+"pos": "IDL",
+"team": "CLE"
 },
 "00-0040261": {
 "detail": "ILB",
 "idp_name": "Easton Mascarenas-Arnold",
-"pos": "LB"
+"pos": "LB",
+"team": "CLE"
 },
 "00-0040263": {
 "detail": "SS",
 "idp_name": "Donovan McMillon",
-"pos": "S"
+"pos": "S",
+"team": "CLE"
 },
 "00-0040265": {
 "pos": "WR",
@@ -5074,19 +6219,33 @@
 },
 "00-0040277": {
 "pos": "WR",
+"team": "CHI",
 "wr": "Outside"
+},
+"00-0040283": {
+"detail": "DE",
+"pos": "IDL",
+"team": "ARI"
+},
+"00-0040289": {
+"detail": "ILB",
+"pos": "LB",
+"team": "CAR"
 },
 "00-0040293": {
 "detail": "FS",
 "idp_name": "Mike Reid",
-"pos": "S"
+"pos": "S",
+"team": "NO"
 },
 "00-0040298": {
 "pos": "WR",
-"wr": "Outside"
+"team": "KC",
+"wr": "Slot"
 },
 "00-0040311": {
 "pos": "WR",
+"team": "LAC",
 "wr": "Outside"
 },
 "00-0040318": {
@@ -5097,7 +6256,8 @@
 "00-0040326": {
 "detail": "ILB",
 "idp_name": "Branson Combs",
-"pos": "LB"
+"pos": "LB",
+"team": "JAX"
 },
 "00-0040329": {
 "detail": "DE",
@@ -5115,19 +6275,23 @@
 "00-0040341": {
 "detail": "CB",
 "idp_name": "Doneiko Slaughter",
-"pos": "CB"
+"pos": "CB",
+"team": "PIT"
 },
 "00-0040342": {
 "detail": "DE",
 "idp_name": "Danny Striggow",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "JAX"
 },
 "00-0040352": {
 "pos": "WR",
-"wr": "Outside"
+"team": "GB",
+"wr": "Slot"
 },
 "00-0040363": {
-"pos": "TE"
+"pos": "TE",
+"team": "BUF"
 },
 "00-0040372": {
 "detail": "CB",
@@ -5137,14 +6301,16 @@
 "00-0040384": {
 "detail": "DT",
 "idp_name": "Elijah Simmons",
-"pos": "IDL"
+"pos": "IDL",
+"team": "TB"
 },
 "00-0040390": {
-"pos": "WR",
-"wr": "Outside"
+"pos": "TE",
+"team": "DET"
 },
 "00-0040394": {
-"pos": "RB"
+"pos": "RB",
+"team": "CAR"
 },
 "00-0040397": {
 "detail": "CB",
@@ -5158,7 +6324,8 @@
 "00-0040411": {
 "detail": "SCB",
 "idp_name": "Alijah Huzzie",
-"pos": "CB"
+"pos": "CB",
+"team": "JAX"
 },
 "00-0040425": {
 "detail": "SS",
@@ -5173,24 +6340,32 @@
 "wr": "Outside"
 },
 "00-0040434": {
-"detail": "OLB",
+"detail": "ILB",
 "idp_name": "Trace Ford",
-"pos": "EDGE"
+"pos": "LB",
+"team": "NYG"
 },
 "00-0040449": {
 "detail": "ILB",
 "idp_name": "Karene Reid",
-"pos": "LB"
+"pos": "LB",
+"team": "DEN"
 },
 "00-0040458": {
 "detail": "DE",
 "idp_name": "TeRah Edwards",
-"pos": "IDL"
+"pos": "IDL",
+"team": "CAR"
 },
 "00-0040460": {
 "detail": "ILB",
 "idp_name": "Marlowe Wax",
-"pos": "LB"
+"pos": "LB",
+"team": "LAC"
+},
+"00-0040464": {
+"pos": "QB",
+"team": "LAC"
 },
 "00-0040466": {
 "pos": "RB"
@@ -5198,12 +6373,18 @@
 "00-0040471": {
 "detail": "CB",
 "idp_name": "Nikko Reed",
-"pos": "CB"
+"pos": "CB",
+"team": "NYG"
+},
+"00-0040494": {
+"pos": "QB",
+"team": "MIN"
 },
 "00-0040496": {
 "detail": "OLB",
 "idp_name": "Chaz Chambliss",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "MIN"
 },
 "00-0040501": {
 "detail": "ILB",
@@ -5212,15 +6393,18 @@
 },
 "00-0040506": {
 "pos": "WR",
+"team": "MIN",
 "wr": "Slot"
 },
 "00-0040507": {
 "detail": "CB",
 "idp_name": "Zemaiah Vaughn",
-"pos": "CB"
+"pos": "CB",
+"team": "MIN"
 },
 "00-0040509": {
-"pos": "TE"
+"pos": "TE",
+"team": "MIN"
 },
 "00-0040534": {
 "pos": "WR",
@@ -5229,18 +6413,22 @@
 "00-0040537": {
 "detail": "SS",
 "idp_name": "Elliott Davison",
-"pos": "S"
+"pos": "S",
+"team": "NE"
 },
 "00-0040556": {
-"pos": "RB"
+"pos": "RB",
+"team": "NE"
 },
 "00-0040560": {
 "detail": "DT",
 "idp_name": "Sebastian Valdez",
-"pos": "IDL"
+"pos": "IDL",
+"team": "SF"
 },
 "00-0040563": {
 "pos": "WR",
+"team": "NE",
 "wr": "Outside"
 },
 "00-0040568": {
@@ -5249,12 +6437,14 @@
 "00-0040574": {
 "detail": "OLB",
 "idp_name": "Elijah Ponder",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "NE"
 },
 "00-0040579": {
 "detail": "ILB",
 "idp_name": "Carson Schwesinger",
-"pos": "LB"
+"pos": "LB",
+"team": "CLE"
 },
 "00-0040580": {
 "detail": "OLB",
@@ -5266,22 +6456,29 @@
 "wr": "Outside"
 },
 "00-0040583": {
-"pos": "RB"
+"pos": "RB",
+"team": "HOU"
 },
 "00-0040584": {
-"pos": "TE"
+"pos": "TE",
+"team": "TEN"
 },
 "00-0040585": {
 "detail": "DT",
 "idp_name": "Ty Hamilton",
 "pos": "IDL"
 },
+"00-0040589": {
+"pos": "QB",
+"team": "SF"
+},
 "00-0040590": {
 "pos": "WR",
 "wr": "Slot"
 },
 "00-0040598": {
-"pos": "TE"
+"pos": "TE",
+"team": "GB"
 },
 "00-0040613": {
 "detail": "ILB",
@@ -5292,55 +6489,71 @@
 "pos": "WR",
 "wr": "Outside"
 },
+"00-0040624": {
+"detail": "DT",
+"pos": "IDL",
+"team": "MIN"
+},
 "00-0040634": {
 "detail": "ILB",
 "idp_name": "Jordan Turner",
-"pos": "LB"
+"pos": "LB",
+"team": "DEN"
 },
 "00-0040636": {
 "detail": "SCB",
 "idp_name": "Keyon Martin",
-"pos": "CB"
+"pos": "CB",
+"team": "BAL"
 },
 "00-0040640": {
 "detail": "DE",
 "idp_name": "Ashton Gillotte",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "KC"
 },
 "00-0040641": {
 "detail": "CB",
 "idp_name": "Darien Porter",
-"pos": "CB"
+"pos": "CB",
+"team": "LV"
 },
 "00-0040642": {
 "detail": "DE",
 "idp_name": "Vernon Broughton",
-"pos": "IDL"
+"pos": "IDL",
+"team": "NO"
 },
 "00-0040643": {
 "detail": "SCB",
 "idp_name": "Jonas Sanker",
-"pos": "CB"
+"pos": "CB",
+"team": "NO"
 },
 "00-0040644": {
-"pos": "RB"
+"pos": "RB",
+"team": "CAR"
 },
 "00-0040645": {
 "detail": "ILB",
 "idp_name": "Cody Simon",
-"pos": "LB"
+"pos": "LB",
+"team": "ARI"
 },
 "00-0040646": {
 "pos": "WR",
+"team": "KC",
 "wr": "Outside"
 },
 "00-0040647": {
 "detail": "DT",
 "idp_name": "Rylie Mills",
-"pos": "IDL"
+"pos": "IDL",
+"team": "SEA"
 },
 "00-0040648": {
 "pos": "WR",
+"team": "SEA",
 "wr": "Slot"
 },
 "00-0040655": {
@@ -5351,47 +6564,62 @@
 "00-0040660": {
 "detail": "DE",
 "idp_name": "Mykel Williams",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "SF"
 },
 "00-0040662": {
 "detail": "DT",
 "idp_name": "Ty Robinson",
-"pos": "IDL"
+"pos": "IDL",
+"team": "PHI"
 },
 "00-0040663": {
-"pos": "TE"
+"pos": "TE",
+"team": "CLE"
 },
 "00-0040666": {
-"pos": "RB"
+"pos": "RB",
+"team": "LAC"
 },
 "00-0040667": {
 "pos": "WR",
+"team": "GB",
 "wr": "Outside"
 },
 "00-0040668": {
-"pos": "QB"
+"pos": "QB",
+"team": "CLE"
 },
 "00-0040669": {
 "pos": "WR",
+"team": "DET",
 "wr": "Outside"
 },
 "00-0040670": {
 "detail": "CB",
 "idp_name": "Nohl Williams",
-"pos": "CB"
+"pos": "CB",
+"team": "KC"
 },
 "00-0040672": {
 "detail": "DT",
 "idp_name": "Tyleik Williams",
-"pos": "IDL"
+"pos": "IDL",
+"team": "DET"
+},
+"00-0040673": {
+"pos": "QB",
+"team": "SEA"
 },
 "00-0040676": {
-"pos": "QB"
+"pos": "QB",
+"team": "TEN"
 },
 "00-0040677": {
 "detail": "OLB",
 "idp_name": "Abdul Carter",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "NYG"
 },
 "00-0040678": {
 "detail": "DE",
@@ -5399,24 +6627,28 @@
 "pos": "IDL"
 },
 "00-0040679": {
-"detail": "CB",
+"detail": "SCB",
 "idp_name": "Sean Fresch Jr.",
-"pos": "CB"
+"pos": "CB",
+"team": "DEN"
 },
 "00-0040685": {
 "detail": "DT",
 "idp_name": "Mason Graham",
-"pos": "IDL"
+"pos": "IDL",
+"team": "CLE"
 },
 "00-0040688": {
 "detail": "SS",
 "idp_name": "Malaki Starks",
-"pos": "S"
+"pos": "S",
+"team": "BAL"
 },
 "00-0040689": {
 "detail": "DE",
 "idp_name": "Anthony Campbell",
-"pos": "IDL"
+"pos": "IDL",
+"team": "GB"
 },
 "00-0040691": {
 "pos": "QB"
@@ -5424,31 +6656,37 @@
 "00-0040694": {
 "detail": "DE",
 "idp_name": "Darius Alexander",
-"pos": "IDL"
+"pos": "IDL",
+"team": "NYG"
 },
 "00-0040705": {
 "pos": "WR",
+"team": "TEN",
 "wr": "Slot"
 },
 "00-0040706": {
 "detail": "DE",
 "idp_name": "Walter Nolen III",
-"pos": "IDL"
+"pos": "IDL",
+"team": "ARI"
 },
 "00-0040708": {
 "detail": "ILB",
 "idp_name": "Jihaad Campbell",
-"pos": "LB"
+"pos": "LB",
+"team": "PHI"
 },
 "00-0040709": {
 "detail": "CB",
 "idp_name": "Maxwell Hairston",
-"pos": "CB"
+"pos": "CB",
+"team": "BUF"
 },
 "00-0040710": {
 "detail": "DT",
 "idp_name": "Deone Walker",
-"pos": "IDL"
+"pos": "IDL",
+"team": "BUF"
 },
 "00-0040711": {
 "detail": "DT",
@@ -5456,45 +6694,59 @@
 "pos": "IDL"
 },
 "00-0040715": {
-"pos": "RB"
+"pos": "RB",
+"team": "NYG"
 },
 "00-0040716": {
 "detail": "SS",
 "idp_name": "Craig Woodson",
-"pos": "S"
+"pos": "S",
+"team": "NE"
 },
 "00-0040718": {
 "detail": "CB",
 "idp_name": "Travis Hunter",
 "idp_pos": "CB",
 "pos": "WR",
+"team": "JAX",
 "wr": "Slot"
 },
 "00-0040719": {
-"pos": "RB"
+"pos": "RB",
+"team": "JAX"
 },
 "00-0040720": {
 "detail": "CB",
 "idp_name": "Jahdae Barron",
-"pos": "CB"
+"pos": "CB",
+"team": "DEN"
 },
 "00-0040722": {
 "detail": "OLB",
 "idp_name": "Mike Green",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "BAL"
+},
+"00-0040723": {
+"detail": "ILB",
+"pos": "LB",
+"team": "CIN"
 },
 "00-0040724": {
 "detail": "DE",
 "idp_name": "T.J. Sanders",
-"pos": "IDL"
+"pos": "IDL",
+"team": "BUF"
 },
 "00-0040725": {
 "detail": "OLB",
 "idp_name": "Donovan Ezeiruaku",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "DAL"
 },
 "00-0040727": {
 "pos": "WR",
+"team": "LAC",
 "wr": "Outside"
 },
 "00-0040729": {
@@ -5502,27 +6754,33 @@
 "wr": "Outside"
 },
 "00-0040730": {
-"pos": "RB"
+"pos": "RB",
+"team": "DEN"
 },
 "00-0040731": {
 "detail": "CB",
 "idp_name": "Trey Amos",
-"pos": "CB"
+"pos": "CB",
+"team": "WAS"
 },
 "00-0040733": {
 "detail": "SCB",
 "idp_name": "Nick Emmanwori",
-"pos": "CB"
+"pos": "CB",
+"team": "SEA"
 },
 "00-0040734": {
-"pos": "RB"
+"pos": "RB",
+"team": "NE"
 },
 "00-0040735": {
 "pos": "WR",
+"team": "CHI",
 "wr": "Outside"
 },
 "00-0040736": {
-"pos": "TE"
+"pos": "TE",
+"team": "NYJ"
 },
 "00-0040737": {
 "pos": "TE"
@@ -5530,7 +6788,8 @@
 "00-0040738": {
 "detail": "ILB",
 "idp_name": "Demetrius Knight Jr.",
-"pos": "LB"
+"pos": "LB",
+"team": "CIN"
 },
 "00-0040739": {
 "pos": "TE"
@@ -5538,25 +6797,30 @@
 "00-0040741": {
 "detail": "DE",
 "idp_name": "Shemar Turner",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "CHI"
 },
 "00-0040743": {
-"pos": "QB"
+"pos": "QB",
+"team": "NO"
 },
 "00-0040744": {
 "detail": "DE",
 "idp_name": "Jaylahn Tuimoloau",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "IND"
 },
 "00-0040747": {
 "detail": "CB",
 "idp_name": "Benjamin Morrison",
-"pos": "CB"
+"pos": "CB",
+"team": "TB"
 },
 "00-0040749": {
 "detail": "FS",
 "idp_name": "Andrew Mukuba",
-"pos": "S"
+"pos": "S",
+"team": "PHI"
 },
 "00-0040751": {
 "detail": "CB",
@@ -5566,51 +6830,67 @@
 "00-0040752": {
 "detail": "DE",
 "idp_name": "Oluwafemi Oladejo",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "TEN"
 },
 "00-0040756": {
 "detail": "DE",
 "idp_name": "Shemar Stewart",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "CIN"
+},
+"00-0040761": {
+"detail": "DE",
+"pos": "EDGE",
+"team": "DET"
 },
 "00-0040782": {
 "pos": "WR",
+"team": "CLE",
 "wr": "Slot"
 },
 "00-0040784": {
-"pos": "RB"
+"pos": "RB",
+"team": "CLE"
 },
 "00-0040785": {
 "pos": "WR",
+"team": "CIN",
 "wr": "Slot"
 },
 "00-0040865": {
 "detail": "SCB",
 "idp_name": "Caleb Downs",
-"pos": "CB"
+"pos": "CB",
+"team": "DAL"
 },
 "00-0040867": {
 "pos": "WR",
+"team": "PHI",
 "wr": "Slot"
 },
 "00-0040868": {
 "detail": "FS",
 "idp_name": "Treydan Stukes",
-"pos": "S"
+"pos": "S",
+"team": "LV"
 },
 "00-0040869": {
 "detail": "DT",
 "idp_name": "Chris McClellan",
-"pos": "IDL"
+"pos": "IDL",
+"team": "GB"
 },
 "00-0040870": {
 "pos": "WR",
+"team": "BAL",
 "wr": "Outside"
 },
 "00-0040872": {
 "detail": "ILB",
 "idp_name": "Jaishawn Barham",
-"pos": "LB"
+"pos": "LB",
+"team": "DAL"
 },
 "00-0040873": {
 "detail": "CB",
@@ -5619,51 +6899,72 @@
 },
 "00-0040876": {
 "pos": "WR",
+"team": "BAL",
 "wr": "Outside"
 },
 "00-0040877": {
 "detail": "OLB",
 "idp_name": "Dani Dennis-Sutton",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "GB"
 },
 "00-0040878": {
-"pos": "RB"
+"pos": "RB",
+"team": "LV"
 },
 "00-0040879": {
-"pos": "TE"
+"pos": "TE",
+"team": "BAL"
 },
 "00-0040880": {
 "detail": "DE",
 "idp_name": "LT Overton",
-"pos": "IDL"
+"pos": "IDL",
+"team": "DAL"
 },
 "00-0040883": {
 "detail": "SS",
 "idp_name": "Dalton Johnson",
-"pos": "S"
+"pos": "S",
+"team": "LV"
 },
 "00-0040885": {
 "detail": "SCB",
 "idp_name": "Chandler Rivers",
-"pos": "CB"
+"pos": "CB",
+"team": "BAL"
 },
 "00-0040886": {
-"pos": "RB"
+"pos": "RB",
+"team": "TEN"
 },
 "00-0040887": {
-"pos": "TE"
+"pos": "TE",
+"team": "BAL"
 },
 "00-0040889": {
 "detail": "CB",
 "idp_name": "Hezekiah Masses",
-"pos": "CB"
+"pos": "CB",
+"team": "LV"
 },
 "00-0040890": {
 "pos": "WR",
-"wr": "Slot"
+"team": "KC",
+"wr": "Outside"
+},
+"00-0040891": {
+"pos": "QB",
+"team": "PHI"
+},
+"00-0040892": {
+"detail": "DT",
+"pos": "IDL",
+"team": "TEN"
 },
 "00-0040894": {
 "pos": "WR",
+"team": "LV",
 "wr": "Outside"
 },
 "00-0040905": {
@@ -5671,15 +6972,20 @@
 "idp_name": "Cole Wisniewski",
 "pos": "S"
 },
+"00-0040906": {
+"pos": "QB",
+"team": "KC"
+},
 "00-0040908": {
 "detail": "OLB",
 "idp_name": "Keyshawn James-Newby",
 "pos": "EDGE"
 },
 "00-0040914": {
-"detail": "FS",
+"detail": "SS",
 "idp_name": "Bishop Fitzgerald",
-"pos": "S"
+"pos": "S",
+"team": "DET"
 },
 "00-0040923": {
 "detail": "FS",
@@ -5689,50 +6995,79 @@
 "00-0040928": {
 "detail": "SCB",
 "idp_name": "Kapena Gushiken",
-"pos": "CB"
+"pos": "CB",
+"team": "IND"
+},
+"00-0040930": {
+"pos": "WR",
+"team": "DAL",
+"wr": "Outside"
 },
 "00-0040948": {
 "pos": "WR",
+"team": "GB",
 "wr": "Outside"
 },
 "00-0040957": {
 "detail": "SS",
 "idp_name": "Xavier Nwankpa",
-"pos": "S"
+"pos": "S",
+"team": "KC"
+},
+"00-0040959": {
+"pos": "RB",
+"team": "KC"
 },
 "00-0040978": {
-"detail": "OLB",
+"detail": "ILB",
 "idp_name": "Ethan Burke",
-"pos": "EDGE"
+"pos": "LB",
+"team": "BAL"
+},
+"00-0040981": {
+"pos": "QB",
+"team": "BAL"
+},
+"00-0041006": {
+"detail": "DE",
+"pos": "EDGE",
+"team": "LV"
 },
 "00-0041013": {
-"pos": "RB"
+"pos": "RB",
+"team": "KC"
 },
 "00-0041026": {
 "detail": "OLB",
 "idp_name": "David Bailey",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "NYJ"
 },
 "00-0041027": {
-"pos": "RB"
+"pos": "RB",
+"team": "ARI"
 },
 "00-0041028": {
 "detail": "ILB",
 "idp_name": "Sonny Styles",
-"pos": "LB"
+"pos": "LB",
+"team": "WAS"
 },
 "00-0041031": {
 "detail": "OLB",
 "idp_name": "Rueben Bain Jr.",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "TB"
 },
 "00-0041032": {
-"pos": "TE"
+"pos": "TE",
+"team": "NYJ"
 },
 "00-0041033": {
 "detail": "DE",
 "idp_name": "Caleb Banks",
-"pos": "IDL"
+"pos": "IDL",
+"team": "MIN"
 },
 "00-0041035": {
 "pos": "WR",
@@ -5741,291 +7076,420 @@
 "00-0041036": {
 "detail": "OLB",
 "idp_name": "TJ Parker",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "BUF"
 },
 "00-0041037": {
 "pos": "WR",
+"team": "CLE",
 "wr": "Outside"
 },
 "00-0041038": {
 "detail": "SCB",
 "idp_name": "D'Angelo Ponds",
-"pos": "CB"
+"pos": "CB",
+"team": "NYJ"
 },
 "00-0041039": {
 "detail": "ILB",
 "idp_name": "CJ Allen",
-"pos": "LB"
+"pos": "LB",
+"team": "IND"
 },
 "00-0041040": {
 "pos": "WR",
+"team": "WAS",
 "wr": "Outside"
 },
 "00-0041041": {
-"pos": "TE"
+"pos": "TE",
+"team": "NO"
 },
 "00-0041042": {
 "pos": "WR",
+"team": "NYG",
 "wr": "Outside"
 },
 "00-0041043": {
 "detail": "SS",
 "idp_name": "A.J. Haulcy",
-"pos": "S"
+"pos": "S",
+"team": "IND"
 },
 "00-0041044": {
 "pos": "WR",
+"team": "ATL",
 "wr": "Slot"
 },
 "00-0041045": {
 "detail": "DT",
 "idp_name": "Albert Regis",
-"pos": "IDL"
+"pos": "IDL",
+"team": "JAX"
 },
 "00-0041046": {
 "detail": "DT",
 "idp_name": "Domonique Orange",
-"pos": "IDL"
+"pos": "IDL",
+"team": "MIN"
 },
 "00-0041048": {
 "pos": "WR",
+"team": "TB",
 "wr": "Outside"
 },
 "00-0041051": {
 "pos": "WR",
+"team": "CHI",
 "wr": "Slot"
 },
 "00-0041052": {
-"pos": "RB"
+"pos": "RB",
+"team": "SF"
+},
+"00-0041054": {
+"detail": "SS",
+"pos": "S",
+"team": "MIN"
 },
 "00-0041055": {
 "detail": "FS",
 "idp_name": "Jalen Huskey",
-"pos": "S"
+"pos": "S",
+"team": "JAX"
+},
+"00-0041056": {
+"pos": "QB",
+"team": "NYJ"
 },
 "00-0041057": {
 "detail": "SCB",
 "idp_name": "Keionte Scott",
-"pos": "CB"
+"pos": "CB",
+"team": "TB"
+},
+"00-0041059": {
+"detail": "DE",
+"pos": "EDGE",
+"team": "JAX"
 },
 "00-0041060": {
 "detail": "CB",
 "idp_name": "Malik Muhammad II",
-"pos": "CB"
+"pos": "CB",
+"team": "CHI"
 },
 "00-0041063": {
 "detail": "CB",
 "idp_name": "Will Lee III",
-"pos": "CB"
+"pos": "CB",
+"team": "CAR"
 },
 "00-0041064": {
 "detail": "FS",
 "idp_name": "Genesis Smith",
-"pos": "S"
+"pos": "S",
+"team": "LAC"
 },
 "00-0041066": {
 "detail": "ILB",
 "idp_name": "Kendal Daniels",
-"pos": "LB"
+"pos": "LB",
+"team": "ATL"
 },
 "00-0041067": {
 "pos": "WR",
+"team": "NO",
 "wr": "Outside"
 },
 "00-0041068": {
 "detail": "CB",
 "idp_name": "Ephesians Prysock",
-"pos": "CB"
+"pos": "CB",
+"team": "SF"
 },
 "00-0041069": {
 "pos": "WR",
+"team": "CIN",
 "wr": "Outside"
 },
 "00-0041070": {
 "pos": "WR",
+"team": "ARI",
 "wr": "Outside"
 },
 "00-0041072": {
 "detail": "DE",
 "idp_name": "Nick Barrett",
-"pos": "IDL"
+"pos": "IDL",
+"team": "LAC"
 },
 "00-0041074": {
 "detail": "OLB",
 "idp_name": "Joshua Josephs",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "WAS"
 },
 "00-0041075": {
 "detail": "ILB",
 "idp_name": "Justin Jefferson",
-"pos": "LB"
+"pos": "LB",
+"team": "CLE"
 },
 "00-0041076": {
 "detail": "FS",
 "idp_name": "Zakee Wheatley",
-"pos": "S"
+"pos": "S",
+"team": "CAR"
+},
+"00-0041077": {
+"pos": "TE",
+"team": "MIA"
 },
 "00-0041078": {
 "detail": "ILB",
 "idp_name": "Jaden Dugger",
-"pos": "LB"
+"pos": "LB",
+"team": "SF"
+},
+"00-0041079": {
+"detail": "DT",
+"pos": "IDL",
+"team": "TB"
 },
 "00-0041080": {
 "detail": "DE",
 "idp_name": "George Gumbs Jr.",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "IND"
 },
 "00-0041081": {
-"pos": "RB"
+"pos": "RB",
+"team": "MIN"
 },
 "00-0041083": {
 "detail": "CB",
 "idp_name": "Charles Demmings",
-"pos": "CB"
+"pos": "CB",
+"team": "MIN"
 },
 "00-0041084": {
-"pos": "TE"
+"pos": "TE",
+"team": "JAX"
 },
 "00-0041085": {
 "detail": "ILB",
 "idp_name": "Keyshaun Elliott",
-"pos": "LB"
+"pos": "LB",
+"team": "CHI"
 },
 "00-0041086": {
 "detail": "FS",
 "idp_name": "Jalon Kilgore",
-"pos": "S"
+"pos": "S",
+"team": "BUF"
 },
 "00-0041088": {
 "detail": "CB",
 "idp_name": "Karon Prunty",
-"pos": "CB"
+"pos": "CB",
+"team": "NE"
 },
 "00-0041089": {
 "detail": "SCB",
 "idp_name": "Lorenzo Styles Jr.",
-"pos": "CB"
+"pos": "CB",
+"team": "NO"
+},
+"00-0041092": {
+"pos": "QB",
+"team": "CLE"
 },
 "00-0041093": {
 "detail": "ILB",
 "idp_name": "Karson Sharar",
-"pos": "LB"
+"pos": "LB",
+"team": "ARI"
 },
 "00-0041094": {
-"pos": "TE"
+"pos": "TE",
+"team": "TB"
 },
 "00-0041095": {
 "detail": "DT",
 "idp_name": "Bobby Jamison-Travis",
-"pos": "IDL"
+"pos": "IDL",
+"team": "NYG"
 },
 "00-0041096": {
-"pos": "RB"
+"pos": "RB",
+"team": "MIA"
 },
 "00-0041099": {
 "pos": "WR",
+"team": "NO",
 "wr": "Outside"
 },
 "00-0041100": {
 "pos": "WR",
+"team": "JAX",
 "wr": "Outside"
 },
 "00-0041102": {
 "detail": "ILB",
 "idp_name": "Jack Kelly",
-"pos": "LB"
+"pos": "LB",
+"team": "NYG"
 },
 "00-0041104": {
-"pos": "RB"
+"pos": "RB",
+"team": "MIN"
 },
 "00-0041106": {
 "pos": "WR",
+"team": "JAX",
 "wr": "Outside"
 },
 "00-0041109": {
 "detail": "ILB",
 "idp_name": "Namdi Obiazor",
-"pos": "LB"
+"pos": "LB",
+"team": "NE"
 },
 "00-0041110": {
 "detail": "DT",
 "idp_name": "Jordan van den Berg",
-"pos": "IDL"
+"pos": "IDL",
+"team": "CHI"
 },
 "00-0041111": {
 "detail": "DE",
 "idp_name": "Caden Curry",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "IND"
 },
 "00-0041112": {
 "detail": "ILB",
 "idp_name": "Harold Perkins Jr.",
-"pos": "LB"
+"pos": "LB",
+"team": "ATL"
 },
 "00-0041115": {
 "detail": "CB",
 "idp_name": "Toriano Pride Jr.",
-"pos": "CB"
+"pos": "CB",
+"team": "CLE"
 },
 "00-0041116": {
-"pos": "TE"
+"pos": "TE",
+"team": "CIN"
 },
 "00-0041117": {
-"pos": "QB"
+"pos": "QB",
+"team": "WAS"
+},
+"00-0041118": {
+"detail": "DT",
+"pos": "IDL",
+"team": "CIN"
 },
 "00-0041119": {
 "detail": "ILB",
 "idp_name": "Jackson Kuwatch",
-"pos": "LB"
+"pos": "LB",
+"team": "CAR"
+},
+"00-0041123": {
+"pos": "QB",
+"team": "NE"
 },
 "00-0041125": {
-"pos": "RB"
+"pos": "RB",
+"team": "IND"
 },
 "00-0041131": {
-"pos": "TE"
+"pos": "TE",
+"team": "CLE"
 },
 "00-0041132": {
 "pos": "WR",
+"team": "IND",
 "wr": "Outside"
+},
+"00-0041133": {
+"pos": "TE",
+"team": "DEN"
 },
 "00-0041148": {
 "detail": "DE",
 "idp_name": "Aaron Hall",
-"pos": "IDL"
+"pos": "IDL",
+"team": "CAR"
+},
+"00-0041149": {
+"pos": "QB",
+"team": "CAR"
 },
 "00-0041159": {
 "detail": "DE",
 "idp_name": "Rodney McGraw",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "MIA"
+},
+"00-0041171": {
+"detail": "DT",
+"pos": "IDL",
+"team": "CHI"
 },
 "00-0041175": {
 "detail": "FS",
 "idp_name": "Skyler Thomas",
-"pos": "S"
+"pos": "S",
+"team": "CHI"
+},
+"00-0041178": {
+"pos": "RB",
+"team": "SEA"
 },
 "00-0041194": {
-"pos": "QB"
+"pos": "QB",
+"team": "ATL"
 },
 "00-0041218": {
 "detail": "DE",
 "idp_name": "Bryan Thomas Jr.",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "JAX"
 },
 "00-0041227": {
 "detail": "ILB",
 "idp_name": "Tahj Chambers",
-"pos": "LB"
+"pos": "LB",
+"team": "IND"
 },
 "00-0041251": {
-"pos": "QB"
+"pos": "QB",
+"team": "TB"
 },
 "00-0041253": {
 "detail": "CB",
 "idp_name": "Ayden Garnes",
-"pos": "CB"
+"pos": "CB",
+"team": "TB"
+},
+"00-0041256": {
+"detail": "DE",
+"pos": "EDGE",
+"team": "KC"
+},
+"00-0041261": {
+"detail": "DE",
+"pos": "IDL",
+"team": "PIT"
 },
 "00-0041267": {
 "pos": "WR",
+"team": "NYJ",
 "wr": "Outside"
 },
 "00-0041275": {
@@ -6040,7 +7504,8 @@
 "00-0041305": {
 "detail": "DE",
 "idp_name": "Sabastian Harsh",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "HOU"
 },
 "00-0041313": {
 "detail": "CB",
@@ -6048,40 +7513,48 @@
 "pos": "CB"
 },
 "00-0041314": {
-"pos": "TE"
+"pos": "TE",
+"team": "NE"
 },
 "00-0041316": {
 "detail": "SCB",
 "idp_name": "Channing Canada",
-"pos": "CB"
+"pos": "CB",
+"team": "NE"
 },
 "00-0041320": {
 "detail": "CB",
 "idp_name": "Kenneth Harris",
-"pos": "CB"
+"pos": "CB",
+"team": "IND"
 },
 "00-0041326": {
-"pos": "RB"
+"pos": "RB",
+"team": "NO"
 },
 "00-0041338": {
 "detail": "ILB",
 "idp_name": "Caden Fordham",
-"pos": "LB"
+"pos": "LB",
+"team": "TB"
 },
 "00-0041354": {
 "detail": "SS",
 "idp_name": "Jacob Thomas",
-"pos": "S"
+"pos": "S",
+"team": "MIN"
 },
 "00-0041358": {
 "detail": "DT",
 "idp_name": "Bryson Eason",
-"pos": "IDL"
+"pos": "IDL",
+"team": "KC"
 },
 "00-0041363": {
 "detail": "DT",
 "idp_name": "James Thompson Jr.",
-"pos": "IDL"
+"pos": "IDL",
+"team": "SF"
 },
 "00-0041370": {
 "detail": "SS",
@@ -6091,47 +7564,57 @@
 "00-0041381": {
 "detail": "CB",
 "idp_name": "Rodney Shelley",
-"pos": "CB"
+"pos": "CB",
+"team": "LAC"
 },
 "00-0041382": {
 "detail": "SCB",
 "idp_name": "Avery Smith",
-"pos": "CB"
+"pos": "CB",
+"team": "SEA"
 },
 "00-0041390": {
 "detail": "DT",
 "idp_name": "Christen Miller",
-"pos": "IDL"
+"pos": "IDL",
+"team": "NO"
 },
 "00-0041391": {
 "detail": "CB",
 "idp_name": "Davison Igbinosun",
-"pos": "CB"
+"pos": "CB",
+"team": "BUF"
 },
 "00-0041393": {
 "detail": "CB",
 "idp_name": "Daylen Everette",
-"pos": "CB"
+"pos": "CB",
+"team": "PIT"
 },
 "00-0041395": {
-"pos": "TE"
+"pos": "TE",
+"team": "NE"
 },
 "00-0041397": {
 "pos": "WR",
+"team": "PIT",
 "wr": "Slot"
 },
 "00-0041398": {
-"pos": "RB"
+"pos": "RB",
+"team": "PIT"
 },
 "00-0041400": {
 "detail": "DT",
 "idp_name": "Gabriel Rubio",
-"pos": "EDGE"
+"pos": "IDL",
+"team": "PIT"
 },
 "00-0041401": {
 "detail": "FS",
 "idp_name": "Robert Spears-Jennings",
-"pos": "S"
+"pos": "S",
+"team": "PIT"
 },
 "00-0041402": {
 "detail": "OLB",
@@ -6146,7 +7629,8 @@
 "00-0041410": {
 "detail": "ILB",
 "idp_name": "Jaden Keller",
-"pos": "LB"
+"pos": "LB",
+"team": "NYJ"
 },
 "00-0041415": {
 "pos": "RB"
@@ -6157,45 +7641,54 @@
 "pos": "EDGE"
 },
 "00-0041436": {
-"pos": "RB"
+"pos": "RB",
+"team": "MIA"
 },
 "00-0041438": {
 "pos": "WR",
+"team": "TEN",
 "wr": "Outside"
 },
 "00-0041440": {
 "detail": "DT",
 "idp_name": "Kayden McDonald",
-"pos": "IDL"
+"pos": "IDL",
+"team": "HOU"
 },
 "00-0041441": {
 "detail": "DE",
 "idp_name": "Derrick Moore",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "DET"
 },
 "00-0041442": {
 "detail": "ILB",
 "idp_name": "Jimmy Rolder",
-"pos": "LB"
+"pos": "LB",
+"team": "DET"
 },
 "00-0041443": {
 "pos": "WR",
+"team": "BUF",
 "wr": "Outside"
 },
 "00-0041444": {
 "detail": "ILB",
 "idp_name": "Kaleb Elarms-Orr",
-"pos": "LB"
+"pos": "LB",
+"team": "BUF"
 },
 "00-0041445": {
 "detail": "FS",
 "idp_name": "Keith Abney II",
-"pos": "S"
+"pos": "S",
+"team": "DET"
 },
 "00-0041447": {
 "detail": "DT",
 "idp_name": "Skyler Gill-Howard",
-"pos": "IDL"
+"pos": "IDL",
+"team": "DET"
 },
 "00-0041449": {
 "detail": "ILB",
@@ -6205,32 +7698,38 @@
 "00-0041455": {
 "detail": "ILB",
 "idp_name": "Erick Hunter",
-"pos": "LB"
+"pos": "LB",
+"team": "NE"
 },
 "00-0041459": {
 "detail": "DE",
 "idp_name": "Eric O'Neill",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "DET"
 },
 "00-0041462": {
 "detail": "CB",
 "idp_name": "Colton Hood",
-"pos": "CB"
+"pos": "CB",
+"team": "NYG"
 },
 "00-0041464": {
 "detail": "CB",
 "idp_name": "Tacario Davis",
-"pos": "CB"
+"pos": "CB",
+"team": "CIN"
 },
 "00-0041465": {
 "detail": "ILB",
 "idp_name": "Wade Woodaz",
-"pos": "LB"
+"pos": "LB",
+"team": "HOU"
 },
 "00-0041466": {
 "detail": "SCB",
 "idp_name": "Kamari Ramsey",
-"pos": "CB"
+"pos": "CB",
+"team": "HOU"
 },
 "00-0041467": {
 "pos": "WR",
@@ -6239,84 +7738,102 @@
 "00-0041469": {
 "detail": "CB",
 "idp_name": "Avieon Terrell",
-"pos": "CB"
+"pos": "CB",
+"team": "ATL"
 },
 "00-0041470": {
 "detail": "CB",
 "idp_name": "Brandon Cisse",
-"pos": "CB"
+"pos": "CB",
+"team": "GB"
 },
 "00-0041471": {
 "detail": "FS",
 "idp_name": "Emmanuel McNeil-Warren",
-"pos": "S"
+"pos": "S",
+"team": "CLE"
 },
 "00-0041472": {
-"pos": "TE"
+"pos": "TE",
+"team": "HOU"
 },
 "00-0041478": {
 "detail": "DT",
 "idp_name": "Lee Hunter",
-"pos": "IDL"
+"pos": "IDL",
+"team": "CAR"
 },
 "00-0041479": {
 "detail": "ILB",
 "idp_name": "Anthony Hill Jr.",
-"pos": "LB"
+"pos": "LB",
+"team": "TEN"
 },
 "00-0041489": {
 "pos": "WR",
+"team": "PIT",
 "wr": "Outside"
 },
 "00-0041490": {
-"pos": "RB"
+"pos": "RB",
+"team": "PIT"
 },
 "00-0041494": {
-"detail": "OLB",
+"detail": "ILB",
 "idp_name": "Zion Young",
-"pos": "EDGE"
+"pos": "LB",
+"team": "BAL"
 },
 "00-0041495": {
 "detail": "ILB",
 "idp_name": "Jake Golday",
-"pos": "LB"
+"pos": "LB",
+"team": "MIN"
 },
 "00-0041496": {
-"pos": "RB"
+"pos": "RB",
+"team": "DEN"
 },
 "00-0041497": {
 "detail": "SCB",
 "idp_name": "Jadon Canady",
-"pos": "CB"
+"pos": "CB",
+"team": "KC"
 },
 "00-0041501": {
 "detail": "DE",
 "idp_name": "R Mason Thomas",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "KC"
 },
 "00-0041502": {
 "detail": "ILB",
 "idp_name": "Josiah Trotter",
-"pos": "LB"
+"pos": "LB",
+"team": "TB"
 },
 "00-0041503": {
-"pos": "TE"
+"pos": "TE",
+"team": "JAX"
 },
 "00-0041508": {
 "detail": "DE",
 "idp_name": "Keldric Faulk",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "TEN"
 },
 "00-0041509": {
 "detail": "ILB",
 "idp_name": "Arvell Reese",
-"pos": "LB"
+"pos": "LB",
+"team": "NYG"
 },
 "00-0041510": {
 "pos": "TE"
 },
 "00-0041511": {
 "pos": "WR",
+"team": "NYJ",
 "wr": "Slot"
 },
 "00-0041512": {
@@ -6325,117 +7842,161 @@
 "00-0041518": {
 "detail": "ILB",
 "idp_name": "Bryce Boettcher",
-"pos": "LB"
+"pos": "LB",
+"team": "IND"
 },
 "00-0041522": {
 "detail": "ILB",
 "idp_name": "Jacob Rodriguez",
-"pos": "LB"
+"pos": "LB",
+"team": "MIA"
 },
 "00-0041523": {
 "pos": "WR",
+"team": "MIA",
 "wr": "Outside"
 },
 "00-0041524": {
-"pos": "TE"
+"pos": "TE",
+"team": "MIA"
 },
 "00-0041525": {
 "pos": "WR",
+"team": "MIA",
 "wr": "Outside"
 },
 "00-0041527": {
-"detail": "SS",
+"detail": "SCB",
 "idp_name": "Kyle Louis",
-"pos": "S"
+"pos": "CB",
+"team": "MIA"
 },
 "00-0041528": {
 "detail": "SS",
 "idp_name": "Michael Taaffe",
-"pos": "S"
+"pos": "S",
+"team": "MIA"
 },
 "00-0041529": {
 "pos": "WR",
+"team": "MIA",
 "wr": "Slot"
 },
 "00-0041531": {
 "detail": "DE",
 "idp_name": "Max Llewellyn",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "MIA"
 },
 "00-0041533": {
 "detail": "SCB",
 "idp_name": "Chris Johnson",
-"pos": "CB"
+"pos": "CB",
+"team": "MIA"
+},
+"00-0041534": {
+"detail": "DT",
+"pos": "IDL",
+"team": "LV"
 },
 "00-0041537": {
 "detail": "OLB",
 "idp_name": "Malachi Lawrence",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "DAL"
 },
 "00-0041538": {
 "detail": "SS",
 "idp_name": "Dillon Thieneman",
-"pos": "S"
+"pos": "S",
+"team": "CHI"
 },
 "00-0041543": {
 "detail": "CB",
 "idp_name": "Mansoor Delane",
-"pos": "CB"
+"pos": "CB",
+"team": "KC"
 },
 "00-0041544": {
 "detail": "OLB",
 "idp_name": "Akheem Mesidor",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "LAC"
 },
 "00-0041545": {
 "detail": "DT",
-"pos": "IDL"
+"pos": "IDL",
+"team": "KC"
 },
 "00-0041546": {
 "detail": "DE",
 "idp_name": "Cashius Howell",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "CIN"
 },
 "00-0041547": {
 "pos": "WR",
+"team": "CLE",
 "wr": "Slot"
 },
 "00-0041549": {
 "detail": "DT",
 "idp_name": "Darrell Jackson Jr.",
-"pos": "IDL"
+"pos": "IDL",
+"team": "NYJ"
 },
 "00-0041550": {
 "pos": "WR",
+"team": "LAC",
 "wr": "Outside"
+},
+"00-0041552": {
+"detail": "DE",
+"pos": "IDL",
+"team": "DEN"
 },
 "00-0041556": {
 "detail": "DE",
 "idp_name": "Romello Height",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "SF"
 },
 "00-0041557": {
 "detail": "DT",
 "idp_name": "Gracen Halton",
-"pos": "IDL"
+"pos": "IDL",
+"team": "SF"
 },
 "00-0041558": {
-"pos": "TE"
+"pos": "TE",
+"team": "CHI"
+},
+"00-0041561": {
+"pos": "QB",
+"team": "ARI"
 },
 "00-0041562": {
-"pos": "QB"
+"pos": "QB",
+"team": "LV"
 },
 "00-0041563": {
 "detail": "CB",
 "idp_name": "Jermod McCoy",
-"pos": "CB"
+"pos": "CB",
+"team": "LV"
+},
+"00-0041565": {
+"pos": "QB",
+"team": "PIT"
 },
 "00-0041569": {
 "detail": "OLB",
 "idp_name": "Gabe Jacas",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "NE"
 },
 "00-0041579": {
-"pos": "TE"
+"pos": "TE",
+"team": "MIA"
 }
 }
