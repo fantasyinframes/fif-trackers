@@ -20,8 +20,8 @@ Every **Tuesday and Wednesday morning** (about 8 AM Eastern), GitHub runs `.gith
 | `data/offense.js` | Offense Fantasy Points Tracker (free) |
 | `data/idp.js` | IDP trackers (free and premium) |
 
-The tracker pages themselves are in `trackers/`. Upload those to WordPress once; they don't need re-uploading
-when stats change.
+The tracker pages themselves are **not** stored here (this repo is public); they live only in WordPress.
+They don't need re-uploading when stats change.
 
 ## Data rules
 
