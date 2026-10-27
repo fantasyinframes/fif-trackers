@@ -1692,7 +1692,8 @@
 "00-0036037": {
 "detail": "SS",
 "idp_name": "Sam Franklin Jr.",
-"pos": "S"
+"pos": "S",
+"team": "BUF"
 },
 "00-0036040": {
 "pos": "TE",
@@ -2084,7 +2085,7 @@
 "team": "KC"
 },
 "00-0036388": {
-"detail": "SS",
+"detail": "FS",
 "idp_name": "Xavier McKinney",
 "pos": "S",
 "team": "GB"
@@ -2239,6 +2240,10 @@
 "idp_name": "Talanoa Hufanga",
 "pos": "S",
 "team": "DEN"
+},
+"00-0036567": {
+"pos": "RB",
+"team": "PHI"
 },
 "00-0036568": {
 "detail": "DT",
@@ -2836,6 +2841,10 @@
 },
 "00-0037085": {
 "pos": "RB"
+},
+"00-0037086": {
+"pos": "TE",
+"team": "PHI"
 },
 "00-0037091": {
 "pos": "WR",
@@ -5113,6 +5122,10 @@
 "pos": "LB",
 "team": "NO"
 },
+"00-0039631": {
+"pos": "TE",
+"team": "CIN"
+},
 "00-0039632": {
 "detail": "FS",
 "idp_name": "PJ Jules",
@@ -5320,7 +5333,7 @@
 "team": "GB"
 },
 "00-0039813": {
-"detail": "FS",
+"detail": "SS",
 "idp_name": "Evan Williams",
 "pos": "S",
 "team": "GB"
@@ -6697,6 +6710,10 @@
 "pos": "IDL",
 "team": "NYG"
 },
+"00-0040704": {
+"pos": "QB",
+"team": "CLE"
+},
 "00-0040705": {
 "pos": "WR",
 "team": "TEN",
@@ -7017,7 +7034,8 @@
 "00-0040908": {
 "detail": "OLB",
 "idp_name": "Keyshawn James-Newby",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "PHI"
 },
 "00-0040914": {
 "detail": "SS",
@@ -7815,6 +7833,10 @@
 "idp_name": "Anthony Hill Jr.",
 "pos": "LB",
 "team": "TEN"
+},
+"00-0041483": {
+"pos": "TE",
+"team": "PHI"
 },
 "00-0041489": {
 "pos": "WR",
