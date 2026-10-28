@@ -257,7 +257,7 @@
 "detail": "DT",
 "idp_name": "DeForest Buckner",
 "pos": "IDL",
-"team": "IND"
+"team": "SF"
 },
 "00-0032385": {
 "pos": "WR",
@@ -3783,7 +3783,8 @@
 "pos": "LB"
 },
 "00-0038440": {
-"pos": "RB"
+"pos": "RB",
+"team": "CHI"
 },
 "00-0038454": {
 "pos": "RB",
@@ -6499,6 +6500,11 @@
 "pos": "EDGE",
 "team": "LA"
 },
+"00-0040581": {
+"pos": "WR",
+"team": "LV",
+"wr": "Outside"
+},
 "00-0040582": {
 "pos": "WR",
 "wr": "Outside"
@@ -7066,9 +7072,9 @@
 "wr": "Outside"
 },
 "00-0040957": {
-"detail": "SS",
+"detail": "SCB",
 "idp_name": "Xavier Nwankpa",
-"pos": "S",
+"pos": "CB",
 "team": "KC"
 },
 "00-0040959": {
@@ -7617,6 +7623,10 @@
 "detail": "SS",
 "idp_name": "Wydett Williams Jr.",
 "pos": "S"
+},
+"00-0041376": {
+"pos": "RB",
+"team": "NYG"
 },
 "00-0041381": {
 "detail": "CB",
