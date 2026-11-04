@@ -875,7 +875,7 @@
 "team": "SF"
 },
 "00-0034397": {
-"detail": "DT",
+"detail": "DE",
 "idp_name": "Tim Settle",
 "pos": "IDL",
 "team": "WAS"
@@ -1697,7 +1697,7 @@
 "team": "BAL"
 },
 "00-0036037": {
-"detail": "SS",
+"detail": "FS",
 "idp_name": "Sam Franklin Jr.",
 "pos": "S",
 "team": "BUF"
@@ -2101,7 +2101,7 @@
 "pos": "QB"
 },
 "00-0036395": {
-"detail": "SS",
+"detail": "FS",
 "idp_name": "K'Von Wallace",
 "pos": "S",
 "team": "BAL"
@@ -2337,7 +2337,8 @@
 "00-0036643": {
 "detail": "ILB",
 "idp_name": "K.J. Britt",
-"pos": "LB"
+"pos": "LB",
+"team": "DET"
 },
 "00-0036646": {
 "pos": "WR",
@@ -4301,7 +4302,7 @@
 "team": "DET"
 },
 "00-0038823": {
-"detail": "SS",
+"detail": "FS",
 "idp_name": "Kaevon Merriweather",
 "pos": "S",
 "team": "JAX"
@@ -4400,7 +4401,7 @@
 "wr": "Outside"
 },
 "00-0038980": {
-"detail": "DT",
+"detail": "DE",
 "idp_name": "Zach Harrison",
 "pos": "IDL",
 "team": "ATL"
@@ -4900,7 +4901,7 @@
 },
 "00-0039373": {
 "pos": "RB",
-"team": "CLE"
+"team": "NO"
 },
 "00-0039374": {
 "detail": "ILB",
@@ -5119,6 +5120,10 @@
 "idp_name": "Julius Wood",
 "pos": "S",
 "team": "MIA"
+},
+"00-0039577": {
+"pos": "QB",
+"team": "BAL"
 },
 "00-0039589": {
 "pos": "WR",
@@ -5815,7 +5820,7 @@
 "team": "BAL"
 },
 "00-0040104": {
-"detail": "FS",
+"detail": "SS",
 "idp_name": "Keondre Jackson",
 "pos": "S",
 "team": "BAL"
@@ -7546,7 +7551,7 @@
 },
 "00-0041178": {
 "pos": "RB",
-"team": "SEA"
+"team": "WAS"
 },
 "00-0041188": {
 "detail": "CB",
@@ -7657,6 +7662,11 @@
 "idp_name": "James Thompson Jr.",
 "pos": "IDL",
 "team": "SF"
+},
+"00-0041368": {
+"pos": "WR",
+"team": "ARI",
+"wr": "Slot"
 },
 "00-0041370": {
 "detail": "SS",
