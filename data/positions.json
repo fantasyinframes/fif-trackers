@@ -52,7 +52,7 @@
 "team": "LV"
 },
 "00-0029606": {
-"detail": "FS",
+"detail": "SS",
 "idp_name": "Harrison Smith",
 "pos": "S",
 "team": "MIN"
@@ -109,6 +109,7 @@
 },
 "00-0031235": {
 "pos": "WR",
+"team": "MIN",
 "wr": "Outside"
 },
 "00-0031236": {
@@ -327,6 +328,7 @@
 },
 "00-0032775": {
 "pos": "WR",
+"team": "SF",
 "wr": "Outside"
 },
 "00-0032803": {
@@ -405,7 +407,7 @@
 },
 "00-0033119": {
 "pos": "QB",
-"team": "ARI"
+"team": "BAL"
 },
 "00-0033120": {
 "detail": "DT",
@@ -452,7 +454,7 @@
 "team": "MIN"
 },
 "00-0033294": {
-"detail": "SS",
+"detail": "FS",
 "idp_name": "Chuck Clark",
 "pos": "S",
 "team": "DET"
@@ -541,6 +543,7 @@
 },
 "00-0033555": {
 "pos": "WR",
+"team": "NE",
 "wr": "Outside"
 },
 "00-0033576": {
@@ -580,12 +583,13 @@
 "detail": "DT",
 "idp_name": "Davon Godchaux",
 "pos": "IDL",
-"team": "NO"
+"team": "JAX"
 },
 "00-0033868": {
-"detail": "DE",
+"detail": "OLB",
 "idp_name": "Myles Garrett",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "LA"
 },
 "00-0033869": {
 "pos": "QB",
@@ -875,7 +879,7 @@
 "team": "SF"
 },
 "00-0034397": {
-"detail": "DE",
+"detail": "DT",
 "idp_name": "Tim Settle",
 "pos": "IDL",
 "team": "WAS"
@@ -921,12 +925,14 @@
 },
 "00-0034487": {
 "pos": "WR",
+"team": "BUF",
 "wr": "Outside"
 },
 "00-0034488": {
-"detail": "SS",
+"detail": "SCB",
 "idp_name": "Tavierre Thomas",
-"pos": "S"
+"pos": "CB",
+"team": "MIN"
 },
 "00-0034573": {
 "detail": "CB",
@@ -1641,7 +1647,7 @@
 "00-0035719": {
 "pos": "WR",
 "team": "SF",
-"wr": "Outside"
+"wr": "Slot"
 },
 "00-0035763": {
 "detail": "DE",
@@ -1674,7 +1680,8 @@
 "00-0035895": {
 "detail": "ILB",
 "idp_name": "Joe Bachie",
-"pos": "LB"
+"pos": "LB",
+"team": "DET"
 },
 "00-0035900": {
 "detail": "ILB",
@@ -1697,7 +1704,7 @@
 "team": "BAL"
 },
 "00-0036037": {
-"detail": "FS",
+"detail": "SS",
 "idp_name": "Sam Franklin Jr.",
 "pos": "S",
 "team": "BUF"
@@ -1768,6 +1775,11 @@
 "idp_name": "Anfernee Jennings",
 "pos": "EDGE",
 "team": "NO"
+},
+"00-0036199": {
+"detail": "FS",
+"pos": "S",
+"team": "BUF"
 },
 "00-0036204": {
 "detail": "DT",
@@ -2023,9 +2035,9 @@
 "wr": "Outside"
 },
 "00-0036348": {
-"detail": "SS",
+"detail": "SCB",
 "idp_name": "Joshua Metellus",
-"pos": "S",
+"pos": "CB",
 "team": "MIN"
 },
 "00-0036349": {
@@ -2618,7 +2630,7 @@
 "detail": "FS",
 "idp_name": "Andre Cisco",
 "pos": "S",
-"team": "NYJ"
+"team": "DET"
 },
 "00-0036942": {
 "detail": "DT",
@@ -3297,7 +3309,8 @@
 "wr": "Outside"
 },
 "00-0037557": {
-"pos": "RB"
+"pos": "RB",
+"team": "LA"
 },
 "00-0037561": {
 "detail": "SS",
@@ -4012,9 +4025,9 @@
 "team": "PIT"
 },
 "00-0038578": {
-"detail": "SCB",
+"detail": "SS",
 "idp_name": "Jay Ward",
-"pos": "CB",
+"pos": "S",
 "team": "MIN"
 },
 "00-0038579": {
@@ -4024,7 +4037,8 @@
 "00-0038580": {
 "detail": "OLB",
 "idp_name": "Yasir Abdullah",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "ATL"
 },
 "00-0038587": {
 "detail": "SS",
@@ -4054,7 +4068,7 @@
 "team": "LV"
 },
 "00-0038596": {
-"detail": "SS",
+"detail": "FS",
 "idp_name": "Antonio Johnson",
 "pos": "S",
 "team": "JAX"
@@ -4081,7 +4095,7 @@
 "team": "MIA"
 },
 "00-0038605": {
-"detail": "SS",
+"detail": "FS",
 "idp_name": "JL Skinner",
 "pos": "S",
 "team": "DEN"
@@ -4147,7 +4161,7 @@
 "team": "DAL"
 },
 "00-0038628": {
-"detail": "FS",
+"detail": "SS",
 "idp_name": "DeMarcco Hellams",
 "pos": "S",
 "team": "ATL"
@@ -4321,6 +4335,11 @@
 "team": "CAR",
 "wr": "Outside"
 },
+"00-0038841": {
+"detail": "CB",
+"pos": "CB",
+"team": "DET"
+},
 "00-0038848": {
 "detail": "CB",
 "idp_name": "Anthony Kendall",
@@ -4449,9 +4468,9 @@
 "team": "NYG"
 },
 "00-0039002": {
-"detail": "SCB",
+"detail": "SS",
 "idp_name": "Sydney Brown",
-"pos": "CB",
+"pos": "S",
 "team": "ATL"
 },
 "00-0039006": {
@@ -4637,7 +4656,7 @@
 "team": "PHI"
 },
 "00-0039141": {
-"detail": "FS",
+"detail": "SS",
 "pos": "S",
 "team": "DET"
 },
@@ -4824,6 +4843,11 @@
 "idp_name": "Trevin Wallace",
 "pos": "LB",
 "team": "NYJ"
+},
+"00-0039352": {
+"detail": "OLB",
+"pos": "EDGE",
+"team": "DAL"
 },
 "00-0039353": {
 "detail": "CB",
@@ -5066,6 +5090,11 @@
 "pos": "WR",
 "team": "NYJ",
 "wr": "Slot"
+},
+"00-0039458": {
+"detail": "SS",
+"pos": "S",
+"team": "JAX"
 },
 "00-0039460": {
 "detail": "ILB",
@@ -5529,7 +5558,7 @@
 "00-0039868": {
 "pos": "WR",
 "team": "DEN",
-"wr": "Slot"
+"wr": "Outside"
 },
 "00-0039872": {
 "detail": "SS",
@@ -5611,6 +5640,11 @@
 "pos": "WR",
 "team": "BUF",
 "wr": "Outside"
+},
+"00-0039906": {
+"detail": "DE",
+"pos": "IDL",
+"team": "WAS"
 },
 "00-0039908": {
 "detail": "DT",
@@ -5878,7 +5912,8 @@
 },
 "00-0040134": {
 "pos": "WR",
-"wr": "Outside"
+"team": "DEN",
+"wr": "Slot"
 },
 "00-0040136": {
 "detail": "OLB",
@@ -6318,6 +6353,11 @@
 "team": "LAC",
 "wr": "Outside"
 },
+"00-0040314": {
+"detail": "DE",
+"pos": "IDL",
+"team": "WAS"
+},
 "00-0040318": {
 "detail": "ILB",
 "idp_name": "Ale Kaho",
@@ -6412,6 +6452,11 @@
 },
 "00-0040431": {
 "pos": "WR",
+"wr": "Outside"
+},
+"00-0040432": {
+"pos": "WR",
+"team": "ATL",
 "wr": "Outside"
 },
 "00-0040434": {
@@ -7067,6 +7112,11 @@
 "team": "LV",
 "wr": "Outside"
 },
+"00-0040904": {
+"detail": "DT",
+"pos": "IDL",
+"team": "SEA"
+},
 "00-0040905": {
 "detail": "SS",
 "idp_name": "Cole Wisniewski",
@@ -7154,6 +7204,11 @@
 "idp_name": "Sonny Styles",
 "pos": "LB",
 "team": "WAS"
+},
+"00-0041029": {
+"pos": "WR",
+"team": "NO",
+"wr": "Outside"
 },
 "00-0041031": {
 "detail": "OLB",
@@ -7430,7 +7485,7 @@
 "00-0041099": {
 "pos": "WR",
 "team": "NO",
-"wr": "Outside"
+"wr": "Slot"
 },
 "00-0041100": {
 "pos": "WR",
@@ -7568,6 +7623,11 @@
 "pos": "EDGE",
 "team": "JAX"
 },
+"00-0041219": {
+"detail": "DT",
+"pos": "IDL",
+"team": "JAX"
+},
 "00-0041227": {
 "detail": "ILB",
 "idp_name": "Tahj Chambers",
@@ -7646,7 +7706,7 @@
 "team": "TB"
 },
 "00-0041354": {
-"detail": "SS",
+"detail": "FS",
 "idp_name": "Jacob Thomas",
 "pos": "S",
 "team": "MIN"
@@ -7803,7 +7863,7 @@
 "team": "BUF"
 },
 "00-0041445": {
-"detail": "FS",
+"detail": "SS",
 "idp_name": "Keith Abney II",
 "pos": "S",
 "team": "DET"
@@ -8081,7 +8141,7 @@
 "wr": "Outside"
 },
 "00-0041552": {
-"detail": "DE",
+"detail": "DT",
 "pos": "IDL",
 "team": "DEN"
 },
