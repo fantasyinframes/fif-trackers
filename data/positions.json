@@ -72,7 +72,8 @@
 "team": "SF"
 },
 "00-0030061": {
-"pos": "TE"
+"pos": "TE",
+"team": "PHI"
 },
 "00-0030070": {
 "detail": "DT",
@@ -83,7 +84,7 @@
 "00-0030279": {
 "pos": "WR",
 "team": "SF",
-"wr": "Slot"
+"wr": "Outside"
 },
 "00-0030294": {
 "detail": "SS",
@@ -233,6 +234,11 @@
 "pos": "EDGE",
 "team": "SEA"
 },
+"00-0032103": {
+"detail": "ILB",
+"pos": "LB",
+"team": "LAC"
+},
 "00-0032104": {
 "pos": "RB",
 "team": "JAX"
@@ -284,7 +290,8 @@
 },
 "00-0032398": {
 "pos": "WR",
-"wr": "Outside"
+"team": "BAL",
+"wr": "Slot"
 },
 "00-0032399": {
 "detail": "SS",
@@ -392,9 +399,10 @@
 "team": "NE"
 },
 "00-0033093": {
-"detail": "DT",
+"detail": "DE",
 "idp_name": "Jonathan Bullard",
-"pos": "EDGE"
+"pos": "IDL",
+"team": "DAL"
 },
 "00-0033106": {
 "pos": "QB",
@@ -626,7 +634,8 @@
 "team": "DEN"
 },
 "00-0033885": {
-"pos": "TE"
+"pos": "TE",
+"team": "LAC"
 },
 "00-0033886": {
 "detail": "OLB",
@@ -821,7 +830,8 @@
 "00-0034357": {
 "detail": "SS",
 "idp_name": "Isaiah Oliver",
-"pos": "CB"
+"pos": "S",
+"team": "TEN"
 },
 "00-0034361": {
 "detail": "SS",
@@ -883,7 +893,7 @@
 "team": "SF"
 },
 "00-0034397": {
-"detail": "DT",
+"detail": "DE",
 "idp_name": "Tim Settle",
 "pos": "IDL",
 "team": "WAS"
@@ -972,7 +982,7 @@
 "detail": "SS",
 "idp_name": "Jessie Bates III",
 "pos": "S",
-"team": "ATL"
+"team": "JAX"
 },
 "00-0034720": {
 "detail": "ILB",
@@ -1091,7 +1101,8 @@
 "00-0034825": {
 "detail": "DE",
 "idp_name": "Arden Key",
-"pos": "EDGE"
+"pos": "EDGE",
+"team": "IND"
 },
 "00-0034827": {
 "pos": "WR",
@@ -1114,7 +1125,7 @@
 "wr": "Outside"
 },
 "00-0034843": {
-"detail": "CB",
+"detail": "SCB",
 "idp_name": "Mike Hughes",
 "pos": "CB",
 "team": "ATL"
@@ -1352,6 +1363,10 @@
 "idp_name": "Charles Omenihu",
 "pos": "IDL",
 "team": "WAS"
+},
+"00-0035282": {
+"pos": "QB",
+"team": "TB"
 },
 "00-0035286": {
 "detail": "ILB",
@@ -1703,6 +1718,11 @@
 "idp_name": "Christian Rozeboom",
 "pos": "LB"
 },
+"00-0035946": {
+"detail": "DT",
+"pos": "IDL",
+"team": "LAC"
+},
 "00-0035993": {
 "pos": "QB",
 "team": "BAL"
@@ -1767,7 +1787,8 @@
 "wr": "Outside"
 },
 "00-0036187": {
-"pos": "RB"
+"pos": "RB",
+"team": "NE"
 },
 "00-0036192": {
 "detail": "OLB",
@@ -2112,6 +2133,11 @@
 "idp_name": "Alohi Gilman",
 "pos": "S",
 "team": "KC"
+},
+"00-0036386": {
+"detail": "FS",
+"pos": "S",
+"team": "NYG"
 },
 "00-0036388": {
 "detail": "FS",
@@ -2515,6 +2541,11 @@
 "pos": "IDL",
 "team": "HOU"
 },
+"00-0036884": {
+"detail": "CB",
+"pos": "CB",
+"team": "CAR"
+},
 "00-0036887": {
 "pos": "TE",
 "team": "SF"
@@ -2703,7 +2734,8 @@
 "team": "SF"
 },
 "00-0036973": {
-"pos": "RB"
+"pos": "RB",
+"team": "NO"
 },
 "00-0036974": {
 "detail": "CB",
@@ -2714,7 +2746,7 @@
 "00-0036980": {
 "pos": "WR",
 "team": "PHI",
-"wr": "Slot"
+"wr": "Outside"
 },
 "00-0036981": {
 "detail": "DE",
@@ -2791,7 +2823,7 @@
 "team": "DAL"
 },
 "00-0036998": {
-"detail": "FS",
+"detail": "SS",
 "idp_name": "Jev\u00f3n Holland",
 "pos": "S",
 "team": "NYG"
@@ -2803,7 +2835,8 @@
 "team": "SEA"
 },
 "00-0037004": {
-"pos": "TE"
+"pos": "TE",
+"team": "ARI"
 },
 "00-0037005": {
 "pos": "TE",
@@ -3128,7 +3161,7 @@
 "team": "TB"
 },
 "00-0037270": {
-"detail": "DE",
+"detail": "DT",
 "idp_name": "Otito Ogbonnia",
 "pos": "IDL",
 "team": "DAL"
@@ -3149,8 +3182,12 @@
 "pos": "TE",
 "team": "ARI"
 },
+"00-0037282": {
+"pos": "TE",
+"team": "DAL"
+},
 "00-0037283": {
-"detail": "DT",
+"detail": "DE",
 "idp_name": "John Ridgeway III",
 "pos": "IDL",
 "team": "NO"
@@ -3218,7 +3255,7 @@
 "team": "ATL"
 },
 "00-0037320": {
-"detail": "CB",
+"detail": "SCB",
 "idp_name": "Deane Leonard",
 "pos": "CB",
 "team": "LAC"
@@ -3374,15 +3411,16 @@
 "team": "LV"
 },
 "00-0037616": {
-"detail": "FS",
+"detail": "SCB",
 "idp_name": "Nick Cross",
-"pos": "S",
+"pos": "CB",
 "team": "WAS"
 },
 "00-0037633": {
 "detail": "ILB",
 "idp_name": "Jake Hummel",
-"pos": "LB"
+"pos": "LB",
+"team": "HOU"
 },
 "00-0037661": {
 "detail": "CB",
@@ -3537,7 +3575,7 @@
 "team": "NYG"
 },
 "00-0037839": {
-"detail": "SCB",
+"detail": "CB",
 "idp_name": "Cobie Durant",
 "pos": "CB",
 "team": "DAL"
@@ -3547,9 +3585,9 @@
 "team": "LA"
 },
 "00-0037841": {
-"detail": "FS",
+"detail": "SCB",
 "idp_name": "Quentin Lake",
-"pos": "S",
+"pos": "CB",
 "team": "LA"
 },
 "00-0037842": {
@@ -3597,7 +3635,8 @@
 },
 "00-0038090": {
 "pos": "WR",
-"wr": "Outside"
+"team": "GB",
+"wr": "Slot"
 },
 "00-0038098": {
 "pos": "RB",
@@ -3728,7 +3767,7 @@
 "pos": "S"
 },
 "00-0038386": {
-"detail": "DT",
+"detail": "DE",
 "idp_name": "Jalen Carter",
 "pos": "IDL",
 "team": "PHI"
@@ -3847,6 +3886,11 @@
 "idp_name": "Claudin Cherelus",
 "pos": "LB"
 },
+"00-0038496": {
+"pos": "WR",
+"team": "NYG",
+"wr": "Slot"
+},
 "00-0038498": {
 "pos": "TE"
 },
@@ -3879,7 +3923,7 @@
 },
 "00-0038519": {
 "pos": "WR",
-"team": "KC",
+"team": "HOU",
 "wr": "Slot"
 },
 "00-0038521": {
@@ -3943,7 +3987,7 @@
 "detail": "ILB",
 "idp_name": "Daiyan Henley",
 "pos": "LB",
-"team": "DEN"
+"team": "LAC"
 },
 "00-0038554": {
 "detail": "FS",
@@ -4222,7 +4266,8 @@
 "team": "ARI"
 },
 "00-0038685": {
-"pos": "RB"
+"pos": "RB",
+"team": "GB"
 },
 "00-0038694": {
 "detail": "DT",
@@ -4241,7 +4286,8 @@
 "00-0038711": {
 "detail": "ILB",
 "idp_name": "Mohamoud Diabate",
-"pos": "LB"
+"pos": "LB",
+"team": "TEN"
 },
 "00-0038715": {
 "detail": "FS",
@@ -4263,10 +4309,10 @@
 "wr": "Outside"
 },
 "00-0038742": {
-"detail": "OLB",
+"detail": "DE",
 "idp_name": "Tyrus Wheat",
 "pos": "EDGE",
-"team": "DAL"
+"team": "DET"
 },
 "00-0038764": {
 "detail": "ILB",
@@ -4465,7 +4511,7 @@
 },
 "00-0038997": {
 "pos": "WR",
-"team": "IND",
+"team": "KC",
 "wr": "Slot"
 },
 "00-0038998": {
@@ -4628,7 +4674,7 @@
 "team": "HOU"
 },
 "00-0039110": {
-"detail": "DE",
+"detail": "DT",
 "idp_name": "Keeanu Benton",
 "pos": "IDL",
 "team": "PIT"
@@ -4832,6 +4878,7 @@
 },
 "00-0039342": {
 "pos": "WR",
+"team": "CAR",
 "wr": "Outside"
 },
 "00-0039343": {
@@ -5083,7 +5130,8 @@
 "00-0039433": {
 "detail": "DT",
 "idp_name": "Marcus Harris",
-"pos": "IDL"
+"pos": "IDL",
+"team": "KC"
 },
 "00-0039435": {
 "detail": "ILB",
@@ -5204,9 +5252,9 @@
 "pos": "S"
 },
 "00-0039681": {
-"detail": "SCB",
+"detail": "FS",
 "idp_name": "Tyler Owens",
-"pos": "CB",
+"pos": "S",
 "team": "WAS"
 },
 "00-0039686": {
@@ -5302,7 +5350,7 @@
 "team": "NE"
 },
 "00-0039772": {
-"detail": "SCB",
+"detail": "CB",
 "idp_name": "Josh Wallace",
 "pos": "CB",
 "team": "LA"
@@ -5543,7 +5591,7 @@
 "team": "NO"
 },
 "00-0039861": {
-"detail": "SS",
+"detail": "FS",
 "idp_name": "Tyler Nubin",
 "pos": "S",
 "team": "NYG"
@@ -5966,7 +6014,7 @@
 "team": "TB"
 },
 "00-0040144": {
-"detail": "DT",
+"detail": "DE",
 "idp_name": "Jamaree Caldwell",
 "pos": "IDL",
 "team": "LAC"
@@ -6164,7 +6212,8 @@
 "00-0040192": {
 "detail": "SCB",
 "idp_name": "Jordan Hancock",
-"pos": "CB"
+"pos": "CB",
+"team": "BUF"
 },
 "00-0040194": {
 "pos": "TE",
@@ -6365,14 +6414,15 @@
 "wr": "Outside"
 },
 "00-0040314": {
-"detail": "DE",
+"detail": "DT",
 "pos": "IDL",
 "team": "WAS"
 },
 "00-0040318": {
 "detail": "ILB",
 "idp_name": "Ale Kaho",
-"pos": "LB"
+"pos": "LB",
+"team": "WAS"
 },
 "00-0040326": {
 "detail": "ILB",
@@ -6409,6 +6459,11 @@
 "idp_name": "Danny Striggow",
 "pos": "EDGE",
 "team": "JAX"
+},
+"00-0040347": {
+"detail": "CB",
+"pos": "CB",
+"team": "IND"
 },
 "00-0040352": {
 "pos": "WR",
@@ -6720,7 +6775,8 @@
 "00-0040655": {
 "detail": "DT",
 "idp_name": "Keith Cooper Jr.",
-"pos": "IDL"
+"pos": "IDL",
+"team": "MIA"
 },
 "00-0040660": {
 "detail": "DE",
@@ -6729,7 +6785,7 @@
 "team": "SF"
 },
 "00-0040662": {
-"detail": "DT",
+"detail": "DE",
 "idp_name": "Ty Robinson",
 "pos": "IDL",
 "team": "PHI"
@@ -6785,7 +6841,8 @@
 "00-0040678": {
 "detail": "DE",
 "idp_name": "Derrick Harmon",
-"pos": "IDL"
+"pos": "IDL",
+"team": "PIT"
 },
 "00-0040679": {
 "detail": "SCB",
@@ -7397,7 +7454,7 @@
 "wr": "Outside"
 },
 "00-0041072": {
-"detail": "DE",
+"detail": "DT",
 "idp_name": "Nick Barrett",
 "pos": "IDL",
 "team": "LAC"
@@ -7577,6 +7634,11 @@
 "pos": "LB",
 "team": "CAR"
 },
+"00-0041120": {
+"detail": "FS",
+"pos": "S",
+"team": "NYJ"
+},
 "00-0041123": {
 "pos": "QB",
 "team": "NE"
@@ -7592,7 +7654,7 @@
 "00-0041132": {
 "pos": "WR",
 "team": "IND",
-"wr": "Slot"
+"wr": "Outside"
 },
 "00-0041133": {
 "pos": "TE",
@@ -7656,6 +7718,11 @@
 "00-0041227": {
 "detail": "ILB",
 "idp_name": "Tahj Chambers",
+"pos": "LB",
+"team": "IND"
+},
+"00-0041236": {
+"detail": "ILB",
 "pos": "LB",
 "team": "IND"
 },
